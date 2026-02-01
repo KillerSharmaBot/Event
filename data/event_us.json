@@ -1,0 +1,66 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Encuesta FF",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1769810400",
+        "End": "1770008399",
+        "LinkAlt": "https://survey-site.com?fid=eba827c639faef9de13147344157df25&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769835600",
+        "End": "1772081999",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Morse Launch",
+        "Start": "1770008400",
+        "End": "1770094799",
+        "Link": "V2_mallType_1_firstTab_4_storeid_102000055",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHMo0202_880x520_es.png"
+      },
+      {
+        "Title": "CS S35",
+        "Start": "1769922000",
+        "End": "1770008399",
+        "Link": "V2_Team_1_Match_6_Map_1_Game_15",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/CS350102_1750x1070_es.png"
+      },
+      {
+        "Title": "BP S38",
+        "Start": "1769922000",
+        "End": "1770008399",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0"
+      },
+      {
+        "Title": "Prime Store Rotation",
+        "Start": "1769922000",
+        "End": "1770008399",
+        "Link": "V2_mallType_1_firstTab_106",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHPri0201_880x520_es.png"
+      },
+      {
+        "Title": "Yuji Emote + Backpack",
+        "Start": "1770008400",
+        "End": "1770181199",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWYu0131_1750x1070_es.png"
+      },
+      {
+        "Title": "Prime Store Rotation",
+        "Start": "1770008400",
+        "End": "1770094799",
+        "Link": "V2_mallType_1_firstTab_106",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHPri0201_880x520_es.png"
+      }
+    ]
+  }
+}
