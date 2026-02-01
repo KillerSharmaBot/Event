@@ -1,0 +1,55 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Survei Pengalaman FF\n",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB38/ID/20230121_jansurvey/anno.jpg",
+        "Link": "https://survey-site.com?fid=eba827c639faef9de13147344157df25&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Hi Survivors! \n\nBantu kami berkembang lebih baik lagi! Yuk isi survey di bawah ini dan sampaikan pendapatmu untuk Free Fire yang lebih baik lagi kedepannya. Saran kamu berarti loh! \n\nKlik tombol di bawah ini sekarang!",
+        "Start": "1769767200",
+        "End": "1769965140",
+        "LinkAlt": "https://survey-site.com?fid=eba827c639faef9de13147344157df25&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#15 Booyah Pass S38 - ",
+        "Start": "1769914800",
+        "End": "1769943599",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0"
+      },
+      {
+        "Title": "#16 Moco Store - Katana - Cosmic Core (907104918) (Orange)",
+        "Start": "1770001200",
+        "End": "1770087599",
+        "Link": "V2_chestId_28"
+      },
+      {
+        "Title": "#35 Battle Rush Day 2",
+        "Start": "1769943600",
+        "End": "1770001199",
+        "Link": "https://youtube.com/live/FM78raapwx8"
+      },
+      {
+        "Title": "#26 Kebangkitan Jujutsu - Monster Truck Jujutsu",
+        "Start": "1770001200",
+        "End": "1770087599",
+        "Link": "15620"
+      },
+      {
+        "Title": "#25 PRIME STORE FEBRUARY",
+        "Start": "1769914800",
+        "End": "1769943599",
+        "Link": "V2_mallType_1_firstTab_106"
+      },
+      {
+        "Title": "#45 Jujutsu Kaisen CS Gameplay",
+        "Start": "1769943600",
+        "End": "1770001199",
+        "Link": "V2_Team_1_Match_6_Map_99_Game_15"
+      }
+    ]
+  }
+}
