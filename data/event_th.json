@@ -1,0 +1,35 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ห้าแยกแห่งแสง",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NeonCityV2_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "1771016399"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/aA2kxztpN3EX4doWA",
+        "Start": "1769965200",
+        "End": "1770051599",
+        "LinkAlt": "https://forms.gle/aA2kxztpN3EX4doWA"
+      }
+    ]
+  },
+  "events": {}
+}
