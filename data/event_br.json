@@ -1,0 +1,46 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Nova Temporada BR",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB51/BR/BR_S49_LK548_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1767261600",
+        "End": "1772333999",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Começou a Copa FF",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/COPA_FF_1400x700_BR_pt.jpg",
+        "Link": "https://www.instagram.com/ffesportsbr/",
+        "Start": "1769828400",
+        "End": "1771815599",
+        "LinkAlt": "https://www.instagram.com/ffesportsbr/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] Nobara Bundle PCQH65",
+        "Start": "1770087600",
+        "End": "1770260399",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Nobara_Bundle_PCQH65_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Yuji Sukuna Theme Fist 98RJF",
+        "Start": "1770087600",
+        "End": "1770173999",
+        "Link": "970650",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Yuji_Sukuna_Theme_Fist_98RJF_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
