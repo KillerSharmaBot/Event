@@ -1,0 +1,24 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769835600",
+        "End": "1772081999",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Yuji Emote + Backpack",
+        "Start": "1770008400",
+        "End": "1770181199",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWYu0131_1750x1070_es.png"
+      }
+    ]
+  }
+}
