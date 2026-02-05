@@ -1,0 +1,78 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "CTV TỔ CHỨC GIẢI ĐẤU",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TuyenCTV.jpg",
+        "Link": "https://forms.gle/64ZGceaPXusqVcS97",
+        "Start": "1770224400",
+        "End": "1770742799",
+        "LinkAlt": "https://forms.gle/64ZGceaPXusqVcS97"
+      },
+      {
+        "Title": "Giải Đấu Tây Ninh 08/02",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TayNinh.jpg",
+        "Link": "https://www.facebook.com/groups/cdfftayninh/permalink/2366181443803860/",
+        "Start": "1770224400",
+        "End": "1770310799",
+        "LinkAlt": "https://www.facebook.com/groups/cdfftayninh/permalink/2366181443803860/"
+      },
+      {
+        "Title": "Giải Đấu Lai Châu 08/02",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/LaiChau.jpg",
+        "Link": "https://www.facebook.com/groups/freefirelaichau/permalink/2072980736618391/",
+        "Start": "1770224400",
+        "End": "1770310799",
+        "LinkAlt": "https://www.facebook.com/groups/freefirelaichau/permalink/2072980736618391/"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: Trend Academy",
+        "Start": "1770483600",
+        "End": "1770742799",
+        "Link": "19"
+      },
+      {
+        "Title": "TW2: (FM) Hyperbook PERSONA",
+        "Start": "1770138000",
+        "End": "1770310799",
+        "Link": "88"
+      },
+      {
+        "Title": "Qua tu chien mua moi",
+        "Start": "1770310800",
+        "End": "1770483599",
+        "Link": "1201254"
+      },
+      {
+        "Title": "TT2: Dark Paradox",
+        "Start": "1770310800",
+        "End": "1770742799",
+        "Link": "34"
+      },
+      {
+        "Title": "LNY Super Collector",
+        "Start": "1770138000",
+        "End": "1770310799",
+        "Link": "https://sl.garena.vn/ff/suutaptet2026?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      }
+    ]
+  }
+}
