@@ -1,0 +1,70 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/260207_ffexsopipay/overview.jpg",
+        "Start": "1770174000",
+        "End": "1770397199"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#15 Choppy Cuts Web Event",
+        "Start": "1770519600",
+        "End": "1770605999",
+        "Link": "15620"
+      },
+      {
+        "Title": "#13 Token Ring - Unisex Bundle - Cosmic Shock Bundle (710049067) (Orange),  Backpack - Cosmic Being (904049006) (Orange), Gloo Wall - Cosmic Fissure (907104939) (Orange)",
+        "Start": "1770346800",
+        "End": "1770433199",
+        "Link": "V2_chestId_88"
+      },
+      {
+        "Title": "#44 Parasut JJK",
+        "Start": "1770462000",
+        "End": "1770519599",
+        "Link": "15662"
+      },
+      {
+        "Title": "#12 BGW",
+        "Start": "1770260400",
+        "End": "1770346799",
+        "Link": "https://youtu.be/fsmy7_sajZM"
+      },
+      {
+        "Title": "#32 Free Fire x Choppy Cuts",
+        "Start": "1770292800",
+        "End": "1770346799",
+        "Link": "15620"
+      },
+      {
+        "Title": "#34 Battle Rush Day 3",
+        "Start": "1770462000",
+        "End": "1770519599",
+        "Link": "https://youtube.com/live/X_KPbSv9thM?feature=share"
+      },
+      {
+        "Title": "#14 Special Interface JJK",
+        "Start": "1770433200",
+        "End": "1770461999",
+        "Link": "V2_eventid_52_entranceId_0"
+      },
+      {
+        "Title": "#5 Battle Rush Day 4",
+        "Start": "1770548400",
+        "End": "1770605999",
+        "Link": "https://youtube.com/live/8cYX9bkHRlQ?feature=share"
+      },
+      {
+        "Title": "#24 Weekly Top Up W1 Feb 2026\n",
+        "Start": "1770433200",
+        "End": "1770461999",
+        "Link": "V2_category_1_groupId_15668"
+      }
+    ]
+  }
+}
