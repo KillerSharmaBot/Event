@@ -1,0 +1,73 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Hà Nội 08/02",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/HaNoi.jpg",
+        "Link": "https://www.facebook.com/groups/cdfreefirehanoi/permalink/1968335780759027/",
+        "Start": "1770310800",
+        "End": "1770397199",
+        "LinkAlt": "https://www.facebook.com/groups/cdfreefirehanoi/permalink/1968335780759027/"
+      },
+      {
+        "Title": "CTV TỔ CHỨC GIẢI ĐẤU",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TuyenCTV.jpg",
+        "Link": "https://forms.gle/64ZGceaPXusqVcS97",
+        "Start": "1770224400",
+        "End": "1770742799",
+        "LinkAlt": "https://forms.gle/64ZGceaPXusqVcS97"
+      },
+      {
+        "Title": "Khảo sát sự kiện bán hàng",
+        "Link": "https://survey-site.com?fid=3f68b47336a927a9d09b6c709ef04e87&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1770310800",
+        "End": "1770569999",
+        "LinkAlt": "https://survey-site.com?fid=3f68b47336a927a9d09b6c709ef04e87&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Giải Đấu An Giang 08/02",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/AnGiang.jpg",
+        "Link": "https://www.facebook.com/groups/cdffkiengiang/permalink/3348400648669914/",
+        "Start": "1770310800",
+        "End": "1770397199",
+        "LinkAlt": "https://www.facebook.com/groups/cdffkiengiang/permalink/3348400648669914/"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: Trend Academy",
+        "Start": "1770483600",
+        "End": "1770742799",
+        "Link": "19"
+      },
+      {
+        "Title": "Qua tu chien mua moi",
+        "Start": "1770310800",
+        "End": "1770483599",
+        "Link": "1201254"
+      },
+      {
+        "Title": "TT2: Dark Paradox",
+        "Start": "1770310800",
+        "End": "1770742799",
+        "Link": "34"
+      }
+    ]
+  }
+}
