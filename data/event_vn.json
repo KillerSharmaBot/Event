@@ -1,0 +1,71 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Khảo sát cộng đồng",
+        "Link": "https://ind.survey-site.com?fid=8025d307a8fc3d65bc508a03f9d7c9c6&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1770570000",
+        "End": "1771174799",
+        "LinkAlt": "https://ind.survey-site.com?fid=8025d307a8fc3d65bc508a03f9d7c9c6&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "CTV TỔ CHỨC GIẢI ĐẤU",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TuyenCTV.jpg",
+        "Link": "https://forms.gle/64ZGceaPXusqVcS97",
+        "Start": "1770224400",
+        "End": "1770742799",
+        "LinkAlt": "https://forms.gle/64ZGceaPXusqVcS97"
+      },
+      {
+        "Title": "Giải Đấu Quảng Ninh 15/02",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/QuangNinh.png",
+        "Link": "https://www.facebook.com/groups/488621311749431/permalink/1919168238694724/",
+        "Start": "1770570000",
+        "End": "1770656399",
+        "LinkAlt": "https://www.facebook.com/groups/488621311749431/permalink/1919168238694724/"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: Trend Academy",
+        "Start": "1770483600",
+        "End": "1770742799",
+        "Link": "19"
+      },
+      {
+        "Title": "Tu do Tet",
+        "Start": "1770692400",
+        "End": "1770829199",
+        "Link": "https://tet26.ff.garena.vn/?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "TT2: Dark Paradox",
+        "Start": "1770310800",
+        "End": "1770742799",
+        "Link": "34"
+      },
+      {
+        "Title": "FW2: MP40 - Chromasonic",
+        "Start": "1770742800",
+        "End": "1771001999",
+        "Link": "29"
+      }
+    ]
+  }
+}
