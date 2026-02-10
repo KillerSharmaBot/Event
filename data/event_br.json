@@ -1,0 +1,95 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Nova Temporada BR",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB51/BR/BR_S49_LK548_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1767261600",
+        "End": "1772333999",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Música Nova!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Alok_Collab_Song_1400x700_BR_pt.jpg",
+        "Link": "https://youtu.be/bgUlOrkBkZM",
+        "Start": "1770706800",
+        "End": "1772334000",
+        "LinkAlt": "https://youtu.be/bgUlOrkBkZM"
+      },
+      {
+        "Title": "Você escolhe! ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Voting_Supermarket_Started_1400x700_BR_pt.png",
+        "Link": "https://www.instagram.com/p/DUidBqfEZt9/?img_index=1",
+        "Start": "1770606000",
+        "End": "1770865199",
+        "LinkAlt": "https://www.instagram.com/freefirebr_oficial/"
+      },
+      {
+        "Title": "O Baile vai começar ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Event_Preheat_1400x700_BR_pt.png",
+        "Start": "1770274800",
+        "End": "1770865200"
+      },
+      {
+        "Title": "Baile de recompensas",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Rewards_Preheat_1400x700_BR_pt1.png",
+        "Start": "1770274800",
+        "End": "1772334000"
+      },
+      {
+        "Title": "Novas Mecânicas ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Gameplay_Preheat_1400x700_BR_pt1.png",
+        "Start": "1770274800",
+        "End": "1770865200"
+      },
+      {
+        "Title": "Começou a Copa FF",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/COPA_FF_1400x700_BR_pt.jpg",
+        "Link": "https://www.instagram.com/ffesportsbr/",
+        "Start": "1769828400",
+        "End": "1771815599",
+        "LinkAlt": "https://www.instagram.com/ffesportsbr/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] JJK Last Days",
+        "Start": "1770692400",
+        "End": "1770951599",
+        "Link": "970635",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/JJK_Last_Days_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Carnaval Top Up Bonus",
+        "Start": "1770951600",
+        "End": "1771037999",
+        "Link": "60651",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Carnaval_Top_Up_Bonus_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Black Jaguar Bundles 76GTN",
+        "Start": "1770951600",
+        "End": "1771124399",
+        "Link": "970664",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Black_Jaguar_Bundles_76GTN_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Emote Bonde da Jaguarette PGJ98",
+        "Start": "1770692400",
+        "End": "1770778799",
+        "Link": "970660",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Emote_Bonde_da_Jaguarette_PGJ98_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
