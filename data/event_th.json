@@ -1,0 +1,151 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ห้าแยกแห่งแสง",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NeonCityV2_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "1771016399"
+      },
+      {
+        "Title": "GM รออ่านอยู่! จัดมาให้เต็มที่ในแบบสอบถามนี้!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeKairos_336x580.ff_extend",
+        "Details": "แพตช์ใหม่พุ่งพอไหม? หรืออยากให้พุ่งกว่านี้!!  \n\n \n\nร่วมตอบแบบสำรวจความพึงพอใจในแพตช์ใหม่ \n\n \n\nและเป็นส่วนหนึ่งในการทำให้ฟีฟายพุ่งทะยานไปยิ่งกว่าเดิม! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 11 กุมภาพันธ์ 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1770640200",
+        "End": "1770829199",
+        "LinkAlt": "https://survey-site.com?fid=31bdbeaad68506af54ae4b6067828086&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/aA2kxztpN3EX4doWA",
+        "Start": "1770742800",
+        "End": "1770829199",
+        "LinkAlt": "https://forms.gle/aA2kxztpN3EX4doWA"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Feb26_WV1_PurpleGun",
+        "Start": "1770829200",
+        "End": "1770915599",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_WV1_PurpleGun.png"
+      },
+      {
+        "Title": "TH_Jan26_MS_IIV_Nobara",
+        "Start": "1770829200",
+        "End": "1770915599",
+        "Link": "V2_shopId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jan26_MS_IIV_Nobara.png"
+      },
+      {
+        "Title": "TH_Jan26_TT3_IIV_Bundle_Gojo",
+        "Start": "1770915600",
+        "End": "1771001999",
+        "Link": "V2_chestId_35",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jan26_TT3_IIV_Bundle_Gojo_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Feb26_WV1_PurpleGun",
+        "Start": "1770742800",
+        "End": "1770829199",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_WV1_PurpleGun.png"
+      },
+      {
+        "Title": "2026Jan_JJK_Playwithfriends_games_OverviewBG_3",
+        "Start": "1770829200",
+        "End": "1770915599",
+        "Link": "V2_category_5_groupId_56222",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Jan_JJK_Playwithfriends_games_OverviewBG_3.png"
+      },
+      {
+        "Title": "TH_Feb26_BP38",
+        "Start": "1770742800",
+        "End": "1770829199",
+        "Link": "V2_BPTYPE_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_BP38.png"
+      },
+      {
+        "Title": "TH_Feb26_Web_LoverMarket",
+        "Start": "1771002000",
+        "End": "1771088399",
+        "Link": "https://lovermarket.freefire.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_Web_LoverMarket.png"
+      },
+      {
+        "Title": "TH_Jan26_TW4_IIV_Sukuna",
+        "Start": "1770915600",
+        "End": "1771001999",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jan26_TW4_IIV_Sukuna.png"
+      },
+      {
+        "Title": "TH_Jan26_TT2_IIV_Fist",
+        "Start": "1770915600",
+        "End": "1771001999",
+        "Link": "V2_chestId_34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jan26_TT2_IIV_Fist_DynamicBG.png"
+      },
+      {
+        "Title": "Feb_Survey_esports",
+        "Start": "1770829200",
+        "End": "1770915599",
+        "Link": "https://survey-site.com?fid=14f89e20e61fc46aa924a5ec2a3bc917&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Feb_Survey_esports.png"
+      },
+      {
+        "Title": "TH_Feb26_Evopass",
+        "Start": "1770742800",
+        "End": "1770829199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_Evopass.png"
+      },
+      {
+        "Title": "TH_Feb26_TG3_Special_Valentine_Series",
+        "Start": "1771002000",
+        "End": "1771088399",
+        "Link": "V2_chestId_64",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_TG3_Special_Valentine_Series_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Feb26_Web_LoverMarket",
+        "Start": "1770951600",
+        "End": "1771001999",
+        "Link": "https://lovermarket.freefire.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_Web_LoverMarket.png"
+      },
+      {
+        "Title": "2026Jan_JJK_Travel_m_OverviewBG_1",
+        "Start": "1770829200",
+        "End": "1770915599",
+        "Link": "V2_category_5_groupId_56226",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Jan_JJK_Travel_m_OverviewBG_1.png"
+      },
+      {
+        "Title": "FFWS_TH_Spring_Knockout_Stage_Day_4",
+        "Start": "1770984000",
+        "End": "1770998400",
+        "Link": "https://youtube.com/live/FMdCAyeDrnE?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/FFWS_TH_Spring_Knockout_Stage_Day_4.png"
+      }
+    ]
+  }
+}
