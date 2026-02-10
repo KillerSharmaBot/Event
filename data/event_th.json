@@ -1,0 +1,67 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ห้าแยกแห่งแสง",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NeonCityV2_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "1771016399"
+      },
+      {
+        "Title": "GM รออ่านอยู่! จัดมาให้เต็มที่ในแบบสอบถามนี้!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeKairos_336x580.ff_extend",
+        "Details": "แพตช์ใหม่พุ่งพอไหม? หรืออยากให้พุ่งกว่านี้!!  \n\n \n\nร่วมตอบแบบสำรวจความพึงพอใจในแพตช์ใหม่ \n\n \n\nและเป็นส่วนหนึ่งในการทำให้ฟีฟายพุ่งทะยานไปยิ่งกว่าเดิม! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 11 กุมภาพันธ์ 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1770640200",
+        "End": "1770829199",
+        "LinkAlt": "https://survey-site.com?fid=31bdbeaad68506af54ae4b6067828086&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/aA2kxztpN3EX4doWA",
+        "Start": "1770656400",
+        "End": "1770742799",
+        "LinkAlt": "https://forms.gle/aA2kxztpN3EX4doWA"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "2026Jan_JJK_Play_games_OverviewBG_1",
+        "Start": "1770656400",
+        "End": "1770742799",
+        "Link": "V2_category_10_groupId_56331",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Jan_JJK_Play_games_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Feb26_TG2_Pineapple",
+        "Start": "1770656400",
+        "End": "1770742799",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_TG2_Pineapple.png"
+      },
+      {
+        "Title": "TH_Feb26_WV1_PurpleGun",
+        "Start": "1770656400",
+        "End": "1770742799",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_WV1_PurpleGun.png"
+      }
+    ]
+  }
+}
