@@ -1,0 +1,47 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1770660000",
+        "End": "1771045199",
+        "LinkAlt": "https://ind.survey-site.com?fid=2af7f1bfca21b4f73955427d10a05574&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1770660000",
+        "End": "1771045199",
+        "LinkAlt": "https://ind.survey-site.com?fid=460b28e0bdbfb8c93174f64f009d9567&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769835600",
+        "End": "1772081999",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Duo Emote + Female Valentine´s",
+        "Start": "1770440400",
+        "End": "1770785999",
+        "Link": "59",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWDu0207_1750x107099_es.png"
+      },
+      {
+        "Title": "Nobara Bundle\t",
+        "Start": "1770613200",
+        "End": "1770785999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/MSNo0130_1750x1070_es.png"
+      }
+    ]
+  }
+}
