@@ -1,0 +1,81 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1770660000",
+        "End": "1771045199",
+        "LinkAlt": "https://ind.survey-site.com?fid=2af7f1bfca21b4f73955427d10a05574&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1770660000",
+        "End": "1771045199",
+        "LinkAlt": "https://ind.survey-site.com?fid=460b28e0bdbfb8c93174f64f009d9567&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769835600",
+        "End": "1772081999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Torneo de Influencers",
+        "Banner": "OB52/US/torneodeinfluencers_1400x700.png",
+        "Start": "1770854400",
+        "End": "1771217999",
+        "LinkAlt": "V2_url_\"https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpdbed28bd3139056b28a1b4a0fc44b2e4\""
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Diamond Bonus",
+        "Start": "1771045200",
+        "End": "1771217999",
+        "Link": "V2_category_1_tabType_1_groupId_60744"
+      },
+      {
+        "Title": "Gojo Bundle + Emote",
+        "Start": "1770958800",
+        "End": "1771045199",
+        "Link": "34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTGo0114_880x520_es.png"
+      },
+      {
+        "Title": "Paradox Katanas + Emote",
+        "Start": "1770786000",
+        "End": "1770958799",
+        "Link": "72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/WVPK0211_1750x1070_es.png"
+      },
+      {
+        "Title": "EVO MP40 2.0 Relaunch",
+        "Start": "1770958800",
+        "End": "1771045199",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWEV0213_1750x1070_es.png"
+      },
+      {
+        "Title": "Dúo Épico",
+        "Start": "1770872400",
+        "End": "1770958799",
+        "Link": "V2_category_6_groupId_51025",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/DEP0212_1750x1070_es.png"
+      },
+      {
+        "Title": "Paradox Legendary Bundle Relaunch",
+        "Start": "1771045200",
+        "End": "1771217999",
+        "Link": "33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTSO0214_1750x1070_es.png"
+      }
+    ]
+  }
+}
