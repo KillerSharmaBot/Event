@@ -1,0 +1,52 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/260207_ffexsopipay2/overview.jpg",
+        "Start": "1770829200",
+        "End": "1771088399"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#26 Ramadan Booyah 2026 - Sambut Ramadan!",
+        "Start": "1771210800",
+        "End": "1771297199",
+        "Link": "15666"
+      },
+      {
+        "Title": "#23 Preheat Ramadan - Bermuda Jadi Gurun",
+        "Start": "1770951600",
+        "End": "1771037999",
+        "Link": "15694"
+      },
+      {
+        "Title": "#35 Grand Finals Battle Rush ",
+        "Start": "1771153200",
+        "End": "1771210799",
+        "Link": "https://www.youtube.com/watch?v=SJ860471yMQ"
+      },
+      {
+        "Title": "#16 Token Ring - Flashing Spade (710000726) (Orange), Blazing Heart (710000725) (Orange)",
+        "Start": "1771210800",
+        "End": "1771297199",
+        "Link": "V2_chestId_99"
+      },
+      {
+        "Title": "#13 Luck Royale - Emote FFWC Throne (909000014) (Orange), Emote Slippery Throne (909047005) (Orange), Emote Disco Dazzle (909049018) (Orange), Emote - Dangerous Game (909000016) (Blue), Emote - Dab (909000005) (Green)",
+        "Start": "1770951600",
+        "End": "1771037999",
+        "Link": "V2_chestId_16"
+      },
+      {
+        "Title": "#24 Ramadan Booyah 2026 - Magic Shop Pt. 1",
+        "Start": "1771038000",
+        "End": "1771124399",
+        "Link": "15663"
+      }
+    ]
+  }
+}
