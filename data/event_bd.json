@@ -1,0 +1,114 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "All Esports Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/AllEsportsUpdatesSplasgBD_en.jpg",
+        "Start": "1771092000",
+        "End": "1771696799",
+        "LinkAlt": "https://www.facebook.com/ffesportsbdofficial"
+      },
+      {
+        "Title": "FF X GINTAMA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_FFOxGintamaAnnoBD_en.jpg",
+        "Start": "1771106400",
+        "End": "1772301599"
+      },
+      {
+        "Title": "Full Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FullMatchActionAnnoBD_en.jpg",
+        "Start": "1771092000",
+        "End": "1771696799",
+        "LinkAlt": "https://www.youtube.com/@ffesportsbdofficial"
+      },
+      {
+        "Title": "One-Tap Moments",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OneTapMomentsAnnoBD_en.jpg",
+        "Start": "1771092000",
+        "End": "1771696799",
+        "LinkAlt": "https://www.tiktok.com/@ffesports.bd"
+      },
+      {
+        "Title": "Play of the Day",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PlayOfTheDaySplashBD_en.jpg",
+        "Start": "1771092000",
+        "End": "1771696799",
+        "LinkAlt": "https://www.instagram.com/ffesports.bd/"
+      },
+      {
+        "Title": "Lost Treasure Trailer",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_LostTreasureAnnoBD_en.jpg",
+        "Start": "1771020000",
+        "End": "1771387199",
+        "LinkAlt": "https://youtu.be/vH8cFLfYec0"
+      },
+      {
+        "Title": "TREASURE SHARE PILLAR",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TreasureShareAnno0216NewBD_en.jpg",
+        "Start": "1771171200",
+        "End": "1771430400",
+        "LinkAlt": "https://www.facebook.com/share/p/1DSC4g5qqF/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Treasure Share Pillar",
+        "Start": "1771279200",
+        "End": "1771365599",
+        "Link": "https://www.facebook.com/share/p/1DSC4g5qqF/",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TreasureSharePillarSplashBD_en.jpg"
+      },
+      {
+        "Title": "Ramadan Web Event Launch",
+        "Start": "1771387200",
+        "End": "1771451999",
+        "Link": "https://treasureshare.sea.redflamenco.com/?region=<FF_REGION>&lang=<FF_LANGUAGE>&access_token=<GARENA_TOKEN>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RamadanWebEventLaunch0218SplashBD_en.jpg"
+      },
+      {
+        "Title": "Moco Store: MAGICAL LAMP x Koi Descend ARRIVAL ANIMATIONS**",
+        "Start": "1771538400",
+        "End": "1771624799",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MSMagicLampSplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE ",
+        "Start": "1771387200",
+        "End": "1771451999",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure0218SplashBD_en.jpg"
+      },
+      {
+        "Title": "Ramadan Cup PCV",
+        "Start": "1771279200",
+        "End": "1771365599",
+        "Link": "https://www.facebook.com/share/p/18KHC7RiT2/",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RamadanCupPCVSplashBD_en.jpg"
+      },
+      {
+        "Title": "Ramadan Ring: OLD RAMADAN BUNDLES*",
+        "Start": "1771452000",
+        "End": "1771538399",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RamadanRingOldBundlesSplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE FULL CG",
+        "Start": "1771452000",
+        "End": "1771538399",
+        "Link": "https://youtu.be/GgETC6jjZSY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasureFullCGSplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE BEGINS",
+        "Start": "1771538400",
+        "End": "1771624799",
+        "Link": "V2_category_5_groupID_99350",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasureBeginsSplashBD_en.jpg"
+      }
+    ]
+  }
+}
