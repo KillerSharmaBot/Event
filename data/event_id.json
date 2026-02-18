@@ -1,0 +1,28 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/shopeepay_1/overview3.jpg",
+        "Start": "1771401600",
+        "End": "1771660799"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#!1 Moco store - Winchester - Rafael's Rage (907105102) (Purple)",
+        "Start": "1771383600",
+        "End": "1771469999",
+        "Link": "V2_chestId_28"
+      },
+      {
+        "Title": "#21 BGW",
+        "Start": "1771416000",
+        "End": "1771469999",
+        "Link": "https://www.youtube.com/watch?v=9IBv1tlo-Uc&feature=youtu.be"
+      }
+    ]
+  }
+}
