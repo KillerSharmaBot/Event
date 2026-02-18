@@ -1,0 +1,58 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "FF X GINTAMA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FFGinOKen_en.jpg",
+        "Start": "1771120800",
+        "End": "1772315999"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "Lost Treasure Trailer",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LTTeaser_en.jpg",
+        "Start": "1771034400",
+        "End": "1771401599",
+        "LinkAlt": "https://youtu.be/W3q53wbom2Q"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "ERHeartattack",
+        "Start": "1771293600",
+        "End": "1771379999",
+        "Link": "V2_chestId_22",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ERHeartattack_en.jpg"
+      },
+      {
+        "Title": "LTKelly",
+        "Start": "1771293600",
+        "End": "1771379999",
+        "Link": "https://youtu.be/mWQ81ftfxi4",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LTKellyShow_en.jpg"
+      }
+    ]
+  }
+}
