@@ -1,0 +1,29 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/shopeepay_1/overview3.jpg",
+        "Start": "1771401600",
+        "End": "1771660799"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#11 Special Interface Ramadan - B (3;4;5)",
+        "Start": "1771470000",
+        "End": "1771556399",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/asjcb1973f8/supersplash_v2.png"
+      },
+      {
+        "Title": "#21 In-game Changes - Weapon in Shrunken Chamber",
+        "Start": "1771502400",
+        "End": "1771556399",
+        "Link": "V2_Team_1_Match_2_Map_99_Game_1"
+      }
+    ]
+  }
+}
