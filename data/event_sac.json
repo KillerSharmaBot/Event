@@ -1,0 +1,59 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "VOTA POR TU FAVORITO",
+        "Banner": "OB52/US/votenow_1400x700.png",
+        "Start": "1771254000",
+        "End": "1771729140",
+        "LinkAlt": "https://freefireawards.com/"
+      },
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769828400",
+        "End": "1772074799",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Paradox Legendary Bundle Relaunch",
+        "Start": "1771383600",
+        "End": "1771556399",
+        "Link": "33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTSO0214_1750x1070_es.png"
+      },
+      {
+        "Title": "Paradox AK47 + AN94 Superchargers Incubator Relaunch",
+        "Start": "1771383600",
+        "End": "1771556399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWPA0218_1750x1070_es.png"
+      },
+      {
+        "Title": "Paradox AK47 + AN94 Superchargers Incubator Relaunch",
+        "Start": "1771556400",
+        "End": "1771642799",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWPA0218_1750x1070_es.png"
+      },
+      {
+        "Title": "Superstar Bundle + TRAP 1.0 Bundles + Music Emotes                ",
+        "Start": "1771556400",
+        "End": "1771815599",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/LWSU0220_1750x1070_es.png"
+      },
+      {
+        "Title": "Coachella Fist",
+        "Start": "1771642800",
+        "End": "1771901999",
+        "Link": "34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTCOO221_1750x1070_es.png"
+      }
+    ]
+  }
+}
