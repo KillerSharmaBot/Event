@@ -1,0 +1,67 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¡Ayúdanos!",
+        "Banner": "OB47/US/AyudaFF_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1771617600",
+        "End": "1771851600",
+        "LinkAlt": "https://survey-site.com?fid=f44b322fb399fb691769f85318fa14a8&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "VOTA POR TU FAVORITO",
+        "Banner": "OB52/US/votenow_1400x700.png",
+        "Start": "1771254000",
+        "End": "1771729140",
+        "LinkAlt": "https://freefireawards.com/"
+      },
+      {
+        "Title": "¡Vive el Festival del Ritmo!",
+        "Banner": "OB52/US/interfazespecial_1400x700.png",
+        "Start": "1771606800",
+        "End": "1771851600",
+        "LinkAlt": "V2_eventid_53_entranceId_0"
+      },
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769828400",
+        "End": "1772074799",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Paradox AK47 + AN94 Superchargers Incubator Relaunch",
+        "Start": "1771556400",
+        "End": "1771642799",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWPA0218_1750x1070_es.png"
+      },
+      {
+        "Title": "Anita Twerk Emote + Female Bundle + Gloowall                        ",
+        "Start": "1771815600",
+        "End": "1771901999",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWAN0223_1750x1070_es.png"
+      },
+      {
+        "Title": "Superstar Bundle + TRAP 1.0 Bundles + Music Emotes                ",
+        "Start": "1771556400",
+        "End": "1771815599",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/LWSU0220_1750x1070_es.png"
+      },
+      {
+        "Title": "Coachella Fist",
+        "Start": "1771642800",
+        "End": "1771901999",
+        "Link": "34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTCOO221_1750x1070_es.png"
+      }
+    ]
+  }
+}
