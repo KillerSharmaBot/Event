@@ -1,0 +1,56 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Online Tết 2026",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/GiaiOnline.png",
+        "Link": "https://congdong.ff.garena.vn/trang-chu?mainComId=69",
+        "Start": "1771088400",
+        "End": "1771606799",
+        "LinkAlt": "https://congdong.ff.garena.vn/trang-chu?mainComId=69"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW4: Final Shot - Coin Cascade",
+        "Start": "1771779600",
+        "End": "1771952399",
+        "Link": "49"
+      },
+      {
+        "Title": "TW1: Incu YINYANG",
+        "Start": "1771693200",
+        "End": "1771779599",
+        "Link": "87"
+      },
+      {
+        "Title": "FW3: Feathered Aura",
+        "Start": "1771606800",
+        "End": "1771693199",
+        "Link": "39"
+      },
+      {
+        "Title": "TW3: Trogon - Ruby Shot",
+        "Start": "1771520400",
+        "End": "1771606799",
+        "Link": "89"
+      }
+    ]
+  }
+}
