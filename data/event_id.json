@@ -1,0 +1,34 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/shopeepay_1/overview3.jpg",
+        "Start": "1771401600",
+        "End": "1771660799"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#2 FFNS OQ",
+        "Start": "1771570800",
+        "End": "1771588799",
+        "Link": "https://www.youtube.com/watch?v=qf3XzmtUnbM"
+      },
+      {
+        "Title": "#12 Token Ring - Treasure Hunt Trogon (907105222) (Orange) -- use voucher (802000122)",
+        "Start": "1771556400",
+        "End": "1771642799",
+        "Link": "V2_chestId_91"
+      },
+      {
+        "Title": "#22 Squad Treasure / Group Top Up Ramadan Wave 1",
+        "Start": "1771588800",
+        "End": "1771642799",
+        "Link": "V2_squadTreasureId_eventid"
+      }
+    ]
+  }
+}
