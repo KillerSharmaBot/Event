@@ -1,0 +1,94 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "OFF РЕЖИМ ЛИЧНОГО ОСТРОВА",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/CraftlandRUNewsBanner1.jpg",
+        "Start": "1770363694",
+        "End": "1772312399",
+        "LinkAlt": "V2_tabType_1_pageId_6"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "LOST TREASURE FULL CG",
+        "Start": "1771722000",
+        "End": "1771808399",
+        "Link": "https://youtu.be/MmkVb7579VM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LostTreasureFull_CG_RU_OKE48_Splash_ru.jpg"
+      },
+      {
+        "Title": "Moco Store: MAGICAL LAMP",
+        "Start": "1771549200",
+        "End": "1771635599",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MocoStoreMagicalLampXKoiRU_Splash_ru.jpg"
+      },
+      {
+        "Title": "Moco Store: MAGICAL LAMP ",
+        "Start": "1771635600",
+        "End": "1771721999",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MocoStoreMagicalLampXKoiRU_Splash_ru.jpg"
+      },
+      {
+        "Title": " Emote Royale: HEART ATTACK DUO EMOTE",
+        "Start": "1771808400",
+        "End": "1771894799",
+        "Link": "V2_chestId_22",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ERHeartattackRU_ru.jpg"
+      },
+      {
+        "Title": " LOST TREASURE GoPos Interface",
+        "Start": "1771808400",
+        "End": "1771894799",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LostTresaeruInterfaceRU_Splash_ru.jpg"
+      },
+      {
+        "Title": "LOST TREASURE BEGINS mission",
+        "Start": "1771549200",
+        "End": "1771635599",
+        "Link": "V2_category_6_groupID_95385",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LostTreasureBegins_MissionRU_ru.jpg"
+      },
+      {
+        "Title": "Rampage Ascension: LEGENDARY",
+        "Start": "1771722000",
+        "End": "1771808399",
+        "Link": "V2_chestId_34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RampageAscensionRU_ru.jpg"
+      },
+      {
+        "Title": " JOIN THE HUNT",
+        "Start": "1771635600",
+        "End": "1771721999",
+        "Link": "V2_category_6_groupID_95386",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/JoinTheHuntRU_Splash_ru.jpg"
+      }
+    ]
+  }
+}
