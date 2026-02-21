@@ -1,0 +1,122 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "THE MUSIC TAKES OVER",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MusicTakesOverNA_News_en.jpg",
+        "Start": "1771056000",
+        "End": "1774015199"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireUSOfficial/"
+      },
+      {
+        "Title": "Football Player Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Hi Survivor\n\nIn order to improve your gaming experience, we team want to better understand your preferences. Please share your feedback by filling up the survey.\n\nThank you for your time and feedbacks.\n\n- Free Fire Operations Team",
+        "Start": "1770480000",
+        "End": "1772337599",
+        "LinkAlt": "https://na.survey-site.com?fid=163df54a791d37da3ebddc913a16766b&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/Wvmz3ktQ6e"
+      },
+      {
+        "Title": "COMING SOON",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ConingSoon13_NA_NewsBanner_en.jpg",
+        "Start": "1770969600",
+        "End": "1773734399",
+        "LinkAlt": "https://youtu.be/5FiZywoaUeU"
+      },
+      {
+        "Title": "DROP THE BEAT",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/DropTheBeat_NANews_en.jpg",
+        "Start": "1771142400",
+        "End": "1774015199",
+        "LinkAlt": "https://youtu.be/qhTuLH_7cCI"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "How To Earn Tokens (Beat Carnival)  GoPos Interface",
+        "Start": "1771833600",
+        "End": "1771919999",
+        "Link": "V2_eventid_53_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/HowToEarnExchangeToken_NASplash_en.jpg"
+      },
+      {
+        "Title": "Carnival Ring: BEAT BEAST BUNDLE",
+        "Start": "1771574400",
+        "End": "1771660799",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/CR_BeastBundle_SplashNA_es.jpg"
+      },
+      {
+        "Title": "Faded Wheel: PANTHER STRIKES ARRIVAL ANIMATION",
+        "Start": "1771833600",
+        "End": "1771919999",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_PS_NSSpalsh_en.jpg"
+      },
+      {
+        "Title": "Carnival Ring: BEAT BEAST BUNDLE",
+        "Start": "1771660800",
+        "End": "1771747199",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/CR_BeastBundle_SplashNA_es.jpg"
+      },
+      {
+        "Title": "Beat Carnival Interface ",
+        "Start": "1771747200",
+        "End": "1771833599",
+        "Link": "V2_eventid_53_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BC_Interface_SpalshNA_en.jpg"
+      },
+      {
+        "Title": "ALOK'S GUEST LIST ",
+        "Start": "1771660800",
+        "End": "1771747199",
+        "Link": "V2_category_6_groupID_954201",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Aloks_GuestList_NASplash_en.jpg"
+      },
+      {
+        "Title": "Beat Carnival Main CG",
+        "Start": "1771574400",
+        "End": "1771660799",
+        "Link": "https://youtu.be/K8mWDS3kb9s",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BeatCarnivalMainCG_SplashNA_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: PANTHER STRIKES ARRIVAL ANIMATION",
+        "Start": "1771747200",
+        "End": "1771833599",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_PS_NSSpalsh_en.jpg"
+      }
+    ]
+  }
+}
