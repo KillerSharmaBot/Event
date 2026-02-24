@@ -1,0 +1,101 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "FF X GINTAMA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FFGinOKen_en.jpg",
+        "Start": "1771120800",
+        "End": "1772315999"
+      },
+      {
+        "Title": "NEW PIRATE SHIP COMING SOON ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_NoticeEU_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is launching on 01 March 2026!\n\nIt will be launched with March 2026 Booyah Pass via Loop Box.\n\nThe current Pirate Ship Skywing will no longer be available after 28th Feb. ",
+        "Start": "1771668000",
+        "End": "1772315999",
+        "LinkAlt": "V2_BPTYPE_0"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FORTUNE HUNTER",
+        "Start": "1772157600",
+        "End": "1772243999",
+        "Link": "V2_category_5_groupID_26020456",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FHunterOken7_en.jpg"
+      },
+      {
+        "Title": "ROMANCE Top-up",
+        "Start": "1771984800",
+        "End": "1772071199",
+        "Link": "26020420",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RomtopupOKen_en.jpg"
+      },
+      {
+        "Title": "LTCG",
+        "Start": "1772071200",
+        "End": "1772157599",
+        "Link": "https://youtu.be/6cNgYzufGjI",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LTanimaOKen_en.jpg"
+      },
+      {
+        "Title": "Jointhehunt",
+        "Start": "1771898400",
+        "End": "1771984799",
+        "Link": "V2_category_5_groupID_26020416",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/JTHuk90_en.jpg"
+      },
+      {
+        "Title": "MSMythos",
+        "Start": "1772071200",
+        "End": "1772157599",
+        "Link": "V2_chestId_38",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MSfistOKen7_en.jpg"
+      },
+      {
+        "Title": "LTInter",
+        "Start": "1771984800",
+        "End": "1772071199",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LTinter_en.jpg"
+      },
+      {
+        "Title": "MSMythos",
+        "Start": "1772157600",
+        "End": "1772243999",
+        "Link": "V2_chestId_38",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MSfistOKen7_en.jpg"
+      },
+      {
+        "Title": "WROldgloowall",
+        "Start": "1771898400",
+        "End": "1771984799",
+        "Link": "V2_chestId_11",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RAWokh88_en.jpg"
+      }
+    ]
+  }
+}
