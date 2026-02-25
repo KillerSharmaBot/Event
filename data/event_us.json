@@ -1,0 +1,51 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¡Ya esta aquí!",
+        "Banner": "OB52/US/lanzamientocreadores_1400x700.png",
+        "Start": "1771855200",
+        "End": "1772513999",
+        "LinkAlt": "https://creadoresff.garena.com/home"
+      },
+      {
+        "Title": "Final épico",
+        "Banner": "OB52/US/UltDis1400x1000Scrollable.png",
+        "Start": "1769835600",
+        "End": "1772081999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Juguemos Limpio",
+        "Banner": "OB52/US/blockedaccounts_1400x700.png",
+        "Start": "1771736400",
+        "End": "1772168340",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Coachella M+F",
+        "Start": "1771909200",
+        "End": "1772168399",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/EACO0224_1750x1070_es.png"
+      },
+      {
+        "Title": "JKT48 Bundle + Freeze Emote Launch in Store",
+        "Start": "1771995600",
+        "End": "1772168399",
+        "Link": "V2_mallType_1_storeid_710045026"
+      },
+      {
+        "Title": "Anita Twerk Emote + Female Bundle + Gloowall                        ",
+        "Start": "1771909200",
+        "End": "1772168399",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWAN0223_1750x1070_es.png"
+      }
+    ]
+  }
+}
