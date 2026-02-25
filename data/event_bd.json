@@ -1,0 +1,115 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattlUnfoldNewAnnoBD_en.jpg",
+        "Start": "1771696800",
+        "End": "1772301599",
+        "LinkAlt": "https://www.youtube.com/@FreeFireBangladeshOfficialYT"
+      },
+      {
+        "Title": "Reload to Continue",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ReloadToContinueAnnoBD_en.jpg",
+        "Start": "1771610400",
+        "End": "1772042399",
+        "LinkAlt": "https://www.facebook.com/share/r/1KtPEtxGfy/"
+      },
+      {
+        "Title": "Stay In The Loops",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInTheLoopsNewAnno_en.jpg",
+        "Start": "1771696800",
+        "End": "1772301599",
+        "LinkAlt": "https://www.instagram.com/freefirebdofficial/"
+      },
+      {
+        "Title": "NEW PIRATE SHIP COMING SOON ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice2_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is launching on 01 March 2026!\n\nIt will be launched with March 2026 Booyah Pass via Loop Box.\n\nThe current Pirate Ship Skywing will no longer be available after 28th Feb. ",
+        "Start": "1771653600",
+        "End": "1772301599",
+        "LinkAlt": "V2_BPTYPE_0"
+      },
+      {
+        "Title": "FF X GINTAMA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_FFOxGintamaAnnoBD_en.jpg",
+        "Start": "1771106400",
+        "End": "1772301599"
+      },
+      {
+        "Title": "Quick Clips, Big Hits",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_QuickClipsBigHitsNewAnnoBD_en.jpg",
+        "Start": "1771696800",
+        "End": "1772301599",
+        "LinkAlt": "https://www.tiktok.com/@bdofficialfreefire"
+      },
+      {
+        "Title": "Ramadan Grow Together",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RamadanGrowTogetherNewAnnoBD_en.jpg",
+        "Start": "1771783200",
+        "End": "1772301599",
+        "LinkAlt": "https://www.facebook.com/share/r/17b48QX7Sb/"
+      },
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesNewAnnoBD_en.jpg",
+        "Start": "1771696800",
+        "End": "1772301599",
+        "LinkAlt": "https://www.facebook.com/bangladeshofficialfreefire/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FORTUNE HUNTER",
+        "Start": "1772143200",
+        "End": "1772229599",
+        "Link": "V2_category_5_groupID_99392",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FortuneHunterSplashBD_en.jpg"
+      },
+      {
+        "Title": "Moco store: MYTHOS FIST x METEOR PUNCH**",
+        "Start": "1772056800",
+        "End": "1772143199",
+        "Link": "V2_chestId_38",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MSMythosFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE INTERFACE",
+        "Start": "1771970400",
+        "End": "1772056799",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure0218SplashBD_en.jpg"
+      },
+      {
+        "Title": "ROMANCE Top-up",
+        "Start": "1771970400",
+        "End": "1772056799",
+        "Link": "V2_TabType_11_GroupId_99360",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RomanceTopUpSplashBD_en.jpg"
+      },
+      {
+        "Title": "Moco store: MYTHOS FIST x METEOR PUNCH**",
+        "Start": "1772143200",
+        "End": "1772229599",
+        "Link": "V2_chestId_38",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MSMythosFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "JOIN THE HUNT",
+        "Start": "1772229600",
+        "End": "1772315999",
+        "Link": "V2_category_5_groupID_99351",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_JoinTheHuntSplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE FULL CG",
+        "Start": "1772056800",
+        "End": "1772143199",
+        "Link": "https://youtu.be/GgETC6jjZSY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasureFullCGSplashBD_en.jpg"
+      }
+    ]
+  }
+}
