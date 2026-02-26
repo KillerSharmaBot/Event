@@ -1,0 +1,60 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Berburu Berkah FF",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/berburuberkah/qwqwfo1if31f_qwfi1.png",
+        "Link": "https://forms.gle/mByy8RP7hCTHXDpQ6",
+        "Start": "1772038800",
+        "End": "1773939599",
+        "LinkAlt": "https://forms.gle/mByy8RP7hCTHXDpQ6"
+      },
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/shopeepay_ov/snco1iwf13hf1.jpg",
+        "Start": "1772038800",
+        "End": "1772297999"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#13 Faded Wheel - Skywing - Ruby Legend (911005202) (Orange+),  Catchy Melody (909052005)",
+        "Start": "1772190000",
+        "End": "1772247599",
+        "Link": "V2_chestId_29"
+      },
+      {
+        "Title": "#15 Weekly Top Up W4 February 2026",
+        "Start": "1772334000",
+        "End": "1772355599",
+        "Link": "V2_category_1_groupId_15735"
+      },
+      {
+        "Title": "#24 Ramadan Booyah 2026 - Frame Foto Harta Karun",
+        "Start": "1772247600",
+        "End": "1772333999",
+        "Link": "15737"
+      },
+      {
+        "Title": "#12 BGW",
+        "Start": "1772074800",
+        "End": "1772161199",
+        "Link": "https://youtu.be/rISOkaMmGNo"
+      },
+      {
+        "Title": "#22 Reminder Special Interface",
+        "Start": "1772074800",
+        "End": "1772161199",
+        "Link": "V2_eventid_54_entranceId_0"
+      },
+      {
+        "Title": "#3 FFNS Play Ins Day 1",
+        "Start": "1772175600",
+        "End": "1772189999",
+        "Link": "https://youtube.com/live/oMp5F-JGpkg?feature=share"
+      }
+    ]
+  }
+}
