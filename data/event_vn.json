@@ -1,0 +1,73 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Hà Nội 08/03",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/HaNoi0308.png",
+        "Link": "https://sl.garena.vn/ff/plfgcx",
+        "Start": "1772038800",
+        "End": "1772384399",
+        "LinkAlt": "https://sl.garena.vn/ff/plfgcx"
+      },
+      {
+        "Title": "Khảo sát sự kiện Tết 2026",
+        "Link": "https://survey-site.com?fid=787be9de72c3c6bf242a3a6147ce8b10&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1771952400",
+        "End": "1772297999",
+        "LinkAlt": "https://survey-site.com?fid=787be9de72c3c6bf242a3a6147ce8b10&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Giải Đấu Cần Thơ 01/03",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/CanTho.png",
+        "Link": "https://www.facebook.com/groups/cdffcantho/permalink/2734364710280818",
+        "Start": "1772125200",
+        "End": "1772211599",
+        "LinkAlt": "https://www.facebook.com/groups/cdffcantho/permalink/2734364710280818"
+      },
+      {
+        "Title": "Giải Đấu Tây Ninh 01/03",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TayNinh1.png",
+        "Link": "https://www.facebook.com/groups/cdfftayninh/posts/2384368078651863",
+        "Start": "1772125200",
+        "End": "1772211599",
+        "LinkAlt": "https://www.facebook.com/groups/cdfftayninh/posts/2384368078651863"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: Ruby Legend | 911005202",
+        "Start": "1772125200",
+        "End": "1772297999",
+        "Link": "19"
+      },
+      {
+        "Title": "TG1: Treasure Ravager",
+        "Start": "1772384400",
+        "End": "1772557199",
+        "Link": "61"
+      },
+      {
+        "Title": "FW5: BP S39",
+        "Start": "1772298000",
+        "End": "1772384399",
+        "Link": "59"
+      }
+    ]
+  }
+}
