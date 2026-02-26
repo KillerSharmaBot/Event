@@ -1,0 +1,173 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "COMING SOON",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_ComingSoon0213AnnoIND_en.jpg",
+        "Start": "1770935400",
+        "End": "1773700199",
+        "LinkAlt": "https://youtu.be/flW7-p4CuV0"
+      },
+      {
+        "Title": "THE MUSIC TAKES OVER",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TheMusicTakesOverAnnoIND_en.jpg",
+        "Start": "1771021800",
+        "End": "1773980999"
+      },
+      {
+        "Title": "Gameplay Preheat",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_GameplayPreheatAnnoIND_en.jpg",
+        "Start": "1771194600",
+        "End": "1773980999"
+      },
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TheLatestUpdatesINDanno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.instagram.com/freefireindiaofficial/"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_WatchTheBattleUnfoldINDAnno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.youtube.com/@FreeFireIndiaOfficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_StayInLoopAnnIND_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.facebook.com/freefireIND"
+      },
+      {
+        "Title": "FF MAX X GINTAMA",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_FFMxGintamaAnnoIND_en.jpg",
+        "Start": "1771108200",
+        "End": "1772303399"
+      },
+      {
+        "Title": "NEW GAMEPLAY",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_NewGameplay0217AnnoIND_en.jpg",
+        "Start": "1771281000",
+        "End": "1773980999"
+      },
+      {
+        "Title": "DROP THE BEAT",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_DropTheBeatAnnoIND_en.jpg",
+        "Start": "1771108200",
+        "End": "1773980999",
+        "LinkAlt": "https://youtu.be/QUOyGsqgd-c"
+      },
+      {
+        "Title": "NEW PIRATE SHIP COMING SOON ",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/336x580_Notice2_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is launching on 01 March 2026!\n\nIt will be launched with March 2026 Booyah Pass via Loop Box.\n\nThe current Pirate Ship Skywing will no longer be available after 28th Feb. ",
+        "Start": "1771655400",
+        "End": "1772303399",
+        "LinkAlt": "V2_BPTYPE_0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TOURNAMENT BROADCAST Day 1",
+        "Start": "1772107200",
+        "End": "1772127000",
+        "Link": "https://www.youtube.com/watch?v=xlmILyQTmCk&list=PLOR3zOLU_UTFeH8q_E4ggFe8YR2HlqngK",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_TournamentBroadcastDay1_0226_SplashIND_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNTAMED BEAT FIST**",
+        "Start": "1772213401",
+        "End": "1772231399",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FWUntamedBeatSplashIND_en.jpg"
+      },
+      {
+        "Title": "TOURNAMENT BROADCAST Day 2",
+        "Start": "1772193600",
+        "End": "1772213400",
+        "Link": "https://www.youtube.com/watch?v=2gFixRgABDw&list=PLOR3zOLU_UTEQz3NBJ6qktu-ZcHHxCgLY",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_TournamentBroadcastDay2_0227_SplashIND_en.jpg"
+      },
+      {
+        "Title": "Holi Countdown (3 Days)",
+        "Start": "1772317800",
+        "End": "1772404199"
+      },
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772317800",
+        "End": "1772366399",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_BPS39SplashIND_en.jpg"
+      },
+      {
+        "Title": "Carnival Ring: BEAT BEAST BUNDLE**",
+        "Start": "1772231400",
+        "End": "1772279999",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_CarnivalRingBeatBeastSplashIND_en.jpg"
+      },
+      {
+        "Title": "Carnival Ring: BEAT BEAST BUNDLE**",
+        "Start": "1772299801",
+        "End": "1772317799",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_CarnivalRingBeatBeastSplashIND_en.jpg"
+      },
+      {
+        "Title": "CUE THE ENCORE",
+        "Start": "1772231400",
+        "End": "1772317799",
+        "Link": "V2_category_5_groupID_954081",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_CueTheEncoreSplashIND_en.jpg"
+      },
+      {
+        "Title": "CUE THE ENCORE",
+        "Start": "1772145000",
+        "End": "1772231399",
+        "Link": "V2_category_5_groupID_954081",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_CueTheEncoreSplashIND_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNTAMED BEAT FIST**",
+        "Start": "1772127001",
+        "End": "1772144999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FWUntamedBeatSplashIND_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNTAMED BEAT FIST**",
+        "Start": "1772145000",
+        "End": "1772193599",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FWUntamedBeatSplashIND_en.jpg"
+      },
+      {
+        "Title": "HOLI CHECK-IN",
+        "Start": "1772058600",
+        "End": "1772144999",
+        "Link": "V2_category_5_groupID_95385",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_HoliCheckInSplashIND_en.jpg"
+      },
+      {
+        "Title": "TOURNAMENT BROADCAST Day 3",
+        "Start": "1772280000",
+        "End": "1772299800",
+        "Link": "https://www.youtube.com/watch?v=qSgcd75K3mM&list=PLOR3zOLU_UTGCk5hgv6M0bdx0aEbJZgsn",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_TournamentBroadcastDay3_0228_SplashIND_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNTAMED BEAT FIST**",
+        "Start": "1772058600",
+        "End": "1772107199",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FWUntamedBeatSplashIND_en.jpg"
+      }
+    ]
+  }
+}
