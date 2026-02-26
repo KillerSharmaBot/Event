@@ -1,0 +1,104 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¡Ya esta aquí!",
+        "Banner": "OB52/US/lanzamientocreadores_1400x700.png",
+        "Start": "1771855200",
+        "End": "1772513999",
+        "LinkAlt": "https://creadoresff.garena.com/home"
+      },
+      {
+        "Title": "Llegó el momento",
+        "Banner": "OB52/US/ffawardspreheat1400x700.png",
+        "Start": "1772082000",
+        "End": "1772233199",
+        "LinkAlt": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bp973190b40edbcaa65813887a87d25ba0"
+      },
+      {
+        "Title": "Juguemos Limpio",
+        "Banner": "OB52/US/blockedaccounts_1400x700.png",
+        "Start": "1771736400",
+        "End": "1772168340",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Coachella M+F",
+        "Start": "1771909200",
+        "End": "1772168399",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/EACO0224_1750x1070_es.png"
+      },
+      {
+        "Title": "BP S39",
+        "Start": "1772341200",
+        "End": "1772427599",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0"
+      },
+      {
+        "Title": "Marketing KOL",
+        "Start": "1772233200",
+        "End": "1772240400",
+        "Link": "V2_category_2_groupId_2205"
+      },
+      {
+        "Title": "Prime Store Rotation",
+        "Start": "1772341200",
+        "End": "1772427599",
+        "Link": "V2_mallType_1_firstTab_106"
+      },
+      {
+        "Title": "Coachella Arrival Animation + Gloowall        ",
+        "Start": "1772254800",
+        "End": "1772341199",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWCO0228_1750x1070_es.png"
+      },
+      {
+        "Title": "Coachella M+F",
+        "Start": "1772341200",
+        "End": "1772427599",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWCO0227_1750x1070_es.png"
+      },
+      {
+        "Title": "JKT48 Bundle + Freeze Emote Launch in Store",
+        "Start": "1771995600",
+        "End": "1772168399",
+        "Link": "V2_mallType_1_storeid_710045026"
+      },
+      {
+        "Title": "Anita Twerk Emote + Female Bundle + Gloowall                        ",
+        "Start": "1771909200",
+        "End": "1772168399",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWAN0223_1750x1070_es.png"
+      },
+      {
+        "Title": "Coachella Fist",
+        "Start": "1772240401",
+        "End": "1772254799",
+        "Link": "34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTCOO221_1750x1070_es.png"
+      },
+      {
+        "Title": "Coachella Fist",
+        "Start": "1772168400",
+        "End": "1772233199",
+        "Link": "34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TTCOO221_1750x1070_es.png"
+      },
+      {
+        "Title": "Coachella M+F",
+        "Start": "1772168400",
+        "End": "1772341199",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWCO0227_1750x1070_es.png"
+      }
+    ]
+  }
+}
