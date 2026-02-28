@@ -1,0 +1,87 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "LOST TREASURE INTERFACE",
+        "Start": "1772413200",
+        "End": "1772499599",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LostTresaeruInterfaceRU_Splash_ru.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772326800",
+        "End": "1772413199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPS39PremiumSplashRU_ru.jpg"
+      },
+      {
+        "Title": "JOIN THE HUNT",
+        "Start": "1772240400",
+        "End": "1772326799",
+        "Link": "V2_category_6_groupID_95386",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/JoinTheHuntRU_Splash_ru.jpg"
+      },
+      {
+        "Title": "EXPEDITION SQUAD",
+        "Start": "1772499600",
+        "End": "1772585999",
+        "Link": "V2_category_6_groupID_95400",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExpeditionSquadSplashRU_ru.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772413200",
+        "End": "1772499599",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVMP40Chromasonic0326SplashRU_ru.jpg"
+      },
+      {
+        "Title": "Moco store: MYTHOS FIST x METEOR PUNCH**",
+        "Start": "1772240400",
+        "End": "1772326799",
+        "Link": "V2_chestId_38",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MocoStoreMythosFistSplashRU_ru.jpg"
+      },
+      {
+        "Title": "FORTUNE HUNTER",
+        "Start": "1772326800",
+        "End": "1772413199",
+        "Link": "V2_category_6_groupID_95399",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FortuneHunterSplashRU_ru.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772499600",
+        "End": "1772585999",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVMP40Chromasonic0326SplashRU_ru.jpg"
+      }
+    ]
+  }
+}
