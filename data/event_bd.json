@@ -1,0 +1,87 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Recharging the Joy",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RamadanGrowTogetherNewAnnoBD_en.jpg",
+        "Start": "1772042400",
+        "End": "1772387999",
+        "LinkAlt": "https://www.facebook.com/share/r/17b48QX7Sb/"
+      },
+      {
+        "Title": "All Esports Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/AllEsportsUpdatesSplasgBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.facebook.com/ffesportsbdofficial"
+      },
+      {
+        "Title": "Full Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FullMatchActionAnnoBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.youtube.com/@ffesportsbdofficial"
+      },
+      {
+        "Title": "One-Tap Moments",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OneTapMomentsAnnoBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.tiktok.com/@ffesports.bd"
+      },
+      {
+        "Title": "Play of the Day",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PlayOfTheDaySplashBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.instagram.com/ffesports.bd/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "EXPEDITION SQUAD",
+        "Start": "1772488800",
+        "End": "1772575199",
+        "Link": "V2_category_5_groupID_99393",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExpiditionSquadSplashBD_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772402400",
+        "End": "1772488799",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVChromasonicMar26SplashBD_en.jpg"
+      },
+      {
+        "Title": "FORTUNE HUNTER",
+        "Start": "1772316000",
+        "End": "1772402399",
+        "Link": "V2_category_5_groupID_99392",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FortuneHunterSplashBD_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772488800",
+        "End": "1772575199",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVChromasonicMar26SplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE INTERFACE",
+        "Start": "1772402400",
+        "End": "1772488799",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure0218SplashBD_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772316000",
+        "End": "1772402399",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPS39SplashBD_en.jpg"
+      }
+    ]
+  }
+}
