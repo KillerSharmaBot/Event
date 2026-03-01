@@ -1,0 +1,122 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "COMING SOON",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_ComingSoon0213AnnoIND_en.jpg",
+        "Start": "1770935400",
+        "End": "1773700199",
+        "LinkAlt": "https://youtu.be/flW7-p4CuV0"
+      },
+      {
+        "Title": "THE MUSIC TAKES OVER",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TheMusicTakesOverAnnoIND_en.jpg",
+        "Start": "1771021800",
+        "End": "1773980999"
+      },
+      {
+        "Title": "Gameplay Preheat",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_GameplayPreheatAnnoIND_en.jpg",
+        "Start": "1771194600",
+        "End": "1773980999"
+      },
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TheLatestUpdatesINDanno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.instagram.com/freefireindiaofficial/"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_WatchTheBattleUnfoldINDAnno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.youtube.com/@FreeFireIndiaOfficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_StayInLoopAnnIND_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.facebook.com/freefireIND"
+      },
+      {
+        "Title": "NEW GAMEPLAY",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_NewGameplay0217AnnoIND_en.jpg",
+        "Start": "1771281000",
+        "End": "1773980999"
+      },
+      {
+        "Title": "DROP THE BEAT",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_DropTheBeatAnnoIND_en.jpg",
+        "Start": "1771108200",
+        "End": "1773980999",
+        "LinkAlt": "https://youtu.be/QUOyGsqgd-c"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Holi Countdown (1 Day)",
+        "Start": "1772490600",
+        "End": "1772576999",
+        "Link": "V2_category_5_groupID_95407",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_HoliCountdownSplashDay1IND_en.jpg"
+      },
+      {
+        "Title": "Holi Hardtoonz Video",
+        "Start": "1772422200",
+        "End": "1772440200"
+      },
+      {
+        "Title": "Holi Countdown (3 Days)",
+        "Start": "1772317800",
+        "End": "1772404199",
+        "Link": "V2_category_5_groupID_95407",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_HoliCountdownSplashDay3IND_en.jpg"
+      },
+      {
+        "Title": "TOURNAMENT BROADCAST Day 4",
+        "Start": "1772366400",
+        "End": "1772386200",
+        "Link": "https://www.youtube.com/watch?v=KydgIr2tdLU&list=PLOR3zOLU_UTEqwPPvzBDZHFqN6dPqc-of",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_TournamentBroadcastDay4_0301_SplashIND_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772386201",
+        "End": "1772404199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_BPS39SplashNEWIND_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772404200",
+        "End": "1772422199",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_EVMP40ChromasonicSplashIND_en.jpg"
+      },
+      {
+        "Title": "Holi Countdown (2 Days)",
+        "Start": "1772404200",
+        "End": "1772490599",
+        "Link": "V2_category_5_groupID_95407",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_HoliCountdownSplashDay2IND_en.jpg"
+      },
+      {
+        "Title": "Hardtoonz Full Day",
+        "Start": "1772490600",
+        "End": "1772576999"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772440201",
+        "End": "1772490599",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_EVMP40ChromasonicSplashIND_en.jpg"
+      }
+    ]
+  }
+}
