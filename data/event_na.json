@@ -1,0 +1,100 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "THE MUSIC TAKES OVER",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MusicTakesOverNA_News_en.jpg",
+        "Start": "1771056000",
+        "End": "1774015199"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireUSOfficial/"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/Wvmz3ktQ6e"
+      },
+      {
+        "Title": "COMING SOON",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ConingSoon13_NA_NewsBanner_en.jpg",
+        "Start": "1770969600",
+        "End": "1773734399",
+        "LinkAlt": "https://youtu.be/5FiZywoaUeU"
+      },
+      {
+        "Title": "DROP THE BEAT",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/DropTheBeat_NANews_en.jpg",
+        "Start": "1771142400",
+        "End": "1774015199",
+        "LinkAlt": "https://youtu.be/qhTuLH_7cCI"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "CUE THE ENCORE",
+        "Start": "1772524800",
+        "End": "1772611199",
+        "Link": "V2_category_6_groupID_95433",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_CueTheEncoreNA_en.jpg"
+      },
+      {
+        "Title": "THE BEAT DROP",
+        "Start": "1772438400",
+        "End": "1772524799",
+        "Link": "V2_category_6_groupID_95434",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TheBeatDropSplashNA_en.jpg"
+      },
+      {
+        "Title": "Beat Carnival Main CG ",
+        "Start": "1772352000",
+        "End": "1772438399",
+        "Link": "https://youtu.be/K8mWDS3kb9s",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BeatCarnivalMainCG_SplashNA_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772524800",
+        "End": "1772611199",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVMP40Chromasonic0326SplashNA_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772438400",
+        "End": "1772524799",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVMP40Chromasonic0326SplashNA_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772352000",
+        "End": "1772438399",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPS39PremiumSplashNA_en.jpg"
+      }
+    ]
+  }
+}
