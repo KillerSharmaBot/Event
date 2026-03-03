@@ -1,0 +1,44 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "T50 BR",
+        "Banner": "OB52/US/nuevatemporadabr1400x700.png",
+        "Start": "1772456400",
+        "End": "1772693999",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Pharaoh Bundles Relaunch",
+        "Start": "1772593200",
+        "End": "1772765999",
+        "Link": "89"
+      },
+      {
+        "Title": "Coachella Arrival Animation + Gloowall        ",
+        "Start": "1772420400",
+        "End": "1772593199",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWCO0228_1750x1070_es.png"
+      },
+      {
+        "Title": "M14 Coachella + Emote",
+        "Start": "1772506800",
+        "End": "1772593199",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWCOA0302_1750x1070_es.png"
+      },
+      {
+        "Title": "EVO MP40 2.0 Relaunch",
+        "Start": "1772593200",
+        "End": "1772765999",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWEV0213_1750x1070_es.png"
+      }
+    ]
+  }
+}
