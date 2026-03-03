@@ -1,0 +1,101 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "All Esports Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/AllEsportsUpdatesSplasgBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.facebook.com/ffesportsbdofficial"
+      },
+      {
+        "Title": "Iftar Distribution Calendar",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_IftarDistributionCalendarNewAnnoBD_en.jpg",
+        "Start": "1772388000",
+        "End": "1772809200",
+        "LinkAlt": "https://www.facebook.com/share/p/184nogZXLC/"
+      },
+      {
+        "Title": "Full Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FullMatchActionAnnoBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.youtube.com/@ffesportsbdofficial"
+      },
+      {
+        "Title": "One-Tap Moments",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OneTapMomentsAnnoBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.tiktok.com/@ffesports.bd"
+      },
+      {
+        "Title": "Play of the Day",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PlayOfTheDaySplashBD_en.jpg",
+        "Start": "1772301600",
+        "End": "1772906399",
+        "LinkAlt": "https://www.instagram.com/ffesports.bd/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Emote Royale: CATCHY MELODY EMOTE x PIRATE'S FLAG**",
+        "Start": "1772661600",
+        "End": "1772747999",
+        "Link": "V2_chestId_16",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ERCatchyMelodySplashBD_en.jpg"
+      },
+      {
+        "Title": "EXPEDITION SQUAD",
+        "Start": "1772488800",
+        "End": "1772575199",
+        "Link": "V2_category_5_groupID_99393",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExpiditionSquadSplashBD_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE INTERFACE",
+        "Start": "1772575200",
+        "End": "1772661599",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure0218SplashBD_en.jpg"
+      },
+      {
+        "Title": "Emote Royale: CATCHY MELODY EMOTE x PIRATE'S FLAG**",
+        "Start": "1772575200",
+        "End": "1772661599",
+        "Link": "V2_chestId_16",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ERCatchyMelodySplashBD_en.jpg"
+      },
+      {
+        "Title": "TREASURE UNCOVERED",
+        "Start": "1772748000",
+        "End": "1772834399",
+        "Link": "V2_category_5_groupID_99402",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TreasureUncoveredSplashBD_en.jpg"
+      },
+      {
+        "Title": "EXPEDITION SQUAD",
+        "Start": "1772661600",
+        "End": "1772747999",
+        "Link": "V2_category_5_groupID_99393",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExpiditionSquadSplashBD_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: CHROMASONIC MP40 EVO GUN**",
+        "Start": "1772488800",
+        "End": "1772575199",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVChromasonicMar26SplashBD_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772748000",
+        "End": "1772785799",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPS39SplashNEWBD_en.jpg"
+      }
+    ]
+  }
+}
