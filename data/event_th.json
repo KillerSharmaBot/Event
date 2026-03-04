@@ -1,0 +1,174 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Free Fire x Nanyang",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260302-ANC_FFXNanyangV2_1400x700.ff_extend",
+        "Link": "https://www.facebook.com/share/p/1AsKDQo6ut/",
+        "Start": "1772427600",
+        "End": "1773032399",
+        "LinkAlt": "https://www.facebook.com/share/p/1AsKDQo6ut/"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/aA2kxztpN3EX4doWA",
+        "Start": "1772557200",
+        "End": "1772643599",
+        "LinkAlt": "https://forms.gle/aA2kxztpN3EX4doWA"
+      },
+      {
+        "Title": "มาม่าไม่ทันสุกก็ทำเสร็จแล้ว!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeKairos_336x580.ff_extend",
+        "Details": "กิจกรรมสายฟรีเดือนนี้โดนใจไหม? \n\n \n\nมาตอบแบบสำรวจกิจกรรมแจกฟรีเดือนกุมภาพันธ์ \n\n \n\nและทำให้ฟีฟายพุ่งไปได้มากกว่าที่เคย \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 6 มีนาคม 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1772618400",
+        "End": "1772816399",
+        "LinkAlt": "https://survey-site.com?fid=3b68d6b10d0f67211fa634e74e809127&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Mar26_Topup_Monthly",
+        "Start": "1772816400",
+        "End": "1772902799",
+        "Link": "56801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Mar26_BP39",
+        "Start": "1772643600",
+        "End": "1772729999",
+        "Link": "V2_BPTYPE_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_BP39.png"
+      },
+      {
+        "Title": "2026Feb_BC_Travel_m_2Mission_1",
+        "Start": "1772571600",
+        "End": "1772643599",
+        "Link": "V2_category_5_groupId_56626",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Feb_BC_Travel_m_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TG2_Slipper",
+        "Start": "1772643600",
+        "End": "1772729999",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TG2_Slipper.png"
+      },
+      {
+        "Title": "TH_Mar26_TT1_Legendary_Paradox_Preheat2",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TT1_Legendary_Paradox_Preheat2_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Mar26_TW5_Hyperbook_Paradox",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW5_Hyperbook_Paradox.png"
+      },
+      {
+        "Title": "TH_Mar26_Paradox_Token_exchange",
+        "Start": "1772816400",
+        "End": "1772902799",
+        "Link": "V2_category_6_groupId_56810",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Paradox_Token_exchange.png"
+      },
+      {
+        "Title": "TH_Mar26_TT1_Legendary_Paradox",
+        "Start": "1772816400",
+        "End": "1772902799",
+        "Link": "V2_chestId_33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TT1_Legendary_Paradox_DynamicBG.png"
+      },
+      {
+        "Title": "FreeFireFreeFans_2",
+        "Start": "1772557200",
+        "End": "1772643599",
+        "Link": "https://forms.gle/JySdjmTRby3FZawA9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/FreeFireFreeFans_2.png"
+      },
+      {
+        "Title": "2026Feb_BC_Travel_m_2Mission_1",
+        "Start": "1772643600",
+        "End": "1772729999",
+        "Link": "V2_category_5_groupId_56626",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Feb_BC_Travel_m_2Mission_1.png"
+      },
+      {
+        "Title": "2026Mar_BC_Reachrank_Multimission_bg_1",
+        "Start": "1772557200",
+        "End": "1772643599",
+        "Link": "V2_category_5_groupId_56828",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_BC_Reachrank_Multimission_bg_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TT1_Legendary_Paradox_Preheat1",
+        "Start": "1772643600",
+        "End": "1772729999",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TT1_Legendary_Paradox_Preheat1_DynamicBG.png"
+      },
+      {
+        "Title": "2026Feb_BC_ReviveFriend_times_OverviewBG_1",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "Link": "V2_category_5_groupId_56625",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Feb_BC_ReviveFriend_times_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TG2_Slipper",
+        "Start": "1772557200",
+        "End": "1772643599",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TG2_Slipper.png"
+      },
+      {
+        "Title": "2026Feb_BC_Travel_m_2Mission_1",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "Link": "V2_category_5_groupId_56626",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Feb_BC_Travel_m_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TW5_Hyperbook_Paradox",
+        "Start": "1772816400",
+        "End": "1772902799",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW5_Hyperbook_Paradox.png"
+      },
+      {
+        "Title": "TH_Mar26_Paradox_Token_exchange",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "Link": "V2_category_6_groupId_56810",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Paradox_Token_exchange.png"
+      },
+      {
+        "Title": "Esports_FFCM_Day_1",
+        "Start": "1772787600",
+        "End": "1772802000",
+        "Link": "https://youtube.com/live/xSqRJ-pbmRY?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Esports_FFCM_Day_1.png"
+      }
+    ]
+  }
+}
