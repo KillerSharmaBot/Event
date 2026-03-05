@@ -1,0 +1,37 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Ritmo de Alok",
+        "Banner": "OB49/US/ALOKCREATU1400x700.png",
+        "Start": "1772575200",
+        "End": "1772773199",
+        "LinkAlt": "V2_workshopCode_#ALOKFF"
+      },
+      {
+        "Title": "Voces on Fire",
+        "Banner": "OB52/US/VOCESONFIRE1400x700.png",
+        "Start": "1772686800",
+        "End": "1773637199",
+        "LinkAlt": "https://www.youtube.com/watch?v=VuNzQihzN8Q"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "EVO MP40 2.0 Relaunch",
+        "Start": "1772600400",
+        "End": "1772773199",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWEV0213_1750x1070_es.png"
+      },
+      {
+        "Title": "Pharaoh Bundles Relaunch",
+        "Start": "1772600400",
+        "End": "1772773199",
+        "Link": "89"
+      }
+    ]
+  }
+}
