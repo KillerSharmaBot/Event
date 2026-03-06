@@ -1,0 +1,87 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "BP Ring: BP S39 PREMIUM PLUS",
+        "Start": "1772758800",
+        "End": "1772845199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPS39PremiumSplashRU_ru.jpg"
+      },
+      {
+        "Title": "TREASURE UNCOVERED",
+        "Start": "1772931600",
+        "End": "1773017999",
+        "Link": "V2_category_6_groupID_95403",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Treasure_UncoveredSplashRU_ru.jpg"
+      },
+      {
+        "Title": "M1887 Ring: SANDSTORM SHIMMER**",
+        "Start": "1772931600",
+        "End": "1773017999",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_M1887Ring_SandStromRU_ru.jpg"
+      },
+      {
+        "Title": "FW_KingOfGold_Interative_Emote",
+        "Start": "1773018000",
+        "End": "1773104399",
+        "Link": "V2_chestId_49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FW_KingOfGold_Interative_SplashRU_ru.jpg"
+      },
+      {
+        "Title": "TREASURE UNCOVERED",
+        "Start": "1773018000",
+        "End": "1773104399",
+        "Link": "V2_category_6_groupID_95403",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Treasure_UncoveredSplashRU_ru.jpg"
+      },
+      {
+        "Title": "Treasure_Uncovered",
+        "Start": "1772758800",
+        "End": "1772845199",
+        "Link": "V2_category_6_groupID_95403",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Treasure_UncoveredSplashRU_ru.jpg"
+      },
+      {
+        "Title": "LOST TREASURE INTERFACE",
+        "Start": "1772845200",
+        "End": "1772931599",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LostTresaeruInterfaceRU_Splash_ru.jpg"
+      },
+      {
+        "Title": "M1887Ring_SandStrom",
+        "Start": "1772845200",
+        "End": "1772931599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_M1887Ring_SandStromRU_ru.jpg"
+      }
+    ]
+  }
+}
