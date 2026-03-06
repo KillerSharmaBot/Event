@@ -1,0 +1,59 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Siêu Giải Đấu Hà Nội 08/03",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/GiaiDau.png",
+        "Link": "https://sl.garena.vn/ff/wlxcur",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "LinkAlt": "https://sl.garena.vn/ff/wlxcur"
+      },
+      {
+        "Title": "Giải Đấu Cai Lậy - Mỹ Tho",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/DongThap1.png",
+        "Link": "https://www.facebook.com/groups/cdfftiengiang/posts/26770720885845689",
+        "Start": "1772730000",
+        "End": "1772816399",
+        "LinkAlt": "https://www.facebook.com/groups/cdfftiengiang/posts/26770720885845689"
+      },
+      {
+        "Title": "Khảo sát sự kiện bán hàng",
+        "Link": "https://survey-site.com?fid=5304c359aca6fe15abc425f4f86a7a95&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1772730000",
+        "End": "1772989199",
+        "LinkAlt": "https://survey-site.com?fid=5304c359aca6fe15abc425f4f86a7a95&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "DW1: Lost in Sand",
+        "Start": "1772730000",
+        "End": "1772902799",
+        "Link": "72"
+      },
+      {
+        "Title": "DW2: Cubby",
+        "Start": "1772902800",
+        "End": "1773075599",
+        "Link": "73"
+      }
+    ]
+  }
+}
