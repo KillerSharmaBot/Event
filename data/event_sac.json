@@ -1,0 +1,94 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Voces on Fire",
+        "Banner": "OB52/US/VOCESONFIRE1400x700.png",
+        "Start": "1772679600",
+        "End": "1773629999",
+        "LinkAlt": "https://www.youtube.com/watch?v=VuNzQihzN8Q"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1772827200",
+        "End": "1773025199",
+        "LinkAlt": "https://ind.survey-site.com?fid=79b68fadf1bf1b52a26570d694f8984a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1772827200",
+        "End": "1773025199",
+        "LinkAlt": "https://ind.survey-site.com?fid=c27b37501b291af1b958947e51a050d1&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Treasure Hunt Interactive Emote       ",
+        "Start": "1772766000",
+        "End": "1772938799",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWTH0306_1750x1070_es.png"
+      },
+      {
+        "Title": "Special Interface 2nd log-in",
+        "Start": "1773111600",
+        "End": "1773197999",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SPIN0210_1750x1070_es.png"
+      },
+      {
+        "Title": "Treasure Hunt Interactive Emote       ",
+        "Start": "1772938800",
+        "End": "1773025199",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWTH0306_1750x1070_es.png"
+      },
+      {
+        "Title": "Squad Treasure - Treasure Hunt",
+        "Start": "1773111600",
+        "End": "1773197999",
+        "Link": "V2_squadTreasureId_4"
+      },
+      {
+        "Title": "Skywing Treasure Hunt",
+        "Start": "1772852400",
+        "End": "1773111599",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWSK0307_1750x1070_es.png"
+      },
+      {
+        "Title": "Squad Treasure - Treasure Hunt",
+        "Start": "1773025200",
+        "End": "1773111599",
+        "Link": "V2_squadTreasureId_4"
+      },
+      {
+        "Title": "[EA] Trogon Treasure Hunt",
+        "Start": "1772938800",
+        "End": "1773025199",
+        "Link": "99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWEAT0308_1750x1070_es.png"
+      },
+      {
+        "Title": "[EA] Trogon Treasure Hunt",
+        "Start": "1773025200",
+        "End": "1773111599",
+        "Link": "99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWEAT0308_1750x1070_es.png"
+      },
+      {
+        "Title": "[EA] Male Bundle Treasure Hunt",
+        "Start": "1773111600",
+        "End": "1773197999",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWEA0310_1750x1070_es.png"
+      }
+    ]
+  }
+}
