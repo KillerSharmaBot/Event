@@ -1,0 +1,123 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Nova Jogabilidade BR!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Gameplay_preheat_2_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1772456400",
+        "End": "1774234799",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Tesouro Perdido!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/TH_Start_1400x700_BR_pt.jpg",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Start": "1772456400",
+        "End": "1774234799",
+        "LinkAlt": "V2_eventid_54_entranceId_0"
+      },
+      {
+        "Title": "Live com Alok!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Alok_Live_1400x700_BR_pt.jpg",
+        "Link": "https://www.youtube.com/live/F_rmAYloKPs",
+        "Start": "1770932700",
+        "End": "1773543599",
+        "LinkAlt": "https://www.youtube.com/live/F_rmAYloKPs"
+      },
+      {
+        "Title": "Mudanças Chegando!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Lootbox_Law_2_1400x700_BR_pt.png",
+        "Link": "https://ff.garena.com/pt/article/1622/",
+        "Start": "1772506800",
+        "End": "1773716399",
+        "LinkAlt": "https://ff.garena.com/pt/article/1622/"
+      },
+      {
+        "Title": "Nova Temporada BR",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/BR_S50_L8B48_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1772359200",
+        "End": "1773716399",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Explore em Bermuda!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/BR_Gameplay_preheat_1400x700_BR_pt.jpg",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1772456400",
+        "End": "1774234799",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Snickers x FF!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Snickers_1400x700_BR_pt.png",
+        "Link": "https://snickersfreefire.com.br/",
+        "Start": "1772161200",
+        "End": "1775789999",
+        "LinkAlt": "https://snickersfreefire.com.br/"
+      },
+      {
+        "Title": "Passe Booyah!",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB52/BR/BP_S39_1400x700_pt_br.png",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0",
+        "Start": "1772334000",
+        "End": "1773716399",
+        "LinkAlt": "V2_BPTYPE_0_Level_0_rewardType_0"
+      },
+      {
+        "Title": "Nova Jogabilidade CS!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/CS_Gameplay_1400x700_BR_pt2.png",
+        "Link": "V2_Team_1_Match_6_Map_1_Game_15",
+        "Start": "1772456400",
+        "End": "1774234799",
+        "LinkAlt": "V2_Team_1_Match_6_Map_1_Game_15"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] TH Finishing Move Katana KGF58",
+        "Start": "1772852400",
+        "End": "1772938799",
+        "Link": "970678",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/TH_Finishing_Move_Katana_KGF58_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] 2D Dino KBJ009",
+        "Start": "1773025200",
+        "End": "1773197999",
+        "Link": "970677",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/2D_Dino_KBJ009_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Ramadan OB52 QPVJ1",
+        "Start": "1772938800",
+        "End": "1773025199",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Ramadan_OB52_QPVJ1_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] White Turtleneck ZXQ9",
+        "Start": "1773025200",
+        "End": "1773197999",
+        "Link": "970682",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/White_Turtleneck_ZXQ9_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] TH Skywing Pet Gloo Wall NVU17",
+        "Start": "1772852400",
+        "End": "1773025199",
+        "Link": "970680",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/TH_Skywing_Pet_Gloo_Wall_NVU17_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
