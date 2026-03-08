@@ -1,0 +1,42 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: King of Gold",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "19"
+      },
+      {
+        "Title": "DW2: Cubby",
+        "Start": "1772902800",
+        "End": "1773075599",
+        "Link": "73"
+      },
+      {
+        "Title": "TG1: 8-Bit",
+        "Start": "1773162000",
+        "End": "1773334799",
+        "Link": "61"
+      }
+    ]
+  }
+}
