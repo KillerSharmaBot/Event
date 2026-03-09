@@ -1,0 +1,80 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Mar26_Topup_Monthly",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "56801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Mar26_Topup_Monthly",
+        "Start": "1772989200",
+        "End": "1773075599",
+        "Link": "56801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Mar26_TW3_EA_Fashion_Treasurehunt_Prime",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW3_EA_Fashion_Treasurehunt_Prime.png"
+      },
+      {
+        "Title": "TH_Mar26_TW3_EA_Fashion_Treasurehunt_Preheat_Prime",
+        "Start": "1772989200",
+        "End": "1773075599",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW3_EA_Fashion_Treasurehunt_Preheat_Prime.png"
+      },
+      {
+        "Title": "2026Mar_LT_Interface",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Interface.png"
+      },
+      {
+        "Title": "2026Mar_LT_Interface",
+        "Start": "1773025200",
+        "End": "1773075599",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Interface.png"
+      },
+      {
+        "Title": "TH_Mar26_TT1_Legendary_Paradox",
+        "Start": "1772989200",
+        "End": "1773075599",
+        "Link": "V2_chestId_33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TT1_Legendary_Paradox_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Mar26_WV1_PurpleGun",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_WV1_PurpleGun.png"
+      }
+    ]
+  }
+}
