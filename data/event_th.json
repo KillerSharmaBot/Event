@@ -1,0 +1,144 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ตอบปุ๊บ... กาชาแตกปั๊บ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "ของเดือนกุมภาถูกใจไหม? \n\n \n\nร่วมตอบแบบสำรวจของและไอเทมเดือนกุมภาพันธ์ \n\n \n\nและมาทำให้ทีมงานหาของถูกใจมาให้อีก! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 11 มีนาคม 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1773050400",
+        "End": "1773248399",
+        "LinkAlt": "https://survey-site.com?fid=8be110d0baddcfc9c57cfc77b6aa5897&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "2026Mar_LT_Interface",
+        "Start": "1773162000",
+        "End": "1773248399",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Interface.png"
+      },
+      {
+        "Title": "TH_Mar26_Topup_Monthly",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "56801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Mar26_TW3_EA_Fashion_Treasurehunt_Prime",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW3_EA_Fashion_Treasurehunt_Prime.png"
+      },
+      {
+        "Title": "TH_Feb26_TW2_Fashion_Coachella",
+        "Start": "1773248400",
+        "End": "1773334799",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_TW2_Fashion_Coachella.png"
+      },
+      {
+        "Title": "TH_Mar26_BP39",
+        "Start": "1773162000",
+        "End": "1773248399",
+        "Link": "V2_BPTYPE_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_BP39.png"
+      },
+      {
+        "Title": "2026Mar_LT_Interface",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Interface.png"
+      },
+      {
+        "Title": "TH_Mar26_WV1_PurpleGun",
+        "Start": "1773162000",
+        "End": "1773248399",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_WV1_PurpleGun.png"
+      },
+      {
+        "Title": "TH_Mar26_TW3_Fashion_Treasurehunt",
+        "Start": "1773334800",
+        "End": "1773421199",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW3_Fashion_Treasurehunt.png"
+      },
+      {
+        "Title": "TH_Mar26_TW3_EA_Fashion_Treasurehunt_Prime",
+        "Start": "1773162000",
+        "End": "1773248399",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW3_EA_Fashion_Treasurehunt_Prime.png"
+      },
+      {
+        "Title": "2026Mar_LT_Playwithfriends_games_OverviewBG_1",
+        "Start": "1773176400",
+        "End": "1773248399",
+        "Link": "V2_category_5_groupId_56820",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Playwithfriends_games_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TW3_Fashion_Treasurehunt_Preheat",
+        "Start": "1773248400",
+        "End": "1773334799",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW3_Fashion_Treasurehunt_Preheat.png"
+      },
+      {
+        "Title": "TH_Mar26_GroupTopup_TreasureHunt",
+        "Start": "1773334800",
+        "End": "1773421199",
+        "Link": "V2_squadTreasureId_1",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_GroupTopup_TreasureHunt.png"
+      },
+      {
+        "Title": "TH_Mar26_WV1_PurpleGun",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_WV1_PurpleGun.png"
+      },
+      {
+        "Title": "2026Mar_LT_Playwithfriends_games_OverviewBG_1",
+        "Start": "1773334800",
+        "End": "1773421199",
+        "Link": "V2_category_5_groupId_56820",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Playwithfriends_games_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Mar26_WV1_PurpleGun",
+        "Start": "1773248400",
+        "End": "1773334799",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_WV1_PurpleGun.png"
+      },
+      {
+        "Title": "2026Mar_LT_Playwithfriends_games_OverviewBG_1",
+        "Start": "1773248400",
+        "End": "1773334799",
+        "Link": "V2_category_5_groupId_56820",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Playwithfriends_games_OverviewBG_1.png"
+      }
+    ]
+  }
+}
