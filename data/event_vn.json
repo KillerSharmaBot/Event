@@ -1,0 +1,57 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Thái Nguyên",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/ThaiNguyen.png",
+        "Link": "https://www.facebook.com/groups/cdffthainguyen/posts/2143686459729094",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "LinkAlt": "https://www.facebook.com/groups/cdffthainguyen/posts/2143686459729094"
+      },
+      {
+        "Title": "Giải Đấu Ô Môn, Cần Thơ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/CanTho.png",
+        "Link": "https://www.facebook.com/groups/cdffcantho/posts/2747032272347395",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "LinkAlt": "https://www.facebook.com/groups/cdffcantho/posts/2747032272347395"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: King of Gold",
+        "Start": "1773075600",
+        "End": "1773161999",
+        "Link": "19"
+      },
+      {
+        "Title": "LW: Versatile Streetwear",
+        "Start": "1773334800",
+        "End": "1773507599"
+      },
+      {
+        "Title": "TG1: 8-Bit",
+        "Start": "1773162000",
+        "End": "1773334799",
+        "Link": "61"
+      }
+    ]
+  }
+}
