@@ -1,0 +1,37 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Voces on Fire",
+        "Banner": "OB52/US/VOCESONFIRE1400x700.png",
+        "Start": "1772686800",
+        "End": "1773637199",
+        "LinkAlt": "https://www.youtube.com/watch?v=VuNzQihzN8Q"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Squad Treasure - Treasure Hunt",
+        "Start": "1773205200",
+        "End": "1773291599",
+        "Link": "V2_squadTreasureId_4"
+      },
+      {
+        "Title": "Trogon Treasure Hunt",
+        "Start": "1773205200",
+        "End": "1773377999",
+        "Link": "99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWTR0311_1750x1070_es.png"
+      },
+      {
+        "Title": "[EA] Male Bundle Treasure Hunt",
+        "Start": "1773205200",
+        "End": "1773377999",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWEA0310_1750x1070_es.png"
+      }
+    ]
+  }
+}
