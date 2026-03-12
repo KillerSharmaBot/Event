@@ -1,0 +1,144 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "OB52 SURVEY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1772830800",
+        "End": "1773460799",
+        "LinkAlt": "https://ind.survey-site.com?fid=c27b37501b291af1b958947e51a050d1&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "THE MUSIC TAKES OVER",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MusicTakesOverNA_News_en.jpg",
+        "Start": "1771056000",
+        "End": "1774015199"
+      },
+      {
+        "Title": "NEW PIRATE SHIP IS HERE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeNA_336x880_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is here!\n\nCollect it now via Booyah Pass Loop Box and set sail in style!",
+        "Start": "1772899200",
+        "End": "1774151999",
+        "LinkAlt": "V2_BPTYPE_0"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireUSOfficial/"
+      },
+      {
+        "Title": "OB52 SURVEY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1772830800",
+        "End": "1773460799",
+        "LinkAlt": "https://ind.survey-site.com?fid=79b68fadf1bf1b52a26570d694f8984a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestriction_NoticeNA_en.jpg",
+        "Start": "1773324000",
+        "End": "1775447999"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/Wvmz3ktQ6e"
+      },
+      {
+        "Title": "COMING SOON",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ConingSoon13_NA_NewsBanner_en.jpg",
+        "Start": "1770969600",
+        "End": "1773734399",
+        "LinkAlt": "https://youtu.be/5FiZywoaUeU"
+      },
+      {
+        "Title": "DROP THE BEAT",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/DropTheBeat_NANews_en.jpg",
+        "Start": "1771142400",
+        "End": "1774015199",
+        "LinkAlt": "https://youtu.be/qhTuLH_7cCI"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Faded Wheel: COIN CASCADE FINAL SHOT",
+        "Start": "1773561600",
+        "End": "1773647999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FW_CoinCascade_SplashNA_en.jpg"
+      },
+      {
+        "Title": "Lost Treasure Kelly Show",
+        "Start": "1773561600",
+        "End": "1773647999",
+        "Link": "https://youtu.be/UXvJtFDJQk0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure_KellyShowSplashNA_en.jpg "
+      },
+      {
+        "Title": "Clown Ring: TREASURE RAVAGER",
+        "Start": "1773388800",
+        "End": "1773475199",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ClownRing_SplashNA_en.jpg"
+      },
+      {
+        "Title": "RamadanSquadTreasure: Treasure Hunt Backpack",
+        "Start": "1773475200",
+        "End": "1773561599",
+        "Link": "V2_squadTreasureId_1",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Ramadan_SquadTreasureTopUpNA_en.jpg"
+      },
+      {
+        "Title": "Lucky Wheel: RAMADAN TREASURE BUNDLES",
+        "Start": "1773302400",
+        "End": "1773388799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LW_RamadanTreasure1_SplashNA_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE CG",
+        "Start": "1773475200",
+        "End": "1773561599",
+        "Link": "https://youtu.be/rjPsD3bhNe4",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure_CGSplashNA_en.jpg"
+      },
+      {
+        "Title": "LOST TREASURE CG",
+        "Start": "1773302400",
+        "End": "1773388799",
+        "Link": "https://youtu.be/rjPsD3bhNe4",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LostTreasure_CGSplashNA_en.jpg"
+      },
+      {
+        "Title": "FORTUNE HUNTER",
+        "Start": "1773388800",
+        "End": "1773475199",
+        "Link": "V2_category_6_groupID_95438",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FortuneHunter_SplashNA_en.jpg"
+      }
+    ]
+  }
+}
