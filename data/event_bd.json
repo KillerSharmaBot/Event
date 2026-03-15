@@ -1,0 +1,84 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "NEW PIRATE SHIP IS HERE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice2_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is here!\n\nCollect it now via Booyah Pass Loop Box and set sail in style!",
+        "Start": "1772863200",
+        "End": "1774115999",
+        "LinkAlt": "V2_BPTYPE_0"
+      },
+      {
+        "Title": "Gaming For Good",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GameForGoodAnnoBD_en.jpg",
+        "Start": "1772820000",
+        "End": "1774029599",
+        "LinkAlt": "https://www.facebook.com/share/v/1DPgaC1iWL/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Treasure Ring: RUBY SHOT TROGON x TREASURE SAIL GLOO WALL*",
+        "Start": "1773784800",
+        "End": "1773871199",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TreasureRingRubyShotSplashBD_en.jpg"
+      },
+      {
+        "Title": "Game For Good",
+        "Start": "1773525600",
+        "End": "1773611999",
+        "Link": "https://www.youtube.com/watch?v=QYeTOLoRc7E&t=9s",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GameForGood0314SplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: COIN CASCADE FINAL SHOT*",
+        "Start": "1773597600",
+        "End": "1773611999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWCoinCascadeSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFWS Bangladesh Spring 2026 Registration",
+        "Start": "1773698400",
+        "End": "1773784799",
+        "Link": "V2"
+      },
+      {
+        "Title": "FFCM Sea 2026 Spring Grand Final",
+        "Start": "1773563400",
+        "End": "1773597599",
+        "Link": "https://youtube.com/live/DtySKBVcT6o?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GrandFinal_0315SplashBD_en.jpg"
+      },
+      {
+        "Title": "Shab-e-Qadr Blessing",
+        "Start": "1773612000",
+        "End": "1773698399",
+        "Link": "https://treasureshare.sea.redflamenco.com/?region=<FF_REGION>&lang=<FF_LANGUAGE>&access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Clown Ring: TREASURE RAVAGER x DEMENTED MANIAC x OLD CLOWN BUNDLES**",
+        "Start": "1773612000",
+        "End": "1773698399",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ClownRingTreasureRavagerSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: COIN CASCADE FINAL SHOT*",
+        "Start": "1773698400",
+        "End": "1773784799",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWCoinCascadeSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFBPL S2 Registraton Open",
+        "Start": "1773784800",
+        "End": "1773871199"
+      }
+    ]
+  }
+}
