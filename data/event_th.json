@@ -1,0 +1,73 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "2026Mar_LT_Playwithfriends_games_OverviewBG_1",
+        "Start": "1773680400",
+        "End": "1773766799",
+        "Link": "V2_category_5_groupId_56820",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Playwithfriends_games_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Mar26_FW3_Finalshot_TreasureHunt",
+        "Start": "1773680400",
+        "End": "1773766799",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_FW3_Finalshot_TreasureHunt_DynamicBG.png"
+      },
+      {
+        "Title": "2026Mar_LT_Interface",
+        "Start": "1773594000",
+        "End": "1773680399",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Interface.png"
+      },
+      {
+        "Title": "TH_Mar26_FW3_Finalshot_TreasureHunt",
+        "Start": "1773594000",
+        "End": "1773680399",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_FW3_Finalshot_TreasureHunt_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Mar26_TW1_EvoVault",
+        "Start": "1773594000",
+        "End": "1773680399",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW1_EvoVault.png"
+      },
+      {
+        "Title": "TH_Mar26_Topup_Midmonth_TGVoucher",
+        "Start": "1773680400",
+        "End": "1773766799",
+        "Link": "56901",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Midmonth_TGVoucher.png"
+      },
+      {
+        "Title": "TH_Mar26_TG2_Redlight",
+        "Start": "1773680400",
+        "End": "1773766799",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TG2_Redlight.png"
+      }
+    ]
+  }
+}
