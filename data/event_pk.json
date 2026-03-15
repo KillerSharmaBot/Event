@@ -1,0 +1,102 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.tiktok.com/@garenafreefirepkofficial"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.youtube.com/@FreeFirePakistanOfficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.facebook.com/freefireenn/?brand_redir=139274140865488#"
+      },
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.instagram.com/freefirepkofficial/?hl=en"
+      },
+      {
+        "Title": "NEW PIRATE SHIP IS HERE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeBanner_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is here!\n\nCollect it now via Booyah Pass Loop Box and set sail in style!",
+        "Start": "1772866800",
+        "End": "1774119599",
+        "LinkAlt": "V2_BPTYPE_0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Coin Cascade",
+        "Start": "1773702000",
+        "End": "1773788399",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_CoinCascade_en.jpg"
+      },
+      {
+        "Title": "Lost Treasure CG",
+        "Start": "1773615600",
+        "End": "1773701999",
+        "Link": "https://youtu.be/6cNgYzufGjI",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LTanimaOKen_en.jpg"
+      },
+      {
+        "Title": "Lost Treasure Inter",
+        "Start": "1773529200",
+        "End": "1773615599",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/LTinter_en.jpg"
+      },
+      {
+        "Title": "Clown Ring",
+        "Start": "1773615600",
+        "End": "1773701999",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_ClownRing_en.jpg"
+      },
+      {
+        "Title": "Treasure Ring Ruby Shot",
+        "Start": "1773788400",
+        "End": "1773874799",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_TreasureRingRubyShot_en.jpg"
+      },
+      {
+        "Title": "Coin Cascade",
+        "Start": "1773529200",
+        "End": "1773615599",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_CoinCascade_en.jpg"
+      },
+      {
+        "Title": "LT26_The Great Heist",
+        "Start": "1773702000",
+        "End": "1773788399",
+        "Link": "V2_category_5_groupID_26031102",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LT26_TheGreatHeist_en.jpg"
+      },
+      {
+        "Title": "LT26_The Great Heist",
+        "Start": "1773788400",
+        "End": "1773874799",
+        "Link": "V2_category_5_groupID_26031102",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LT26_TheGreatHeist_en.jpg"
+      }
+    ]
+  }
+}
