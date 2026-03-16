@@ -1,0 +1,30 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¿Necesitas ayuda?",
+        "Banner": "OB52/US/customerservice1400x1000.png",
+        "Start": "1773637200",
+        "End": "1774328399",
+        "LinkAlt": "https://zdauth.garena.com/?access_token=<GARENA_TOKEN>&return_to=https%3A%2F%2Fffsoporte.garena.com%2Fhc%2Fes-419"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Treasure Hunt Male Bundle  ",
+        "Start": "1773637200",
+        "End": "1773809999",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWTRE0313_1750x1070_es.png"
+      },
+      {
+        "Title": "Guitar Emote",
+        "Start": "1773637200",
+        "End": "1773809999",
+        "Link": "29"
+      }
+    ]
+  }
+}
