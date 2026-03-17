@@ -1,0 +1,150 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Mar26_Topup_Midmonth_TGVoucher",
+        "Start": "1773766800",
+        "End": "1773853199",
+        "Link": "56901",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Midmonth_TGVoucher.png"
+      },
+      {
+        "Title": "TH_Mar26_FW2_Skywing_TreasureHunt",
+        "Start": "1774026000",
+        "End": "1774112399",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_FW2_Skywing_TreasureHunt_DynamicBG.png"
+      },
+      {
+        "Title": "2026Mar_LT_IcewallResDmg_points_OverviewBG_1",
+        "Start": "1773853200",
+        "End": "1773939599",
+        "Link": "V2_category_5_groupId_56823",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_IcewallResDmg_points_OverviewBG_1.png"
+      },
+      {
+        "Title": "2026Mar_LT_ReviveFriend_times_2Mission_1",
+        "Start": "1774026000",
+        "End": "1774112399",
+        "Link": "V2_category_5_groupId_56822",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_ReviveFriend_times_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Mar26_FW2_Skywing_TreasureHunt",
+        "Start": "1773853200",
+        "End": "1773939599",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_FW2_Skywing_TreasureHunt_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Mar26_TW4_IncubatorFashionVault_FoxGuy",
+        "Start": "1774026000",
+        "End": "1774112399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW4_IncubatorFashionVault_FoxGuy.png"
+      },
+      {
+        "Title": "TH_Mar26_FW2_Skywing_TreasureHunt",
+        "Start": "1773939600",
+        "End": "1774025999",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_FW2_Skywing_TreasureHunt_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Mar26_LW",
+        "Start": "1774026000",
+        "End": "1774112399",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_LW.png"
+      },
+      {
+        "Title": "TH_Mar26_TG2_Redlight",
+        "Start": "1773766800",
+        "End": "1773853199",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TG2_Redlight.png"
+      },
+      {
+        "Title": "TH_Mar26_TG2_Redlight",
+        "Start": "1773939600",
+        "End": "1774025999",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TG2_Redlight.png"
+      },
+      {
+        "Title": "2026Mar_LT_ReviveFriend_times_2Mission_1",
+        "Start": "1773939600",
+        "End": "1774025999",
+        "Link": "V2_category_5_groupId_56822",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_ReviveFriend_times_2Mission_1.png"
+      },
+      {
+        "Title": "2026Mar_LT_IcewallResDmg_points_OverviewBG_1",
+        "Start": "1773939600",
+        "End": "1774025999",
+        "Link": "V2_category_5_groupId_56823",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_IcewallResDmg_points_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Mar26_Topup_Midmonth_TGVoucher",
+        "Start": "1773853200",
+        "End": "1773939599",
+        "Link": "56901",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_Topup_Midmonth_TGVoucher.png"
+      },
+      {
+        "Title": "TH_Feb26_TT2_Fist_Coachella",
+        "Start": "1773853200",
+        "End": "1773939599",
+        "Link": "V2_chestId_34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Feb26_TT2_Fist_Coachella_DynamicBG.png"
+      },
+      {
+        "Title": "2026Mar_LT_IcewallResDmg_points_OverviewBG_1",
+        "Start": "1773781200",
+        "End": "1773853199",
+        "Link": "V2_category_5_groupId_56823",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_IcewallResDmg_points_OverviewBG_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TW4_IncubatorFashionVault_FoxGuy",
+        "Start": "1773939600",
+        "End": "1774025999",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW4_IncubatorFashionVault_FoxGuy.png"
+      },
+      {
+        "Title": "2026Mar_LT_ReviveFriend_times_2Mission_1",
+        "Start": "1773867600",
+        "End": "1773939599",
+        "Link": "V2_category_5_groupId_56822",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_ReviveFriend_times_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Mar26_TW5_Hyperbook_Paradox",
+        "Start": "1773766800",
+        "End": "1773853199",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW5_Hyperbook_Paradox.png"
+      }
+    ]
+  }
+}
