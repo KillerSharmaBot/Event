@@ -1,0 +1,81 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Berburu Berkah FF",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/berburuberkah/qwqwfo1if31f_qwfi1.png",
+        "Link": "https://forms.gle/mByy8RP7hCTHXDpQ6",
+        "Start": "1772038800",
+        "End": "1773939599",
+        "LinkAlt": "https://forms.gle/mByy8RP7hCTHXDpQ6"
+      },
+      {
+        "Title": "Advance Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/asdmk1nfbasc/overview_daftar.jpg",
+        "Link": "https://ff-advance.ff.garena.com/",
+        "Start": "1773302400",
+        "End": "1773939599",
+        "LinkAlt": "https://ff-advance.ff.garena.com/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#21 BGW",
+        "Start": "1773889200",
+        "End": "1773975599",
+        "Link": "https://youtu.be/RCT1iMEg2i8"
+      },
+      {
+        "Title": "#31 Mystery Shop - Treasure Chaser Bundle (710052024) (Purple+), Treasure Seeker Bundle (710052025) (Purple+), Angelic voucher (802000124) x 80, M1887 Shards x 150, Ramadn Voucher (802000122) x 30, Sunlit Weaves Bundle (710051029)",
+        "Start": "1773975600",
+        "End": "1774061999",
+        "Link": "V2_shopId_0"
+      },
+      {
+        "Title": "#4 FFNS Registration offline",
+        "Start": "1774094400",
+        "End": "1774148399",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSfUIUnEGgqUM48mb9ScTYBldD8kPXHdw5wuLI-A5lro-g8WDg/viewform"
+      },
+      {
+        "Title": "#32 Ramadan Booyah 2026 - Shorts Aftermatch Drop + Ramadan Booyah 2026 - Magic Cube Gratis",
+        "Start": "1773975600",
+        "End": "1774061999",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/splash/supersplash_2.png"
+      },
+      {
+        "Title": "#21 Ramadan Booyah 2026 - Spin Shard Gratis",
+        "Start": "1773802800",
+        "End": "1773889199",
+        "Link": "15767"
+      },
+      {
+        "Title": "#42 Special Interface (Super Splash",
+        "Start": "1774062000",
+        "End": "1774148399",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/skfoqiwh189/supersplash_v3.png"
+      },
+      {
+        "Title": "#22 Reminder Bind",
+        "Start": "1773889200",
+        "End": "1773975599"
+      },
+      {
+        "Title": "#41 Weekly Top Up W3 March 2026",
+        "Start": "1774062000",
+        "End": "1774007999",
+        "Link": "15823"
+      },
+      {
+        "Title": "#11 Token Tower - M1887 Hand Of Hope (907102712) (Orange) — Discount First 7 Days 50% 2 spins",
+        "Start": "1773802800",
+        "End": "1773889199",
+        "Link": "V2_chestId_33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/splash/supersplash.png"
+      }
+    ]
+  }
+}
