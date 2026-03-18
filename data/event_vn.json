@@ -1,0 +1,82 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Trung Mỹ Tây",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TrungMyTay.png",
+        "Link": "https://www.facebook.com/groups/421528525188773/permalink/1836293663712245",
+        "Start": "1773853200",
+        "End": "1773939599",
+        "LinkAlt": "https://www.facebook.com/groups/421528525188773/permalink/1836293663712245"
+      },
+      {
+        "Title": "Giải Đấu Tân Yên",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TanYen.png",
+        "Link": "https://www.facebook.com/groups/cdffbacgiang/permalink/26447948734892797",
+        "Start": "1773853200",
+        "End": "1773939599",
+        "LinkAlt": "https://www.facebook.com/groups/cdffbacgiang/permalink/26447948734892797"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Interface Beat Carnival",
+        "Start": "1773939600",
+        "End": "1774112399",
+        "Link": "V2_eventid_53_entranceId_0"
+      },
+      {
+        "Title": "Free Fire Wiki",
+        "Start": "1773766800",
+        "End": "1773939599",
+        "Link": "https://wiki.ff.garena.vn/"
+      },
+      {
+        "Title": "TW3: Fist - Untamed Beat",
+        "Start": "1773939600",
+        "End": "1774112399",
+        "Link": "89"
+      },
+      {
+        "Title": "FW1: Panther Strikes!",
+        "Start": "1774112400",
+        "End": "1774285199",
+        "Link": "19"
+      },
+      {
+        "Title": "Update store vang 2203",
+        "Start": "1774112400",
+        "End": "1774198799",
+        "Link": "V2_mallType_1_storeid_721258"
+      },
+      {
+        "Title": "TW4: Shadow Walker",
+        "Start": "1773766800",
+        "End": "1773939599",
+        "Link": "99"
+      },
+      {
+        "Title": "Interface Beat Carnival",
+        "Start": "1773939600",
+        "End": "1774112399",
+        "Link": "V2_eventid_53_entranceId_0"
+      }
+    ]
+  }
+}
