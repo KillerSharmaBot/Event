@@ -1,0 +1,120 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.youtube.com/@FreeFirePakistanOfficial"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.tiktok.com/@garenafreefirepkofficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.facebook.com/freefireenn/?brand_redir=139274140865488#"
+      },
+      {
+        "Title": "COMING SOON",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OB53_ComingSoonNews_en.jpg",
+        "Start": "1773874800",
+        "End": "1774220399",
+        "LinkAlt": "https://youtu.be/Vf0Yi-gSBnE"
+      },
+      {
+        "Title": "MARK YOUR CALENDARS",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/EidMehfil26_MarkYourCalendarsPK_en.jpg",
+        "Start": "1773896400",
+        "End": "1774796400"
+      },
+      {
+        "Title": "THE MUSIC TAKES OVER",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OB53_TheMusicTakesOverNews_en.jpg",
+        "Start": "1773961200",
+        "End": "1774328399"
+      },
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.instagram.com/freefirepkofficial/?hl=en"
+      },
+      {
+        "Title": "NEW PIRATE SHIP IS HERE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeBanner_en.jpg",
+        "Details": "Dear Survivors,\n\nA brand-new Pirate Ship \"Crimson Voyage\" is here!\n\nCollect it now via Booyah Pass Loop Box and set sail in style!",
+        "Start": "1772866800",
+        "End": "1774119599",
+        "LinkAlt": "V2_BPTYPE_0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "LT26_Free Magic Cube",
+        "Start": "1774220400",
+        "End": "1774306799",
+        "Link": "V2_category_5_groupID_26031101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LT26_FreeMagicCube_en.jpg"
+      },
+      {
+        "Title": "Ruby Legend Skywing",
+        "Start": "1774134000",
+        "End": "1774220399",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_RubyLegendSkywing_en.jpg"
+      },
+      {
+        "Title": "LT26_Free Magic Cube",
+        "Start": "1773961200",
+        "End": "1774047599",
+        "Link": "V2_category_5_groupID_26031101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LT26_FreeMagicCube_en.jpg"
+      },
+      {
+        "Title": "Step Up Lost In Sand",
+        "Start": "1774220400",
+        "End": "1774306799",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_StepUpLostInSand_en.jpg"
+      },
+      {
+        "Title": "Treasure Ring Ruby Shot",
+        "Start": "1773961200",
+        "End": "1774047599",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_TreasureRingRubyShot_en.jpg"
+      },
+      {
+        "Title": "LT26_Free Magic Cube",
+        "Start": "1774134000",
+        "End": "1774220399",
+        "Link": "V2_category_5_groupID_26031101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LT26_FreeMagicCube_en.jpg"
+      },
+      {
+        "Title": "LT26_Magic Cube Store Update",
+        "Start": "1774047600",
+        "End": "1774133999",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LT26_MagicCubeStoreUpdate_en.jpg"
+      },
+      {
+        "Title": "Ruby Legend Skywing",
+        "Start": "1774047600",
+        "End": "1774133999",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_RubyLegendSkywing_en.jpg"
+      }
+    ]
+  }
+}
