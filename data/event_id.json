@@ -1,0 +1,66 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Survei Pengalaman FF\n",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB38/ID/20230121_jansurvey/anno.jpg",
+        "Link": "https://ind.survey-site.com?fid=b17e34428903f368e9a4f0e134043da5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Hi Survivors! \n\nBantu kami berkembang lebih baik lagi! Yuk isi survey di bawah ini dan sampaikan pendapatmu untuk Free Fire yang lebih baik lagi kedepannya. Saran kamu berarti loh! \n\nKlik tombol di bawah ini sekarang!",
+        "Start": "1774000800",
+        "End": "1774198799",
+        "LinkAlt": "https://ind.survey-site.com?fid=b17e34428903f368e9a4f0e134043da5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#62 Reminder Bind",
+        "Start": "1774234800",
+        "End": "1774321199"
+      },
+      {
+        "Title": "#31 Mystery Shop - Treasure Chaser Bundle (710052024) (Purple+), Treasure Seeker Bundle (710052025) (Purple+), Angelic voucher (802000124) x 80, M1887 Shards x 150, Ramadn Voucher (802000122) x 30, Sunlit Weaves Bundle (710051029)",
+        "Start": "1773975600",
+        "End": "1774061999",
+        "Link": "V2_shopId_0"
+      },
+      {
+        "Title": "#61 Faded Wheel - Fist - Untamed Beat (907105239) (Orange), Gloo Wall - Beat Scars (907105246) (Orange)",
+        "Start": "1774234800",
+        "End": "1774321199",
+        "Link": "V2_chestId_19"
+      },
+      {
+        "Title": "#52 Preheat Beat Carnival 1",
+        "Start": "1774148400",
+        "End": "1774234799"
+      },
+      {
+        "Title": "#51 Token Ring  - Ballsy Skaterboi Bundle (710028027) (Purple), Lush Clubber (710000685) (Purple), Trendy Clubber (710000684) (Purple)",
+        "Start": "1774148400",
+        "End": "1774234799",
+        "Link": "V2_chestId_91"
+      },
+      {
+        "Title": "#4 FFNS Registration offline",
+        "Start": "1774094400",
+        "End": "1774148399",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSfUIUnEGgqUM48mb9ScTYBldD8kPXHdw5wuLI-A5lro-g8WDg/viewform"
+      },
+      {
+        "Title": "#32 Ramadan Booyah 2026 - Shorts Aftermatch Drop + Ramadan Booyah 2026 - Magic Cube Gratis",
+        "Start": "1773975600",
+        "End": "1774061999",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/splash/supersplash_2.png"
+      },
+      {
+        "Title": "#42 Special Interface (Super Splash",
+        "Start": "1774062000",
+        "End": "1774148399",
+        "Link": "V2_eventid_54_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/ID/skfoqiwh189/supersplash_v3.png"
+      }
+    ]
+  }
+}
