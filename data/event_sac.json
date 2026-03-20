@@ -1,0 +1,59 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Partidas Justas",
+        "Banner": "OB52/US/matchmaking1400x700.png",
+        "Start": "1773867600",
+        "End": "1774493999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "¿Necesitas ayuda?",
+        "Banner": "OB52/US/customerservice1400x1000.png",
+        "Start": "1773630000",
+        "End": "1774321199",
+        "LinkAlt": "https://zdauth.garena.com/?access_token=<GARENA_TOKEN>&return_to=https%3A%2F%2Fffsoporte.garena.com%2Fhc%2Fes-419"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "LUCKY BOARD - Bath Hub Series (Male Bundle + MAC10)",
+        "Start": "1774234800",
+        "End": "1774407599",
+        "Link": "V2_url_\"https://luckyboard.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>\"",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/RWELU0323_1750x1070_es.png"
+      },
+      {
+        "Title": "CYF - Oasis Guardian",
+        "Start": "1773975600",
+        "End": "1774061999",
+        "Link": "V2_url_\"https://changefate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>\"",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/LWOG0318_1750x1070_es.png"
+      },
+      {
+        "Title": "Evo XM8 Relaunch",
+        "Start": "1774234800",
+        "End": "1774321199",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWEV0320_1750x1070_es.png"
+      },
+      {
+        "Title": "Finishing Move + Katana",
+        "Start": "1774062000",
+        "End": "1774234799",
+        "Link": "72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/WVFIN0321_1750x1070_es.png"
+      },
+      {
+        "Title": "Evo XM8 Relaunch",
+        "Start": "1773975600",
+        "End": "1774234799",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWEV0320_1750x1070_es.png"
+      }
+    ]
+  }
+}
