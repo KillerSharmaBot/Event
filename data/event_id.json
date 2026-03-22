@@ -1,0 +1,29 @@
+{
+  "updates": {},
+  "events": {
+    "items": [
+      {
+        "Title": "#62 Reminder Bind",
+        "Start": "1774234800",
+        "End": "1774321199"
+      },
+      {
+        "Title": "#61 Faded Wheel - Fist - Untamed Beat (907105239) (Orange), Gloo Wall - Beat Scars (907105246) (Orange)",
+        "Start": "1774234800",
+        "End": "1774321199",
+        "Link": "V2_chestId_19"
+      },
+      {
+        "Title": "#52 Preheat Beat Carnival 1",
+        "Start": "1774148400",
+        "End": "1774234799"
+      },
+      {
+        "Title": "#51 Token Ring  - Ballsy Skaterboi Bundle (710028027) (Purple), Lush Clubber (710000685) (Purple), Trendy Clubber (710000684) (Purple)",
+        "Start": "1774148400",
+        "End": "1774234799",
+        "Link": "V2_chestId_91"
+      }
+    ]
+  }
+}
