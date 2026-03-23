@@ -1,0 +1,57 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Khảo sát sinh viên",
+        "Link": "https://survey-site.com?fid=0de9cd00d2c8237cc2c0e704c0348dc2&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1774026000",
+        "End": "1774285199",
+        "LinkAlt": "https://survey-site.com?fid=0de9cd00d2c8237cc2c0e704c0348dc2&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Giải Đấu Cộng Đồng TP.HCM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TPHCM.png",
+        "Link": "https://sl.garena.vn/ff/fuwlyr",
+        "Start": "1774198800",
+        "End": "1774285199",
+        "LinkAlt": "https://sl.garena.vn/ff/fuwlyr"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "QUA BUA TIEC AM NHAC",
+        "Start": "1774198800",
+        "End": "1774630799",
+        "Link": "V2_category_5_groupId_1201301"
+      },
+      {
+        "Title": "FW1: Panther Strikes!",
+        "Start": "1774112400",
+        "End": "1774285199",
+        "Link": "19"
+      },
+      {
+        "Title": "TW1: Beat Beast Bundle",
+        "Start": "1774285200",
+        "End": "1774544399",
+        "Link": "87"
+      }
+    ]
+  }
+}
