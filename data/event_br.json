@@ -1,0 +1,94 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Alpine de Fora",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Alpine_Removal_1400x700_BR_pt.jpg",
+        "Start": "1773975600",
+        "End": "1774666799"
+      },
+      {
+        "Title": "Snickers x FF!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Snickers_1400x700_BR_pt.png",
+        "Link": "https://snickersfreefire.com.br/",
+        "Start": "1772161200",
+        "End": "1775789999",
+        "LinkAlt": "https://snickersfreefire.com.br/"
+      },
+      {
+        "Title": "FFWS Começou!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/FFWS_Start_1400x700_BR_pt.jpg",
+        "Link": "https://www.instagram.com/ffesportsbr/",
+        "Start": "1773975600",
+        "End": "1780282799",
+        "LinkAlt": "https://www.instagram.com/ffesportsbr/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] Store Refresh 2 Anitta APN37 ",
+        "Start": "1774407600",
+        "End": "1774493999",
+        "Link": "970693",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Store_Refresh_2_Anitta_APN37_1750x1070_BR_pt2.png"
+      },
+      {
+        "Title": "[BD] Snickers",
+        "Start": "1774580400",
+        "End": "1774666799",
+        "Link": "https://snickersfreefire.com.br/",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Snickers_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] MP April Bundle ASF5",
+        "Start": "1774666800",
+        "End": "1774713599",
+        "Link": "9415",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/MP_April_Bundle_ASF5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] LW Gangster MAVG84",
+        "Start": "1774580400",
+        "End": "1774666799",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/LW_Gangster_MAVG84_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[DAU] Golden Dice QN145",
+        "Start": "1774666800",
+        "End": "1774753199",
+        "Link": "9411",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Golden_Dice_QN145_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] MP Adventurer ZNA65",
+        "Start": "1774494000",
+        "End": "1774580399",
+        "Link": "9412",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/MP_Adventurer_ZNA65_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Store Refresh 2 APN37",
+        "Start": "1774407600",
+        "End": "1774580399",
+        "Link": "970694",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Store_Refresh_2_APN37_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[e-SPORTS] FFWS 3",
+        "Start": "1774713600",
+        "End": "1774722599",
+        "Link": "https://youtube.com/live/4W4iAMDo_tk?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/FFWS_3_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
