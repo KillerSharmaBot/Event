@@ -1,0 +1,21 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Partidas Justas",
+        "Banner": "OB52/US/matchmaking1400x700.png",
+        "Start": "1773867600",
+        "End": "1774493999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Juega como los PRO",
+        "Banner": "OB52/US/juegacomolosproUS1400x700.png",
+        "Start": "1774364400",
+        "End": "1775012399",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      }
+    ]
+  },
+  "events": {}
+}
