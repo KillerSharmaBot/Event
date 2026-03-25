@@ -1,0 +1,72 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Cộng Đồng Online",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/GiaiOnline.png",
+        "Link": "https://www.facebook.com/groups/FreeFireVietNam",
+        "Start": "1774263600",
+        "End": "1774544399",
+        "LinkAlt": "https://www.facebook.com/groups/FreeFireVietNam"
+      },
+      {
+        "Title": "Giải Đấu Lào Cai",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/LaoCai.png",
+        "Link": "https://sl.garena.vn/ff/tsndxa",
+        "Start": "1774371600",
+        "End": "1774457999",
+        "LinkAlt": "https://sl.garena.vn/ff/tsndxa"
+      },
+      {
+        "Title": "Giải Đấu Tân Quang",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/TanQuang.png",
+        "Link": "https://sl.garena.vn/ff/rdlscx",
+        "Start": "1774371600",
+        "End": "1774457999",
+        "LinkAlt": "https://sl.garena.vn/ff/rdlscx"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW3: M14 - Flamed Beat",
+        "Start": "1774544400",
+        "End": "1774717199",
+        "Link": "39"
+      },
+      {
+        "Title": "QUA BUA TIEC AM NHAC",
+        "Start": "1774198800",
+        "End": "1774630799",
+        "Link": "V2_category_5_groupId_1201301"
+      },
+      {
+        "Title": "Update HMT T3",
+        "Start": "1774630800",
+        "End": "1774976399",
+        "Link": "V2_category_5_groupId_1201306"
+      },
+      {
+        "Title": "TW1: Beat Beast Bundle",
+        "Start": "1774285200",
+        "End": "1774544399",
+        "Link": "87"
+      }
+    ]
+  }
+}
