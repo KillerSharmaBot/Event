@@ -1,0 +1,64 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Giải Đấu Lập Thạch",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/LapThach.png",
+        "Link": "https://sl.garena.vn/ff/fnocvm",
+        "Start": "1774544400",
+        "End": "1774630799",
+        "LinkAlt": "https://sl.garena.vn/ff/fnocvm"
+      },
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Lai Châu",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/LaiChau.png",
+        "Link": "https://sl.garena.vn/ff/cxfznc",
+        "Start": "1774544400",
+        "End": "1774630799",
+        "LinkAlt": "https://sl.garena.vn/ff/cxfznc"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW3: M14 - Flamed Beat",
+        "Start": "1774544400",
+        "End": "1774717199",
+        "Link": "39"
+      },
+      {
+        "Title": "TW4: Quackman Bundle",
+        "Start": "1774717200",
+        "End": "1774889999",
+        "Link": "99"
+      },
+      {
+        "Title": "QUA BUA TIEC AM NHAC",
+        "Start": "1774198800",
+        "End": "1774630799",
+        "Link": "V2_category_5_groupId_1201301"
+      },
+      {
+        "Title": "Update HMT T3",
+        "Start": "1774630800",
+        "End": "1774976399",
+        "Link": "V2_category_5_groupId_1201306"
+      }
+    ]
+  }
+}
