@@ -1,0 +1,35 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Guía - Cacería de Premios",
+        "Banner": "OB52/US/LUCKYtuto_1400x700_es.png",
+        "Start": "1774544400",
+        "End": "1775012399",
+        "LinkAlt": "V2_url_\"\"https://luckyboard.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>\"\""
+      },
+      {
+        "Title": "¡Vota ahora!",
+        "Link": "https://cocreate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1774580400",
+        "End": "1775530799",
+        "LinkAlt": "https://cocreate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "El caos se acerca",
+        "Banner": "OB52/US/MKAUR0325_1400x700_es.png",
+        "Start": "1774468800",
+        "End": "1774839599",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Juega como los PRO",
+        "Banner": "OB52/US/juegacomolosproUS1400x700.png",
+        "Start": "1774364400",
+        "End": "1775012399",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      }
+    ]
+  },
+  "events": {}
+}
