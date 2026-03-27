@@ -1,0 +1,103 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Giải Đấu Lập Thạch",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/LapThach.png",
+        "Link": "https://sl.garena.vn/ff/fnocvm",
+        "Start": "1774544400",
+        "End": "1774630799",
+        "LinkAlt": "https://sl.garena.vn/ff/fnocvm"
+      },
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu Online",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/PhongGiai.jpg",
+        "Link": "https://sl.garena.vn/ff/trobtl",
+        "Start": "1774584000",
+        "End": "1774803599",
+        "LinkAlt": "https://sl.garena.vn/ff/trobtl"
+      },
+      {
+        "Title": "Giải Đấu Lai Châu",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/VN/Community/LaiChau.png",
+        "Link": "https://sl.garena.vn/ff/cxfznc",
+        "Start": "1774544400",
+        "End": "1774630799",
+        "LinkAlt": "https://sl.garena.vn/ff/cxfznc"
+      },
+      {
+        "Title": "Vote Balo Sinh Nhật",
+        "Link": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1774584000",
+        "End": "1775408399",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW3: M14 - Flamed Beat",
+        "Start": "1774544400",
+        "End": "1774717199",
+        "Link": "39"
+      },
+      {
+        "Title": "TW4: Quackman Bundle",
+        "Start": "1774717200",
+        "End": "1774889999",
+        "Link": "99"
+      },
+      {
+        "Title": "Update HMT T3",
+        "Start": "1774803600",
+        "End": "1774976399",
+        "Link": "V2_category_5_groupId_1201306"
+      },
+      {
+        "Title": "QUA BUA TIEC AM NHAC",
+        "Start": "1774198800",
+        "End": "1774630799",
+        "Link": "V2_category_5_groupId_1201301"
+      },
+      {
+        "Title": "Update HMT T3",
+        "Start": "1774630800",
+        "End": "1774976399",
+        "Link": "V2_category_5_groupId_1201306"
+      },
+      {
+        "Title": "Chung ket FFWS VN 2026 SPRING",
+        "Start": "1774783800",
+        "End": "1774798200",
+        "Link": "https://youtube.com/live/Mh9C8WBnnAQ?feature=share"
+      },
+      {
+        "Title": "Update HMT T3",
+        "Start": "1774630800",
+        "End": "1774783740",
+        "Link": "V2_category_5_groupId_1201306"
+      },
+      {
+        "Title": "Balo vote sinh nhat",
+        "Start": "1774584000",
+        "End": "1774717199",
+        "Link": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  }
+}
