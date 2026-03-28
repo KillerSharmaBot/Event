@@ -1,0 +1,108 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "PLATOON SYSTEM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GeneralAnnouncement_en.jpg",
+        "Details": "Dear Survivors,\n\nThe Platoon System will be removed from the game from 08 April 2026 onwards until further notice!\n\nPlease claim any rewards if you have not done so. Thanks for your support!",
+        "Start": "1774087200",
+        "End": "1775599199",
+        "LinkAlt": "V2_friendType_7"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "COMING TO SOLARA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OB53_ComingToSolaraNews_en.jpg",
+        "Start": "1774252800",
+        "End": "1774735199"
+      },
+      {
+        "Title": "9th Anniv. Voting",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/9AnniCoCreateVoteNews_en.jpg",
+        "Start": "1774598400",
+        "End": "1775426399",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Beat Carnival Ring",
+        "Start": "1774663200",
+        "End": "1774749599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BeatCarnivalRing1_en.jpg"
+      },
+      {
+        "Title": "BC26_The Beat Drop",
+        "Start": "1774922400",
+        "End": "1775008799",
+        "Link": "V2_category_5_groupID_26032501",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_TheBeatDrop_en.jpg"
+      },
+      {
+        "Title": "FadedWheelPantherStrikesArrivalAnimation",
+        "Start": "1774836000",
+        "End": "1774922399",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FadedWheelPantherStrikesArrivalAnimation_en.jpg"
+      },
+      {
+        "Title": "BC26_Kelly Show",
+        "Start": "1774663200",
+        "End": "1774749599",
+        "Link": "https://youtu.be/wQj85K3lHPY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_KellyShow_en.jpg"
+      },
+      {
+        "Title": "BC26_Alok New Collab",
+        "Start": "1774836000",
+        "End": "1774922399",
+        "Link": "https://youtu.be/ELDuiIF1DOY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_AlokNewCollab_en.jpg"
+      },
+      {
+        "Title": "M14XAugRingFlamedBeatXAuroraSHoller",
+        "Start": "1774922400",
+        "End": "1775008799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_M14XAugRingFlamedBeatXAuroraSHoller_en.jpg"
+      },
+      {
+        "Title": "FadedWheelPantherStrikesArrivalAnimation",
+        "Start": "1774749600",
+        "End": "1774835999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FadedWheelPantherStrikesArrivalAnimation_en.jpg"
+      },
+      {
+        "Title": "BC26_Full Animation",
+        "Start": "1774749600",
+        "End": "1774835999",
+        "Link": "https://youtu.be/R069o6wQzPA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_FullAnimation_en.jpg"
+      }
+    ]
+  }
+}
