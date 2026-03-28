@@ -1,0 +1,81 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "PLATOON SYSTEM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors,\n\nThe Platoon System will be removed from the game from 08 April 2026 onwards until further notice!\n\nPlease claim any rewards if you have not done so. Thanks for your support!",
+        "Start": "1774072800",
+        "End": "1775584799",
+        "LinkAlt": "V2_friendType_7"
+      },
+      {
+        "Title": "9th Anniv. Voting",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_9thAnnivVotingAnnoBD_en.jpg",
+        "Start": "1774584000",
+        "End": "1775411999",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Beat Carnival Ring: BEAT BEAST BUNDLE + PANTHER MOVE EMOTE + BEAT SCARS GLOO WALL**",
+        "Start": "1774720800",
+        "End": "1774735199",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_CarnivalRingBeatBeastSplashBD_en.jpg"
+      },
+      {
+        "Title": "M14 x AUG Ring: FLAMED BEAT x AURORA'S HOLLER*",
+        "Start": "1774908000",
+        "End": "1774994399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_M14xAUGFlamedBeatSplashBD_en.jpg"
+      },
+      {
+        "Title": "Kelly Show (Beat Carnival)",
+        "Start": "1774648800",
+        "End": "1774735199",
+        "Link": "https://youtu.be/IuQ1BOrMo_w",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_KellyShowBeatCarnivalSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: PANTHER STRIKES ARRIVAL ANIMATION**",
+        "Start": "1774821600",
+        "End": "1774907999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWPantherStrikeSplashBD_en.jpg"
+      },
+      {
+        "Title": "Beat Carnival Main CG",
+        "Start": "1774735200",
+        "End": "1774821599",
+        "Link": "https://youtu.be/49FFeohP8gw",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BeatCarnivalMainCGSplashBD_en.jpg"
+      },
+      {
+        "Title": "THE BEAT DROP",
+        "Start": "1774908000",
+        "End": "1774994399",
+        "Link": "V2_category_5_groupID_99457",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TheBeatDropSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: PANTHER STRIKES ARRIVAL ANIMATION**",
+        "Start": "1774735200",
+        "End": "1774821599",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWPantherStrikeSplashBD_en.jpg"
+      },
+      {
+        "Title": "Alok New Collab Track Lyric Video",
+        "Start": "1774821600",
+        "End": "1774907999",
+        "Link": "https://youtu.be/APWKPsT9_Hc",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_AlokNewCollabTrackSplashBD_en.jpg"
+      }
+    ]
+  }
+}
