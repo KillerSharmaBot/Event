@@ -1,0 +1,135 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Vote na mochila!",
+        "Link": "https://cocreate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1774616400",
+        "End": "1775444399",
+        "LinkAlt": "https://cocreate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://ind.survey-site.com?fid=d4bc4e406085f1782fb88d2f31fe0e76&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Agradecemos seu apoio a Free Fire! Ajude-nos a fazer melhorias respondendo a este questionário. Analisaremos suas opiniões com cuidado. VAMOS COMEÇAR!",
+        "Start": "1774641600",
+        "End": "1774839599",
+        "LinkAlt": "https://ind.survey-site.com?fid=d4bc4e406085f1782fb88d2f31fe0e76&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Snicker x FF!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Snickers_1400x700_BR_pt.png",
+        "Link": "https://snickersfreefire.com.br/",
+        "Start": "1774666800",
+        "End": "1775444399",
+        "LinkAlt": "https://snickersfreefire.com.br/"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://survey-site.com?fid=f527ff57d6924ab1d462809a08a1e6f5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Agradecemos seu apoio a Free Fire! Ajude-nos a fazer melhorias respondendo a este questionário. Analisaremos suas opiniões com cuidado. VAMOS COMEÇAR!",
+        "Start": "1774641600",
+        "End": "1774839599",
+        "LinkAlt": "https://survey-site.com?fid=f527ff57d6924ab1d462809a08a1e6f5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "FFWS Começou!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/FFWS_Start_1400x700_BR_pt.jpg",
+        "Link": "https://www.instagram.com/ffesportsbr/",
+        "Start": "1773975600",
+        "End": "1780282799",
+        "LinkAlt": "https://www.instagram.com/ffesportsbr/"
+      },
+      {
+        "Title": "Novos Ajustes!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Royale_Removal_1400x700_BR_pt.png",
+        "Link": "https://www.instagram.com/p/DWZhL46E5qQ/?img_index=1",
+        "Start": "1774594800",
+        "End": "1775271599",
+        "LinkAlt": "https://www.instagram.com/p/DWZhL46E5qQ/?img_index=1"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[DAU] Golden Dice QN145 2",
+        "Start": "1774839600",
+        "End": "1774925999",
+        "Link": "V2_mallType_1_storeid_75817",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Golden_Dice_QN145_2_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] MP April Bundle ASF5",
+        "Start": "1774722600",
+        "End": "1774799999",
+        "Link": "https://minipass3.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/MP_April_Bundle_ASF5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] MP April Bundle ASF5",
+        "Start": "1774926000",
+        "End": "1775098799",
+        "Link": "9415",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/MP_April_Bundle_ASF5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] LW Gangster MAVG84",
+        "Start": "1774753200",
+        "End": "1774839599",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/LW_Gangster_MAVG84_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Store Refresh 2 Anitta APN37 2",
+        "Start": "1774839600",
+        "End": "1774925999",
+        "Link": "970693",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Store_Refresh_2_Anitta_APN37_2_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[e-SPORTS] FFWS 4",
+        "Start": "1774800000",
+        "End": "1774808999",
+        "Link": "https://youtube.com/live/saVSqcViVlU?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/FFWS_4_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Store Refresh 2 Anitta APN37 ",
+        "Start": "1774926000",
+        "End": "1775012399",
+        "Link": "970693",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Store_Refresh_2_Anitta_APN37_1750x1070_BR_pt2.png"
+      },
+      {
+        "Title": "[REVENUE] Store Refresh 2 Anitta APN37 2",
+        "Start": "1774666800",
+        "End": "1774753199",
+        "Link": "970693",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Store_Refresh_2_Anitta_APN37_2_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] MP April Bundle ASF5",
+        "Start": "1774809000",
+        "End": "1774839599",
+        "Link": "https://minipass3.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/MP_April_Bundle_ASF5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[e-SPORTS] FFWS 3",
+        "Start": "1774713600",
+        "End": "1774722599",
+        "Link": "https://youtube.com/live/4W4iAMDo_tk?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/FFWS_3_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
