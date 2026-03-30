@@ -1,0 +1,31 @@
+{
+  "updates": {},
+  "events": {
+    "items": [
+      {
+        "Title": "#16 Faded Wheel - Arrival Animation - Panther Strikes! (912052003) (Orange)",
+        "Start": "1774839600",
+        "End": "1774925999",
+        "Link": "V2_chestId_19"
+      },
+      {
+        "Title": "#26 Beat Carnival - Scythe Gratis",
+        "Start": "1774839600",
+        "End": "1774925999",
+        "Link": "15821"
+      },
+      {
+        "Title": "#25 Bonus Top Up",
+        "Start": "1774753200",
+        "End": "1774839599",
+        "Link": "V2_category_1_groupId_15823"
+      },
+      {
+        "Title": "#15 FFNS Trailer",
+        "Start": "1774753200",
+        "End": "1774839599",
+        "Link": "https://youtu.be/pPl8tnQHzIA"
+      }
+    ]
+  }
+}
