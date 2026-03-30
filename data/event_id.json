@@ -1,0 +1,41 @@
+{
+  "updates": {},
+  "events": {
+    "items": [
+      {
+        "Title": "#11 Item Old Relaunch Royale",
+        "Start": "1775012400",
+        "End": "1775098799"
+      },
+      {
+        "Title": "#16 Faded Wheel - Arrival Animation - Panther Strikes! (912052003) (Orange)",
+        "Start": "1774839600",
+        "End": "1774925999",
+        "Link": "V2_chestId_19"
+      },
+      {
+        "Title": "#17 Marketing Slot",
+        "Start": "1774926000",
+        "End": "1775012399",
+        "Link": "https://www.youtube.com/watch?v=U4v6n4KTTc4"
+      },
+      {
+        "Title": "#26 Beat Carnival - Scythe Gratis",
+        "Start": "1774839600",
+        "End": "1774925999",
+        "Link": "15821"
+      },
+      {
+        "Title": "#1 CS Rank Season Baru",
+        "Start": "1775034000",
+        "End": "1775098799"
+      },
+      {
+        "Title": "#21 Beat Carnival - Misi Quackman!",
+        "Start": "1775012400",
+        "End": "1775033999",
+        "Link": "15822"
+      }
+    ]
+  }
+}
