@@ -1,0 +1,109 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "PLATOON SYSTEM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GeneralAnnouncement_en.jpg",
+        "Details": "Dear Survivors,\n\nThe Platoon System will be removed from the game from 08 April 2026 onwards until further notice!\n\nPlease claim any rewards if you have not done so. Thanks for your support!",
+        "Start": "1774087200",
+        "End": "1775599199",
+        "LinkAlt": "V2_friendType_7"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "9th Anniv. Voting",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/9AnniCoCreateVoteNews_en.jpg",
+        "Start": "1774598400",
+        "End": "1775426399",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "BPS40",
+        "Start": "1775008800",
+        "End": "1775095199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BPS40_en.jpg"
+      },
+      {
+        "Title": "BC26_Beat Carnival",
+        "Start": "1775095200",
+        "End": "1775181599",
+        "Link": "V2_eventid_53_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_BeatCarnival_en.jpg"
+      },
+      {
+        "Title": "BC26_HowToEarnTokens",
+        "Start": "1775008800",
+        "End": "1775033999",
+        "Link": "V2_eventid_53_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_HowToEarnTokens_en.jpg"
+      },
+      {
+        "Title": "EvoVaultScarEvoGun",
+        "Start": "1775095200",
+        "End": "1775181599",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_EvoVaultScarEvoGun_en.jpg"
+      },
+      {
+        "Title": "BC26_The Beat Drop",
+        "Start": "1774922400",
+        "End": "1775008799",
+        "Link": "V2_category_5_groupID_26032501",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_TheBeatDrop_en.jpg"
+      },
+      {
+        "Title": "CSS36 Mission",
+        "Start": "1775034000",
+        "End": "1775095199",
+        "Link": "V2_category_1_groupID_26040101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_CSS36Mission_en.jpg"
+      },
+      {
+        "Title": "FadedWheelPantherStrikesArrivalAnimation",
+        "Start": "1774836000",
+        "End": "1774922399",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FadedWheelPantherStrikesArrivalAnimation_en.jpg"
+      },
+      {
+        "Title": "BC26_Alok New Collab",
+        "Start": "1774836000",
+        "End": "1774922399",
+        "Link": "https://youtu.be/ELDuiIF1DOY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_AlokNewCollab_en.jpg"
+      },
+      {
+        "Title": "M14XAugRingFlamedBeatXAuroraSHoller",
+        "Start": "1774922400",
+        "End": "1775008799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_M14XAugRingFlamedBeatXAuroraSHoller_en.jpg"
+      }
+    ]
+  }
+}
