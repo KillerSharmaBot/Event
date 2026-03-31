@@ -1,0 +1,60 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "Голосование к 9-летию",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_9thAnnovieRU_ru.jpg",
+        "Start": "1774594800",
+        "End": "1806958799",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      },
+      {
+        "Title": "ЗАКРЫТИЕ СИСТЕМЫ ПЛАЦДАРМА",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeRU_336x880_ru.jpg",
+        "Details": "Привет Выживший,\n\nУведомляем, что Система Плацдарма покинет игру с 8-го Апреля 2026.\n\nПожалуйста, не забудь забрать награды, если они тебе положены! Благодарим за твою поддержку, удачи в Booyah!",
+        "Start": "1774083600",
+        "End": "1775595599",
+        "LinkAlt": "V2_friendType_7"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "THE BEAT DROP",
+        "Start": "1774918800",
+        "End": "1775005199",
+        "Link": "V2_category_6_groupID_95420",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BeatDropSplashRU_ru.jpg"
+      },
+      {
+        "Title": "M14 x AUG Ring: FLAMED BEAT x AURORA'S HOLLER",
+        "Start": "1774918800",
+        "End": "1775005199",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/M14xAug_SplashRU_ru.jpg"
+      }
+    ]
+  }
+}
