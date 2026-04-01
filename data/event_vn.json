@@ -1,0 +1,54 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Vote Balo Sinh Nhật",
+        "Link": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1774584000",
+        "End": "1775408399",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW5: BP S39",
+        "Start": "1774976400",
+        "End": "1775062799",
+        "Link": "59"
+      },
+      {
+        "Title": "LW: Line Art Pro ",
+        "Start": "1775149200",
+        "End": "1775321999"
+      },
+      {
+        "Title": "QUA TU CHIEN MUA MOI",
+        "Start": "1774976400",
+        "End": "1775494799",
+        "Link": "V2_category_5_groupId_1201304"
+      },
+      {
+        "Title": "FW1: Desert Eagle - Finger Gun",
+        "Start": "1775062800",
+        "End": "1775149199",
+        "Link": "19"
+      }
+    ]
+  }
+}
