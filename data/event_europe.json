@@ -1,0 +1,114 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "PLATOON SYSTEM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GeneralAnnouncement_en.jpg",
+        "Details": "Dear Survivors,\n\nThe Platoon System will be removed from the game from 08 April 2026 onwards until further notice!\n\nPlease claim any rewards if you have not done so. Thanks for your support!",
+        "Start": "1774087200",
+        "End": "1775599199",
+        "LinkAlt": "V2_friendType_7"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestrictionNews_en.jpg",
+        "Start": "1774994400",
+        "End": "1777154399"
+      },
+      {
+        "Title": "OB52 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_FeedbackSurvey0703_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775145600",
+        "End": "1775512799",
+        "LinkAlt": "https://ind.survey-site.com?fid=4248486b57812c52e9425288074ce59a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "9th Anniv. Voting",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/9AnniCoCreateVoteNews_en.jpg",
+        "Start": "1774598400",
+        "End": "1775426399",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Funny Ring Quackman",
+        "Start": "1775440800",
+        "End": "1775527199",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FunnyRingQuackman_en.jpg"
+      },
+      {
+        "Title": "Funny Ring Quackman",
+        "Start": "1775354400",
+        "End": "1775440799",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FunnyRingQuackman_en.jpg"
+      },
+      {
+        "Title": "BC26_The Beat Drop",
+        "Start": "1775181600",
+        "End": "1775267999",
+        "Link": "V2_category_5_groupID_26032501",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_TheBeatDrop_en.jpg"
+      },
+      {
+        "Title": "EvoVaultScarEvoGun",
+        "Start": "1775181600",
+        "End": "1775267999",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_EvoVaultScarEvoGun_en.jpg"
+      },
+      {
+        "Title": "OB53_KellyShow",
+        "Start": "1775354400",
+        "End": "1775440799",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_OB53_KellyShow_en.jpg"
+      },
+      {
+        "Title": "BC26_Kelly Show",
+        "Start": "1775268000",
+        "End": "1775354399",
+        "Link": "https://youtu.be/wQj85K3lHPY",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BC26_KellyShow_en.jpg"
+      },
+      {
+        "Title": "FadedWheelUntamedBeatFist",
+        "Start": "1775268000",
+        "End": "1775354399",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FadedWheelUntamedBeatFist_en.jpg"
+      },
+      {
+        "Title": "OB53_KellyShow",
+        "Start": "1775440800",
+        "End": "1775527199",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_OB53_KellyShow_en.jpg"
+      }
+    ]
+  }
+}
