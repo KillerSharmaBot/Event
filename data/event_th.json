@@ -1,0 +1,251 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ตอบหน่อย อยากรู้!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "ช่วงนี้เป็นไงบ้าง? \n\n \n\nพี่ๆ GM มีคำถามสงสัย \n\n \n\nมาบอกพี่ GM หน่อยน้าา! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 5 เมษายน 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1775214000",
+        "End": "1775408399",
+        "LinkAlt": "https://ind.survey-site.com?fid=38626748e6ecc8b77b8dfe15ae0a0e3a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ตอบหน่อย อยากรู้!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "ช่วงนี้เป็นไงบ้าง? \n\n \n\nพี่ๆ GM มีคำถามสงสัย \n\n \n\nมาบอกพี่ GM หน่อยน้าา! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 6 เมษายน 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1775127600",
+        "End": "1775494799",
+        "LinkAlt": "https://ind.survey-site.com?fid=4248486b57812c52e9425288074ce59a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ยุติฟีเจอร์ศิษย์-อาจารย์",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260327-ANC_ClosedFeatureMaster_1400x700.ff_extend",
+        "Start": "1774580400",
+        "End": "1807117199",
+        "LinkAlt": "        V2_friendType_7"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/aA2kxztpN3EX4doWA",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "LinkAlt": "https://forms.gle/aA2kxztpN3EX4doWA"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Apr26_FW2_Fist_3Choose1",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FW2_Fist_3Choose1.png"
+      },
+      {
+        "Title": "2026Apr_SK_Kill_enemies_Multimission_1",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "V2_category_5_groupId_57122",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Kill_enemies_Multimission_1.png"
+      },
+      {
+        "Title": "TH_Apr26_TW4_IncubatorFashionVault_Infernal",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW4_IncubatorFashionVault_Infernal.png"
+      },
+      {
+        "Title": "TH_Apr26_TG2_Songkran",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TG2_Songkran.png"
+      },
+      {
+        "Title": "TH_Apr26_Evopass",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Evopass.png"
+      },
+      {
+        "Title": "TH_Apr26_TW1_EvoVault",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW1_EvoVault.png"
+      },
+      {
+        "Title": "TH_Apr26_Topup_Monthly",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "57202",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Apr26_TG3_UET",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "V2_chestId_64",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TG3_UET.png"
+      },
+      {
+        "Title": "TH_Apr26_TW4_IncubatorFashionVault_Infernal",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW4_IncubatorFashionVault_Infernal.png"
+      },
+      {
+        "Title": "TH_Apr26_TW4_IncubatorFashionVault_Infernal",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW4_IncubatorFashionVault_Infernal.png"
+      },
+      {
+        "Title": "TH_Apr26_TG3_UET",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "V2_chestId_64",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TG3_UET.png"
+      },
+      {
+        "Title": "TH_Apr26_TG3_UET",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "V2_chestId_64",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TG3_UET.png"
+      },
+      {
+        "Title": "Survey_Apr",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "https://survey-site.com?fid=068f7f1c8d9e88796f12e5058b0ebcb5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Survey_Apr.png"
+      },
+      {
+        "Title": "Survey_Apr",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "https://survey-site.com?fid=068f7f1c8d9e88796f12e5058b0ebcb5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Survey_Apr.png"
+      },
+      {
+        "Title": "2026Apr_SK_Kill_enemies_Multimission_1",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "V2_category_5_groupId_57122",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Kill_enemies_Multimission_1.png"
+      },
+      {
+        "Title": "TH_Apr26_TG2_Songkran",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TG2_Songkran.png"
+      },
+      {
+        "Title": "TH_Apr26_Shop_DoubleDigit_Discount",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "V2_storeid_407102303",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Shop_DoubleDigit_Discount.png"
+      },
+      {
+        "Title": "TH_Apr26_FW2_Fist_3Choose1",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FW2_Fist_3Choose1.png"
+      },
+      {
+        "Title": "TH_Apr26_TW1_EvoVault",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW1_EvoVault.png"
+      },
+      {
+        "Title": "TH_Mar26_WV1_FinishingMove_Treasurehunt",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_WV1_FinishingMove_Treasurehunt.png"
+      },
+      {
+        "Title": "TH_Apr26_Topup_Monthly",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "57202",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Apr26_TW1_EvoVault",
+        "Start": "1775322000",
+        "End": "1775408399",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW1_EvoVault.png"
+      },
+      {
+        "Title": "2026Mar_LT_Interface",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Interface.png"
+      },
+      {
+        "Title": "2026Apr_LT_Deal_Damage_2Mission_1",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "V2_category_5_groupId_56827",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_LT_Deal_Damage_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Apr26_FW2_Fist_3Choose1",
+        "Start": "1775408400",
+        "End": "1775494799",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FW2_Fist_3Choose1.png"
+      },
+      {
+        "Title": "TH_Apr26_TW3_Fashion_GoldenCatDog",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW3_Fashion_GoldenCatDog_DynamicBG.png"
+      },
+      {
+        "Title": "2026Mar_LT_Login_days_2Mission_1",
+        "Start": "1775494800",
+        "End": "1775581199",
+        "Link": "V2_category_5_groupId_56825",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Mar_LT_Login_days_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Apr26_Topup_Special_randomGem",
+        "Start": "1775235600",
+        "End": "1775321999",
+        "Link": "57200",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Topup_Special_randomGem.png"
+      }
+    ]
+  }
+}
