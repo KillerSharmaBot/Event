@@ -1,0 +1,117 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1775170800",
+        "End": "1775537999",
+        "LinkAlt": "https://ind.survey-site.com?fid=4248486b57812c52e9425288074ce59a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "EWC Qualifier 2026",
+        "Banner": "OB53/US/EWCqua011400x700.png",
+        "Start": "1775019600",
+        "End": "1775365199",
+        "LinkAlt": "https://youtube.com/live/gMbQ2JqpAug?feature=share"
+      },
+      {
+        "Title": "Nueva Temporada 36 DE",
+        "Banner": "OB53/US/nuevat36cs1400x700.png",
+        "Start": "1775019600",
+        "End": "1775710799",
+        "LinkAlt": "V2_Team_1_Match_6_Map_1_Game_15"
+      },
+      {
+        "Title": "¡Vota ahora!",
+        "Link": "https://cocreate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1774587600",
+        "End": "1775537999",
+        "LinkAlt": "https://cocreate.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "¿Un Free?",
+        "Banner": "OB53/US/UNFAU30_1400x700_es.png",
+        "Start": "1774846800",
+        "End": "1775624399",
+        "LinkAlt": "V2_url_\"https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bp75c226f3683f7e94174f10c7e8d3092b\""
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1775253600",
+        "End": "1775451599",
+        "LinkAlt": "https://ind.survey-site.com?fid=38626748e6ecc8b77b8dfe15ae0a0e3a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Operación Anti-Hacks",
+        "Banner": "OB53/US/blockedaccounts_US1400x7000.png",
+        "Start": "1774933200",
+        "End": "1775624399",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Easter Male Bundle + Graffiti Reaper",
+        "Start": "1775278800",
+        "End": "1775451599",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TWEA0404_1750x1070_es.png"
+      },
+      {
+        "Title": "DAU Pre-token Patch ",
+        "Start": "1775451600",
+        "End": "1775624399",
+        "Link": "V2_category_5_groupId_51036",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/DAUPR0406_1750x1070_es.png"
+      },
+      {
+        "Title": "Sunday Funday",
+        "Start": "1775365200",
+        "End": "1775410199",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SUNF0405V2_1750x1070_es.png"
+      },
+      {
+        "Title": "Online Tournament 2hrs",
+        "Start": "1775323800",
+        "End": "1775331000",
+        "Link": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpc4acb2a243b40abd3a6a884d32041889",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ESON0403_1750x1070_es.png"
+      },
+      {
+        "Title": "Online Tournament 2hrs",
+        "Start": "1775410200",
+        "End": "1775417400",
+        "Link": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpc4acb2a243b40abd3a6a884d32041889",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ESON0403_1750x1070_es.png"
+      },
+      {
+        "Title": "Emote Wonder Vault - Max Firepower + Magma Quake",
+        "Start": "1775451600",
+        "End": "1775624399",
+        "Link": "72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/WVEM0406_1750x1070_es.png"
+      },
+      {
+        "Title": "EVO MP5 Relaunch        ",
+        "Start": "1775331001",
+        "End": "1775365199",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWEV0403V2_1750x1070_es.png"
+      },
+      {
+        "Title": "Sunday Funday",
+        "Start": "1775417401",
+        "End": "1775451599",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SUNF0405V2_1750x1070_es.png"
+      }
+    ]
+  }
+}
