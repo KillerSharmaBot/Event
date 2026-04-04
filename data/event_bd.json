@@ -1,0 +1,130 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "All Esports Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/AllEsportsUpdatesSplasgBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1775325599",
+        "LinkAlt": "https://www.facebook.com/ffesportsbdofficial"
+      },
+      {
+        "Title": "Full Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FullMatchActionAnnoBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1775325599",
+        "LinkAlt": "https://www.youtube.com/@ffesportsbdofficial"
+      },
+      {
+        "Title": "One-Tap Moments",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OneTapMomentsAnnoBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1775325599",
+        "LinkAlt": "https://www.tiktok.com/@ffesports.bd"
+      },
+      {
+        "Title": "Play of the Day",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PlayOfTheDaySplashBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1775325599",
+        "LinkAlt": "https://www.instagram.com/ffesports.bd/"
+      },
+      {
+        "Title": "PLATOON SYSTEM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors,\n\nThe Platoon System will be removed from the game from 08 April 2026 onwards until further notice!\n\nPlease claim any rewards if you have not done so. Thanks for your support!",
+        "Start": "1774072800",
+        "End": "1775584799",
+        "LinkAlt": "V2_friendType_7"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_SquadRestrictionNoticeAnnoBD_en.jpg",
+        "Start": "1775034954",
+        "End": "1777139999"
+      },
+      {
+        "Title": "9th Anniv. Voting",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_9thAnnivVotingAnnoBD_en.jpg",
+        "Start": "1774584000",
+        "End": "1775411999",
+        "LinkAlt": "https://cocreate.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "OB52 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775131200",
+        "End": "1775498399",
+        "LinkAlt": "https://ind.survey-site.com?fid=4248486b57812c52e9425288074ce59a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Kelly Show OB53",
+        "Start": "1775512800",
+        "End": "1775599199"
+      },
+      {
+        "Title": "Faded Wheel: UNTAMED BEAT FIST**",
+        "Start": "1775325600",
+        "End": "1775339999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUntamedBeatSplashBD_en.jpg"
+      },
+      {
+        "Title": "Kelly Show OB53",
+        "Start": "1775340000",
+        "End": "1775426399"
+      },
+      {
+        "Title": "Kelly Show OB53",
+        "Start": "1775426400",
+        "End": "1775512799"
+      },
+      {
+        "Title": "Kelly Show (Beat Carnival)",
+        "Start": "1775253600",
+        "End": "1775339999",
+        "Link": "https://youtu.be/IuQ1BOrMo_w",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_KellyShowBeatCarnivalSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNTAMED BEAT FIST**",
+        "Start": "1775253600",
+        "End": "1775291399",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUntamedBeatSplashBD_en.jpg"
+      },
+      {
+        "Title": "Step Up: UMBRELLA GO TRAVEL EMOTE x SHOWER TIME EMOTE*",
+        "Start": "1775512800",
+        "End": "1775599199",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_StepUpUmbrellaGoSplashBD_en.jpg"
+      },
+      {
+        "Title": "Funny Ring: QUACKMAN BUNDLE x BUBBLE TROUBLE BUNDLE**",
+        "Start": "1775426400",
+        "End": "1775512799",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FunnyRingQuackManSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFWS BD 2026 Spring Grand Final",
+        "Start": "1775291400",
+        "End": "1775325599",
+        "Link": "https://youtube.com/live/3UV9DqB148M?feature=share"
+      },
+      {
+        "Title": "Funny Ring: QUACKMAN BUNDLE x BUBBLE TROUBLE BUNDLE**",
+        "Start": "1775340000",
+        "End": "1775426399",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FunnyRingQuackManSplashBD_en.jpg"
+      }
+    ]
+  }
+}
