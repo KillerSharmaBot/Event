@@ -1,0 +1,320 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ยุติฟีเจอร์ศิษย์-อาจารย์",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260327-ANC_ClosedFeatureMaster_1400x700.ff_extend",
+        "Start": "1774580400",
+        "End": "1807117199",
+        "LinkAlt": "        V2_friendType_7"
+      },
+      {
+        "Title": "สั้นมาก!! ไม่เชื่อลองตอบ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeSquidGame_336x580.ff_extend",
+        "Details": "เจอปัญหาทางบัญชีอะไรกันบ้าง \n\n \n\nบอกหน่อยพี่อยากแก้ \n\n \n\nในแบบสอบถามนี้เลย!! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 9 เมษายน 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1775556000",
+        "End": "1775753999",
+        "LinkAlt": "https://survey-site.com?fid=6e8314cb6a11ff65c10e58ff286a8b48&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "สั้นมาก!! ไม่เชื่อลองตอบ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeSquidGame_336x580.ff_extend",
+        "Details": "เต้นก็แล้ว ขุดสมบัติก็แล้ว \n\n \n\nกิจกรรมต่อไปอยากให้เป็นอะไร? \n\n \n\nมาบอกพี่ GM หน่อยน้าา! \n\n\n \n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 9 เมษายน 2569 เวลา 23.59 น.\n\n \n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1775556000",
+        "End": "1775753999",
+        "LinkAlt": "https://survey-site.com?fid=068f7f1c8d9e88796f12e5058b0ebcb5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "2026Apr_SK_Play_games_2Mission_1",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "V2_category_5_groupId_57331",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Play_games_2Mission_1.png"
+      },
+      {
+        "Title": "TH_Apr26_TW2_EA_Fashion_BlueTears_Prime",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW2_EA_Fashion_BlueTears_Prime_DynamicBG.png"
+      },
+      {
+        "Title": "Esport_Thailand_Gogo",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "https://ffredirect.sea.freefiremobile.com/api/info?banner_id=bpaa30af793a0da2f0eeb6f13a77874f0b",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Esport_Thailand_Gogo.png"
+      },
+      {
+        "Title": "2026Apr_SK_Interface",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Interface.png"
+      },
+      {
+        "Title": "TH_Apr26_Web_Songkran",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "https://triplefests.freefire.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Web_Songkran.png"
+      },
+      {
+        "Title": "Esport_Thailand_Gogo",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "https://ffredirect.sea.freefiremobile.com/api/info?banner_id=bpaa30af793a0da2f0eeb6f13a77874f0b",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Esport_Thailand_Gogo.png"
+      },
+      {
+        "Title": "TH_Apr26_GroupTopup_BlueTears",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "V2_squadTreasureId_1",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_GroupTopup_BlueTears.png"
+      },
+      {
+        "Title": "TH_Apr26_FR",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_chestId_23",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FR.png"
+      },
+      {
+        "Title": "2026Apr_SK_Deal_damage_OverviewBG_2",
+        "Start": "1775707200",
+        "End": "1775753999",
+        "Link": "V2_category_5_groupId_57325",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Deal_damage_OverviewBG_2.png"
+      },
+      {
+        "Title": "TH_Apr26_Web_Songkran",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "https://triplefests.freefire.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Web_Songkran.png"
+      },
+      {
+        "Title": "TH_Mar26_TW5_TriOGun_TXA",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Mar26_TW5_TriOGun_TXA.png"
+      },
+      {
+        "Title": "TH_Apr26_FR",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "V2_chestId_23",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FR.png"
+      },
+      {
+        "Title": "TH_Apr26_TG2_Songkran",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TG2_Songkran.png"
+      },
+      {
+        "Title": "2026Apr_SK_Play_games_DAU_1",
+        "Start": "1775620800",
+        "End": "1775667599",
+        "Link": "V2_category_5_groupId_57327",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Play_games_DAU_1.png"
+      },
+      {
+        "Title": "TH_Apr26_TW2_Fashion_BlueTears_Preheat",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW2_Fashion_BlueTears_Preheat_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Apr26_Web_Songkran",
+        "Start": "1775707200",
+        "End": "1775753999",
+        "Link": "https://triplefests.freefire.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_Web_Songkran.png"
+      },
+      {
+        "Title": "2026Apr_SK_Login_days_2Mission_5",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "V2_category_5_groupId_57333",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Login_days_2Mission_5.png"
+      },
+      {
+        "Title": "2026Apr_SK_Login_days_2Mission_2",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_category_5_groupId_57123",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Login_days_2Mission_2.png"
+      },
+      {
+        "Title": "2026Apr_SK_Play_games_2Mission_1",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "V2_category_5_groupId_57331",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Play_games_2Mission_1.png"
+      },
+      {
+        "Title": "2026Apr_SK_Login_days_2Mission_2",
+        "Start": "1775620800",
+        "End": "1775667599",
+        "Link": "V2_category_5_groupId_57123",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Login_days_2Mission_2.png"
+      },
+      {
+        "Title": "TH_Apr26_BP40",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "V2_BPTYPE_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_BP40.png"
+      },
+      {
+        "Title": "2026Apr_SK_Login_days_2Mission_2",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "V2_category_5_groupId_57123",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Login_days_2Mission_2.png"
+      },
+      {
+        "Title": "2026Apr_SK_Kill_enemies_OverviewBG_2",
+        "Start": "1775707200",
+        "End": "1775753999",
+        "Link": "V2_category_5_groupId_57324",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Kill_enemies_OverviewBG_2.png"
+      },
+      {
+        "Title": "2026Apr_SK_Interface",
+        "Start": "1775620800",
+        "End": "1775667599",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Interface.png"
+      },
+      {
+        "Title": "TH_Apr26_TW2_EA_Fashion_BlueTears_Prime",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW2_EA_Fashion_BlueTears_Prime_DynamicBG.png"
+      },
+      {
+        "Title": "MKT_Offline_Event",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "https://www.facebook.com/share/p/1JAazBAZfL/?mibextid=wwXIfr",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/MKT_Offline_Event.png"
+      },
+      {
+        "Title": "TH_Apr26_TW2_Fashion_BlueTears",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW2_Fashion_BlueTears_DynamicBG.png"
+      },
+      {
+        "Title": "Survey_Apr",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "https://survey-site.com?fid=068f7f1c8d9e88796f12e5058b0ebcb5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Survey_Apr.png"
+      },
+      {
+        "Title": "TH_Apr26_FR",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "V2_chestId_23",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FR.png"
+      },
+      {
+        "Title": "TH_Apr26_FW1_AA_BlueTears",
+        "Start": "1775840400",
+        "End": "1775926799",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FW1_AA_BlueTears_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Apr26_TW2_Fashion_BlueTears_Preheat",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_TW2_Fashion_BlueTears_Preheat_DynamicBG.png"
+      },
+      {
+        "Title": "Esport_Thailand_Gogo",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "https://ffredirect.sea.freefiremobile.com/api/info?banner_id=bpaa30af793a0da2f0eeb6f13a77874f0b",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/Esport_Thailand_Gogo.png"
+      },
+      {
+        "Title": "All_Higlight_Feature_Splash",
+        "Start": "1775620800",
+        "End": "1775667599",
+        "Link": "V2_category_10_groupId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/All_Higlight_Feature_Splash.png"
+      },
+      {
+        "Title": "TH_Apr26_FW1_AA_BlueTears",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Apr26_FW1_AA_BlueTears_DynamicBG.png"
+      },
+      {
+        "Title": "MKT_Offline_Event",
+        "Start": "1775754000",
+        "End": "1775840399",
+        "Link": "https://www.facebook.com/share/p/1JAazBAZfL/?mibextid=wwXIfr",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/MKT_Offline_Event.png"
+      },
+      {
+        "Title": "2026Apr_SK_Play_games_2Mission_1",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_category_5_groupId_57331",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Play_games_2Mission_1.png"
+      },
+      {
+        "Title": "2026Apr_LT_Deal_Damage_2Mission_1",
+        "Start": "1775617200",
+        "End": "1775667599",
+        "Link": "V2_category_5_groupId_56827",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_LT_Deal_Damage_2Mission_1.png"
+      },
+      {
+        "Title": "2026Apr_SK_Interface",
+        "Start": "1775667600",
+        "End": "1775753999",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Interface.png"
+      },
+      {
+        "Title": "2026Apr_SK_Login_days_2Mission_5",
+        "Start": "1775768400",
+        "End": "1775840399",
+        "Link": "V2_category_5_groupId_57333",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026Apr_SK_Login_days_2Mission_5.png"
+      }
+    ]
+  }
+}
