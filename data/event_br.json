@@ -1,0 +1,90 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://survey-site.com?fid=2122ee9bfc5b653014470126a7b8d01c&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Falaaa tropa do Frifas! Precisamos da ajuda de vocês para entender algumas coisinhas sobre o processo de recarga de diamantes! Poderiam nos ajudar? A opinião de vocês é extremamente importante para a gente! Tendo recarregado diamantes ou não, gostaríamos de ter sua opinião!",
+        "Start": "1775444400",
+        "End": "1775789999",
+        "LinkAlt": "https://survey-site.com?fid=2122ee9bfc5b653014470126a7b8d01c&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "FFWS Começou!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/FFWS_Start_1400x700_BR_pt.jpg",
+        "Link": "https://www.instagram.com/ffesportsbr/",
+        "Start": "1773975600",
+        "End": "1780282799",
+        "LinkAlt": "https://www.instagram.com/ffesportsbr/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE]  Blue Tear Male Female Bundles KG57 EA",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "V2_drawShopId_530302",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Blue_Tear_Male_Female_Bundles_KG57_EA_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Blue Tear Skydive Gloo Bp SDG5",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "V2_drawShopId_530301",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Blue_Tear_Skydive_Gloo_Bp_SDG5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE]  Blue Tear Male Female Bundles KG57 EA",
+        "Start": "1775617200",
+        "End": "1775789999",
+        "Link": "V2_drawShopId_530102",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Blue_Tear_Male_Female_Bundles_KG57_EA_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Bunny Warrior Red Purple ASGK09",
+        "Start": "1775617200",
+        "End": "1775789999",
+        "Link": "V2_drawShopId_530101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Bunny_Warrior_Red_Purple_ASGK09_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Evo MP40 Relaunch AWG2",
+        "Start": "1775617200",
+        "End": "1775789999",
+        "Link": "V2_drawShopId_530302",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Evo_MP40_Relaunch_AWG2_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Easter Mystery Shop FNQ4",
+        "Start": "1775444400",
+        "End": "1775617199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Easter_Mystery_Shop_FNQ4_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] MP April Bundle ASF5",
+        "Start": "1775444400",
+        "End": "1775617199",
+        "Link": "9415",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/MP_April_Bundle_ASF5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Diamond Bonus April",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "60653",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Diamond_Bonus_April_1750x1070_BR_pt.jpg"
+      }
+    ]
+  }
+}
