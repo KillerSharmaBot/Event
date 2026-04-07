@@ -1,0 +1,83 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "PLATOON SYSTEM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GeneralAnnouncement_en.jpg",
+        "Details": "Dear Survivors,\n\nThe Platoon System will be removed from the game from 08 April 2026 onwards until further notice!\n\nPlease claim any rewards if you have not done so. Thanks for your support!",
+        "Start": "1774087200",
+        "End": "1775599199",
+        "LinkAlt": "V2_friendType_7"
+      },
+      {
+        "Title": "FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_FeedbackSurvey0703_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775487600",
+        "End": "1775685599",
+        "LinkAlt": "https://ind.survey-site.com?fid=79b68fadf1bf1b52a26570d694f8984a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestrictionNews_en.jpg",
+        "Start": "1774994400",
+        "End": "1777154399"
+      },
+      {
+        "Title": "OB52 FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Survey2_336x580_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775487600",
+        "End": "1775685599",
+        "LinkAlt": "https://ind.survey-site.com?fid=38626748e6ecc8b77b8dfe15ae0a0e3a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION> "
+      },
+      {
+        "Title": "FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_FeedbackSurvey0703_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775487600",
+        "End": "1775685599",
+        "LinkAlt": "https://ind.survey-site.com?fid=c27b37501b291af1b958947e51a050d1&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "OB53_KellyShow",
+        "Start": "1775527200",
+        "End": "1775620799",
+        "Link": "https://youtu.be/IEAAmaB7oTU?si=IgrOquO_0Fd_jvlC",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_OB53_KellyShow_en.jpg"
+      },
+      {
+        "Title": "StepUpUmbrellaGoTravelEmote",
+        "Start": "1775527200",
+        "End": "1775620799",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_StepUpUmbrellaGoTravelEmote_en.jpg"
+      }
+    ]
+  }
+}
