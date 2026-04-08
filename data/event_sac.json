@@ -1,0 +1,94 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "\"El pelotón\" se despide",
+        "Banner": "OB53/US/elpeloton1400x700.png",
+        "Start": "1775509200",
+        "End": "1776221999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Alpes en Mantenimiento",
+        "Banner": "OB53/US/alpinemante1400x700.png",
+        "Start": "1775509200",
+        "End": "1776221999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Nueva Temporada 36 DE",
+        "Banner": "OB53/US/nuevat36cs1400x700.png",
+        "Start": "1775012400",
+        "End": "1775703599",
+        "LinkAlt": "V2_Team_1_Match_6_Map_1_Game_15"
+      },
+      {
+        "Title": "El parche de volada",
+        "Banner": "OB53/US/elparchedev1400x700.png",
+        "Start": "1775620800",
+        "End": "1776308399",
+        "LinkAlt": "https://www.youtube.com/watch?v=bl7bHJ91mLk"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775876400",
+        "End": "1775921399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Early Acces Skydive Blue Tiers\t\t",
+        "Start": "1775617200",
+        "End": "1775703599",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADEA5224_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F    ",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Community Voting Splash ",
+        "Start": "1775703600",
+        "End": "1775876399",
+        "Link": "https://votingbundle.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/COVO0409_1750x1070_es.png"
+      },
+      {
+        "Title": "AN94 + VSK Blue Tiers       ",
+        "Start": "1775617200",
+        "End": "1775703599",
+        "Link": "28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/US/ANN990408.png"
+      },
+      {
+        "Title": "Early Acces Skydive Blue Tiers\t\t",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADEA5224_1750x1070_es.png"
+      },
+      {
+        "Title": "PM FW - Skydive Blue Tiers",
+        "Start": "1775876400",
+        "End": "1776049199",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4731_1750x1070_es.png"
+      },
+      {
+        "Title": "New Character & Special Interface",
+        "Start": "1775620800",
+        "End": "1775789999",
+        "Link": "V2_category_6_groupId_51037",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/NECHA04_1750x1070_es.png"
+      }
+    ]
+  }
+}
