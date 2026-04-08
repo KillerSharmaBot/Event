@@ -1,0 +1,124 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TheLatestUpdatesINDanno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.instagram.com/freefireindiaofficial/"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_WatchTheBattleUnfoldINDAnno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.youtube.com/@FreeFireIndiaOfficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_StayInLoopAnnIND_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.facebook.com/freefireIND"
+      },
+      {
+        "Title": "OB52 FF Survey",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/SurveryBannerEN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775475000",
+        "End": "1775759399",
+        "LinkAlt": "https://ind.survey-site.com?fid=38626748e6ecc8b77b8dfe15ae0a0e3a&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Feedback Survey",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/surveyind_en.jpg",
+        "Details": "Hi Survivor\n\nIn order to improve your gaming experience, we team want to better understand your preferences. Please share your feedback by filling up the survey.\n\nThank you for your time and feedback.\n\n- Free Fire MAX Operations Team",
+        "Start": "1775458766",
+        "End": "1776018599",
+        "LinkAlt": "https://ind.survey-site.com?fid=b06e4ddb90e14a864e7c8483987715b0&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "TVF HEADSHOT",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TVFHeadshot0327AnnoIND_en.jpg",
+        "Start": "1774477800",
+        "End": "1777314599",
+        "LinkAlt": "https://youtube.com/playlist?list=PLTB0eCoUXErZvhYxNr8dgIstSa7gCs_hs&si=VQQQkp8Q5uWubVyF"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1775687400",
+        "End": "1775773799",
+        "Link": "https://youtu.be/NfJSe7tzUyo",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_UnderseaMysteryCGSplashIND_en.jpg"
+      },
+      {
+        "Title": "M1014 x VSK94 Ring: UNDERSEA RAMPAGE x UNDERSEA MYSTERY***",
+        "Start": "1775773800",
+        "End": "1775860199",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_M1014xVSK94RingSplashIND_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1775860200",
+        "End": "1775946599",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FWUnderseaSpectacleSplashIND_en.jpg"
+      },
+      {
+        "Title": "Undersea Mystery Interface",
+        "Start": "1775773800",
+        "End": "1775795399",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_UnderseaMysteryInterfaceSplashIND_en.jpg"
+      },
+      {
+        "Title": "Kelly Show OB53",
+        "Start": "1775514600",
+        "End": "1775620799",
+        "Link": "https://youtu.be/akXkeAxfsNU",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_OB53KellyShowSplashIND_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1775620800",
+        "End": "1775687399",
+        "Link": "https://youtu.be/NfJSe7tzUyo",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_UnderseaMysteryCGSplashIND_en.jpg"
+      },
+      {
+        "Title": "Step Up: UMBRELLA GO TRAVEL EMOTE x SHOWER TIME EMOTE*",
+        "Start": "1775601000",
+        "End": "1775687399",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_StepUpUmbrellaGoSplashIND_en.jpg"
+      },
+      {
+        "Title": "(IND Only) TBA Phase 1 Voting Banner",
+        "Start": "1775795400",
+        "End": "1775860199",
+        "Link": "https://ffmawardshow.web.freefireindiamobile.com/?access_token=u003cGARENA_TOKENu003eu0026lang=u003cFF_LANGUAGEu003eu0026region=u003cFF_REGIONu003e",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_BooyahAwardsVotingPhase1SplashIND_en.jpg"
+      },
+      {
+        "Title": "[All] Try Out Ray",
+        "Start": "1775860200",
+        "End": "1775946599",
+        "Link": "V2_category_1_groupID_95477",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_TryOutRaySplashIND_en.jpg"
+      },
+      {
+        "Title": "M1014 x VSK94 Ring: UNDERSEA RAMPAGE x UNDERSEA MYSTERY***",
+        "Start": "1775687400",
+        "End": "1775773799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_M1014xVSK94RingSplashIND_en.jpg"
+      }
+    ]
+  }
+}
