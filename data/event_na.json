@@ -1,0 +1,108 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireUSOfficial/"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/Wvmz3ktQ6e"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "M1014 x VSK94 Ring: UNDERSEA RAMPAGE x UNDERSEA MYSTERY***",
+        "Start": "1775808000",
+        "End": "1775894399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_M1014xVSK94RingSplashNA_en.jpg"
+      },
+      {
+        "Title": "M1014 x VSK94 Ring: UNDERSEA RAMPAGE x UNDERSEA MYSTERY***",
+        "Start": "1775721600",
+        "End": "1775807999",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_M1014xVSK94RingSplashNA_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1775620800",
+        "End": "1775721599",
+        "Link": "https://youtu.be/HL84wjFnj14",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FullAnimationOB53NA_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1775962800",
+        "End": "1775980799",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderSea_SkyDiveNA_en.jpg"
+      },
+      {
+        "Title": "[All] Try Out Ray",
+        "Start": "1775894400",
+        "End": "1775980799",
+        "Link": "V2_category_1_groupID_95483",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TryOutRaySplashNA_en.jpg"
+      },
+      {
+        "Title": "Group Stage Live Now!",
+        "Start": "1775948400",
+        "End": "1775962799",
+        "Link": "https://youtube.com/live/7WSgKxD8IDU?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GroupStageLive11AprNA_en.jpg "
+      },
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1775894400",
+        "End": "1775948399",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderSea_SkyDiveNA_en.jpg"
+      },
+      {
+        "Title": "Step Up: UMBRELLA GO TRAVEL EMOTE x SHOWER TIME EMOTE*",
+        "Start": "1775635200",
+        "End": "1775721599",
+        "Link": "V2_chestId_72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/StepUpUmbrella_SplashNA_en.jpg "
+      },
+      {
+        "Title": "Undersea Mystery Interface",
+        "Start": "1775808000",
+        "End": "1775894399",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryInterfaceSplashNA_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1775721600",
+        "End": "1775807999",
+        "Link": "https://youtu.be/HL84wjFnj14 ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FullAnimationOB53NA_en.jpg"
+      }
+    ]
+  }
+}
