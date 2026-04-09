@@ -1,0 +1,108 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "\"El pelotón\" se despide",
+        "Banner": "OB53/US/elpeloton1400x700.png",
+        "Start": "1775516400",
+        "End": "1776229199",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Alpes en Mantenimiento",
+        "Banner": "OB53/US/alpinemante1400x700.png",
+        "Start": "1775516400",
+        "End": "1776229199",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "El parche de volada",
+        "Banner": "OB53/US/elparchedev1400x700.png",
+        "Start": "1775620800",
+        "End": "1776315599",
+        "LinkAlt": "https://www.youtube.com/watch?v=bl7bHJ91mLk"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Online Tournament 2hrs",
+        "Start": "1775928600",
+        "End": "1775935800",
+        "Link": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpc4acb2a243b40abd3a6a884d32041889",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ESON0403_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775970000",
+        "End": "1776014999",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1776022201",
+        "End": "1776056399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Early Acces Skydive Blue Tiers\t\t",
+        "Start": "1775797200",
+        "End": "1775883599",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADEA5224_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775935801",
+        "End": "1775969999",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F    ",
+        "Start": "1775797200",
+        "End": "1775883599",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "PM FW - Skydive Blue Tiers",
+        "Start": "1775883600",
+        "End": "1776056399",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4731_1750x1070_es.png"
+      },
+      {
+        "Title": "New Character & Special Interface",
+        "Start": "1775620800",
+        "End": "1775797199",
+        "Link": "V2_category_6_groupId_51037",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/NECHA04_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775883600",
+        "End": "1775928599",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Online Tournament 2hrs",
+        "Start": "1776015000",
+        "End": "1776022200",
+        "Link": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpc4acb2a243b40abd3a6a884d32041889",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ESON0403_1750x1070_es.png"
+      },
+      {
+        "Title": "Community Voting Splash ",
+        "Start": "1775710800",
+        "End": "1775883599",
+        "Link": "https://votingbundle.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/COVO0409_1750x1070_es.png"
+      }
+    ]
+  }
+}
