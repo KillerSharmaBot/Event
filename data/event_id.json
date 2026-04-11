@@ -1,0 +1,44 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Survei Pengalaman FF\n",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB38/ID/20230121_jansurvey/anno.jpg",
+        "Link": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Hi Survivors! \n\nBantu kami berkembang lebih baik lagi! Yuk isi survey di bawah ini dan sampaikan pendapatmu untuk Free Fire yang lebih baik lagi kedepannya. Saran kamu berarti loh! \n\nKlik tombol di bawah ini sekarang!",
+        "Start": "1775790000",
+        "End": "1776358799",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "FF x ShopeePay",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/ID/110426_sopipayepep/overview.jpg",
+        "Start": "1775840400",
+        "End": "1775926799"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#16 #Token Ring [UNIVERSAL] - Desert Eagle - Finger Gun (907105208) (Orange), Gloo Wall - Quack Showdown (907105245) (Orange+), Backpack - Quack with Pearl Earring (904052007) (Orange) — use universal token (802000033)",
+        "Start": "1775962800",
+        "End": "1776049199",
+        "Link": "V2_chestId_99"
+      },
+      {
+        "Title": "#25 Weekly Top Up W2 April 2026",
+        "Start": "1775908800",
+        "End": "1775962799",
+        "Link": "V2_category_1_groupId_15901"
+      },
+      {
+        "Title": "#15 Super Splash Special Interface d+3",
+        "Start": "1775876400",
+        "End": "1775962799",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/ID/splash/asdnj1iwfbasf.jpg"
+      }
+    ]
+  }
+}
