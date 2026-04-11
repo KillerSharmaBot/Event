@@ -1,0 +1,130 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¿Dónde Está el Reino?",
+        "Banner": "OB53/US/elreino1400x700.png",
+        "Start": "1775833200",
+        "End": "1776481199",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "\"El pelotón\" se despide",
+        "Banner": "OB53/US/elpeloton1400x700.png",
+        "Start": "1775509200",
+        "End": "1776221999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Alpes en Mantenimiento",
+        "Banner": "OB53/US/alpinemante1400x700.png",
+        "Start": "1775509200",
+        "End": "1776221999",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1775862000",
+        "End": "1776394799",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "El parche de volada",
+        "Banner": "OB53/US/elparchedev1400x700.png",
+        "Start": "1775620800",
+        "End": "1776308399",
+        "LinkAlt": "https://www.youtube.com/watch?v=bl7bHJ91mLk"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775876400",
+        "End": "1775921399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Online Tournament 2hrs",
+        "Start": "1775928600",
+        "End": "1775928600",
+        "Link": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpc4acb2a243b40abd3a6a884d32041889",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ESON0403_1750x1070_es.png"
+      },
+      {
+        "Title": "PM FW - Skydive Blue Tiers",
+        "Start": "1776049200",
+        "End": "1776221999",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4731_1750x1070_es.png"
+      },
+      {
+        "Title": "Online Tournament 2hrs",
+        "Start": "1776015000",
+        "End": "1776015000",
+        "Link": "https://ffredirect.us.freefiremobile.com/api/info?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>&banner_id=bpc4acb2a243b40abd3a6a884d32041889",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ESON0403_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F    ",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Minecraft Bundles + Spring Rocker Emote    ",
+        "Start": "1776049200",
+        "End": "1776221999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/MYSMI8671_1750x1070_es.png"
+      },
+      {
+        "Title": "Community Voting Splash ",
+        "Start": "1775703600",
+        "End": "1775876399",
+        "Link": "https://votingbundle.us.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/COVO0409_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775962800",
+        "End": "1776007799",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1776015001",
+        "End": "1776049199",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "Early Acces Skydive Blue Tiers\t\t",
+        "Start": "1775790000",
+        "End": "1775876399",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADEA5224_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M+F      ",
+        "Start": "1775928601",
+        "End": "1775962799",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKBL0058_1750x1070_es.png"
+      },
+      {
+        "Title": "PM FW - Skydive Blue Tiers",
+        "Start": "1775876400",
+        "End": "1776049199",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4731_1750x1070_es.png"
+      }
+    ]
+  }
+}
