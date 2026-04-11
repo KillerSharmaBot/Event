@@ -1,0 +1,93 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "Командные Ограничения",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestriction_NoticeRU_ru.jpg",
+        "Start": "1775030400",
+        "End": "1808686799"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1775955600",
+        "End": "1776041999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderSea_SkyDiveRU_ru.jpg"
+      },
+      {
+        "Title": "Explore The Undersea",
+        "Start": "1776042000",
+        "End": "1776128399",
+        "Link": "V2_category_6_groupID_95442",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExploreTheUnderseaSplashRU_ru.jpg"
+      },
+      {
+        "Title": "Step Up: UNDERSEA WHALE GLOO WALL x QUACK SHOWDOWN**",
+        "Start": "1776042000",
+        "End": "1776128399",
+        "Link": "V2_chestId_73",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_StepUpUnderseaWhaleGlooWallSplashRU_ru.jpg"
+      },
+      {
+        "Title": "[All] Undersea Clash",
+        "Start": "1776128400",
+        "End": "1776214799",
+        "Link": "V2_category_6_groupID_95440",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaClashSplashRU_ru.jpg"
+      },
+      {
+        "Title": "Explore The Undersea",
+        "Start": "1775955600",
+        "End": "1776041999",
+        "Link": "V2_category_6_groupID_95442",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExploreTheUnderseaSplashRU_ru.jpg"
+      },
+      {
+        "Title": "GOLDEN Top-Up**",
+        "Start": "1776128400",
+        "End": "1776214799",
+        "Link": "V2_TabType_11_GroupId_95437",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenTopUpSplashRU_ru.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1775869200",
+        "End": "1775955599",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderSea_SkyDiveRU_ru.jpg"
+      },
+      {
+        "Title": "[All] Try Out Ray",
+        "Start": "1775869200",
+        "End": "1775955599",
+        "Link": "V2_category_1_groupID_95439",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TryOutRaySplashV1RU_ru.jpg"
+      }
+    ]
+  }
+}
