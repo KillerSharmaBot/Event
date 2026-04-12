@@ -1,0 +1,70 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775822400",
+        "End": "1776362399",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_SquadRestrictionNoticeAnnoBD_en.jpg",
+        "Start": "1775034954",
+        "End": "1777139999"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "GOLDEN Top-Up**",
+        "Start": "1776117600",
+        "End": "1776203999",
+        "Link": "V2_TabType_11_GroupId_99486",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenTopUpSpeciallyForBDSplash_en.jpg"
+      },
+      {
+        "Title": "Shubho Noboborsho",
+        "Start": "1776117600",
+        "End": "1776203999",
+        "Link": "V2_category_5_groupID_99490"
+      },
+      {
+        "Title": "Bengali New Year MV",
+        "Start": "1776031200",
+        "End": "1776117599",
+        "Link": "https://youtu.be/x5Ef1C3goD0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/1750x1070_BengaliNewYearMVSplashBD_en.jpg"
+      },
+      {
+        "Title": "Boishakhi Express Offline Event",
+        "Start": "1776031200",
+        "End": "1776117599"
+      },
+      {
+        "Title": "Bengali New Year MV",
+        "Start": "1775970000",
+        "End": "1776031199",
+        "Link": "https://youtu.be/x5Ef1C3goD0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/1750x1070_BengaliNewYearMVSplashBD_en.jpg"
+      },
+      {
+        "Title": "Explore The Undersea",
+        "Start": "1775944800",
+        "End": "1776056399",
+        "Link": "V2_category_5_groupID_994961",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ExploreTheUnderseaSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1775944800",
+        "End": "1776031199",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderseaSpectacleSplashBD_en.jpg"
+      }
+    ]
+  }
+}
