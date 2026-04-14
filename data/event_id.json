@@ -1,0 +1,25 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Survei Pengalaman FF\n",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB38/ID/20230121_jansurvey/anno.jpg",
+        "Link": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Hi Survivors! \n\nBantu kami berkembang lebih baik lagi! Yuk isi survey di bawah ini dan sampaikan pendapatmu untuk Free Fire yang lebih baik lagi kedepannya. Saran kamu berarti loh! \n\nKlik tombol di bawah ini sekarang!",
+        "Start": "1775790000",
+        "End": "1776358799",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#28 Toko Bawah Laut",
+        "Start": "1776135600",
+        "End": "1776221999",
+        "Link": "15897"
+      }
+    ]
+  }
+}
