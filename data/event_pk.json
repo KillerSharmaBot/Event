@@ -1,0 +1,143 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.youtube.com/@FreeFirePakistanOfficial"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.tiktok.com/@garenafreefirepkofficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.facebook.com/freefireenn/?brand_redir=139274140865488#"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestrictionNews_en.jpg",
+        "Start": "1774983600",
+        "End": "1777143599"
+      },
+      {
+        "Title": "Fair Play",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FFWSPKSpring26News.jpg",
+        "Details": "Hello Survivors,\n\n\n\nFollowing a detailed review of the recent Free Fire Cup qualifiers for the FFWS PK Spring 2026 event, we have identified multiple teams engaging in unfair practices, including the use of hacks, collusion with other teams, and intentional matchmaking abuse.\n\n\n\nWe take these violations seriously:\n\n- Strict action will be taken against any form of unfair gameplay\n\n- Hacking, teaming with other squads, and intentional matchmaking will result in bans\n\n- The use of multiple accounts is strictly prohibited. This serves as a final notice to players, and any future violations will result in permanent bans.\n\n\n\nWe are committed to maintaining a fair, competitive, and enjoyable environment for all players, and will not tolerate any actions that compromise the integrity of the game.\n\n\n\nWe appreciate your patience and continued support.\n\n\n\n- Free Fire Pakistan Official",
+        "Start": "1775797200",
+        "End": "1776452399"
+      },
+      {
+        "Title": "FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Survey2_336x580_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775826000",
+        "End": "1776365999",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.instagram.com/freefirepkofficial/?hl=en"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "USM26_DiveTime",
+        "Start": "1776466800",
+        "End": "1776553199",
+        "Link": "V2_category_5_groupID_26041502",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_USM26_DiveTime_en.jpg"
+      },
+      {
+        "Title": "Undersea Ring",
+        "Start": "1776452400",
+        "End": "1776466799",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_UnderseaRing_en.jpg"
+      },
+      {
+        "Title": "FFWSPK Spring 26 D1",
+        "Start": "1776432600",
+        "End": "1776452399",
+        "Link": "https://youtube.com/live/923q4-hTXiw?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FFWSPKSpring26D1_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop Versatile Streetwear",
+        "Start": "1776207600",
+        "End": "1776293999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_MysteryShopVersatileStreetwear_en.jpg"
+      },
+      {
+        "Title": "USM26_BooyahWave",
+        "Start": "1776380400",
+        "End": "1776466799",
+        "Link": "V2_category_5_groupID_26041501",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_USM26_BooyahWave_en.jpg"
+      },
+      {
+        "Title": "FFWSPK Spring 26 D2",
+        "Start": "1776519000",
+        "End": "1776538799",
+        "Link": "https://youtube.com/live/8O59QI4hrO0?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FFWSPKSpring26D2_en.jpg"
+      },
+      {
+        "Title": "USM26_CG",
+        "Start": "1776207600",
+        "End": "1776293999",
+        "Link": "https://youtu.be/0lTAaZDIX7I",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_USM26_CG_en.jpg"
+      },
+      {
+        "Title": "USM26_DiveTime",
+        "Start": "1776294000",
+        "End": "1776380399",
+        "Link": "V2_category_5_groupID_26041502",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_USM26_DiveTime_en.jpg"
+      },
+      {
+        "Title": "Undersea Ring",
+        "Start": "1776380400",
+        "End": "1776432599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_UnderseaRing_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop Versatile Streetwear",
+        "Start": "1776538800",
+        "End": "1776553199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_MysteryShopVersatileStreetwear_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop Versatile Streetwear",
+        "Start": "1776466800",
+        "End": "1776518999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_MysteryShopVersatileStreetwear_en.jpg"
+      },
+      {
+        "Title": "Step Up Undersea Whale",
+        "Start": "1776294000",
+        "End": "1776380399",
+        "Link": "V2_chestId_73",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_StepUpUnderseaWhale_en.jpg"
+      }
+    ]
+  }
+}
