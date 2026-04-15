@@ -1,0 +1,101 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestrictionNews_en.jpg",
+        "Start": "1774994400",
+        "End": "1777154399"
+      },
+      {
+        "Title": "FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_FeedbackSurvey0703_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775836800",
+        "End": "1776376799",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Dive Time",
+        "Start": "1776304800",
+        "End": "1776391199",
+        "Link": "V2_category_5_groupID_2640822",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/DivetimeOKen_en.jpg"
+      },
+      {
+        "Title": "Undersea Ring: UNDERSEA RIPPLES BUNDLE",
+        "Start": "1776391200",
+        "End": "1776477599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/UndersearingOKEn_en.jpg"
+      },
+      {
+        "Title": "Booyah Wave",
+        "Start": "1776391200",
+        "End": "1776477599",
+        "Link": "V2_category_5_groupID_2640821",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BooyahWaveOken_en.jpg"
+      },
+      {
+        "Title": "Undersea Mystery CG",
+        "Start": "1776218400",
+        "End": "1776304799",
+        "Link": "https://youtu.be/w8LOxKjhIlw?si=nijUSQ9EmCv64tTu ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/UndereaKOgmystery_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: VERSATILE STREETWEAR BUNDLES",
+        "Start": "1776477600",
+        "End": "1776563999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MSVersatilebundleOKen_en.jpg"
+      },
+      {
+        "Title": "Step Up: UNDERSEA WHALE GLOO WALL x QUACK SHOWDOWN",
+        "Start": "1776304800",
+        "End": "1776391199",
+        "Link": "V2_chestId_73",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/StepupgloowallUhG_en.jpg"
+      },
+      {
+        "Title": "Dive Time",
+        "Start": "1776477600",
+        "End": "1776563999",
+        "Link": "V2_category_5_groupID_2640822",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/DivetimeOKen_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: VERSATILE STREETWEAR BUNDLES",
+        "Start": "1776218400",
+        "End": "1776304799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MSVersatilebundleOKen_en.jpg"
+      }
+    ]
+  }
+}
