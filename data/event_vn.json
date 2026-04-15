@@ -1,0 +1,65 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu ĐH Phương Đông",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/PhuongDong.png",
+        "Link": "https://www.facebook.com/groups/cdfreefirehanoi/permalink/2026298471629424/?mibextid=wwXIfr&rdid=Qvm88yZrSOPYO48f#",
+        "Start": "1776272400",
+        "End": "1776358799",
+        "LinkAlt": "https://www.facebook.com/groups/cdfreefirehanoi/permalink/2026298471629424/?mibextid=wwXIfr&rdid=Qvm88yZrSOPYO48f#"
+      },
+      {
+        "Title": "Giải Đấu Sinh Viên LTTC",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/LyTuTrong.png",
+        "Link": "https://www.facebook.com/groups/421528525188773/?multi_permalinks=1857104544964490",
+        "Start": "1776272400",
+        "End": "1776358799",
+        "LinkAlt": "https://www.facebook.com/groups/421528525188773/?multi_permalinks=1857104544964490"
+      },
+      {
+        "Title": "Khảo sát quay lại game",
+        "Link": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1775826000",
+        "End": "1776358799",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW2: Groza - Bang! Popblaster",
+        "Start": "1776186000",
+        "End": "1776358799",
+        "Link": "29"
+      },
+      {
+        "Title": "TG1: Killer Fish Vendor",
+        "Start": "1776358800",
+        "End": "1776531599",
+        "Link": "61"
+      },
+      {
+        "Title": "TW3: M1014 - Undersea Rampage ",
+        "Start": "1776531600",
+        "End": "1776704399",
+        "Link": "89"
+      }
+    ]
+  }
+}
