@@ -1,0 +1,102 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1775858400",
+        "End": "1776398399",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireUSOfficial/"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/Wvmz3ktQ6e"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "GOLDEN Top-Up**",
+        "Start": "1776153600",
+        "End": "1776239999",
+        "Link": "V2_TabType_11_GroupId_95481",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenTopUpSplashNA_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Clash",
+        "Start": "1776153600",
+        "End": "1776239999",
+        "Link": "V2_category_6_groupID_95484",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaClashSplashNA_en.jpg"
+      },
+      {
+        "Title": "Dive Time",
+        "Start": "1776326400",
+        "End": "1776412799",
+        "Link": "V2_category_6_groupID_95505",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_DriveTimeNA_en.jpg"
+      },
+      {
+        "Title": "Undersea Mystery CG",
+        "Start": "1776240000",
+        "End": "1776326399",
+        "Link": "https://youtu.be/HL84wjFnj14 ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FullAnimationOB53NA_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: VERSATILE STREETWEAR BUNDLES",
+        "Start": "1776240000",
+        "End": "1776326399",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MS_VersatileStreetNA_en.jpg"
+      },
+      {
+        "Title": "Step Up: UNDERSEA WHALE GLOO WALL x QUACK SHOWDOWN",
+        "Start": "1776326400",
+        "End": "1776412799",
+        "Link": "V2_chestId_73",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_StepUpUnderseaWhaleGlooWallSplashNA_en.jpg"
+      },
+      {
+        "Title": "Booyah Wave",
+        "Start": "1776412800",
+        "End": "1776499199",
+        "Link": "V2_category_6_groupID_95504",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BooyahWaveNA_en.jpg"
+      },
+      {
+        "Title": "Undersea Ring: UNDERSEA RIPPLES BUNDLE",
+        "Start": "1776412800",
+        "End": "1776499199",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderSea_RipppleBundleNA_en.jpg"
+      }
+    ]
+  }
+}
