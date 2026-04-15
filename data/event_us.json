@@ -1,0 +1,81 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¿Dónde Está el Reino?",
+        "Banner": "OB53/US/elreino1400x700.png",
+        "Start": "1775840400",
+        "End": "1776488399",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1775869200",
+        "End": "1776401999",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "El parche de volada",
+        "Banner": "OB53/US/elparchedev1400x700.png",
+        "Start": "1775620800",
+        "End": "1776315599",
+        "LinkAlt": "https://www.youtube.com/watch?v=bl7bHJ91mLk"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Tiers M1014",
+        "Start": "1776229200",
+        "End": "1776401999",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKM19459_1750x1070_es.png"
+      },
+      {
+        "Title": "DAU MKT Initiative",
+        "Start": "1776315600",
+        "End": "1776401999",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/DAMKIN0416_1750x1070_es.png"
+      },
+      {
+        "Title": "Blue Tiers M1014",
+        "Start": "1776402000",
+        "End": "1776488399",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKM19459_1750x1070_es.png"
+      },
+      {
+        "Title": "Minecraft Bundles + Spring Rocker Emote",
+        "Start": "1776229200",
+        "End": "1776315599",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/MYSMI8671_1750x1070_es.png"
+      },
+      {
+        "Title": "Community Voting Incubator Relaunch",
+        "Start": "1776402000",
+        "End": "1776488399",
+        "Link": "89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKCO9321_1750x1070_es.png"
+      },
+      {
+        "Title": "PM FW - Arrival Animation Blue Tiers + Gloowall",
+        "Start": "1776488400",
+        "End": "1776533399",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4832_1750x1070_es.png"
+      },
+      {
+        "Title": "Diamond Bonus",
+        "Start": "1776488400",
+        "End": "1776661199",
+        "Link": "V2_category_1_groupId_60755",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/GACDI8326_1750x1070_es.png"
+      }
+    ]
+  }
+}
