@@ -1,0 +1,55 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Survei Pengalaman FF\n",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB38/ID/20230121_jansurvey/anno.jpg",
+        "Link": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Hi Survivors! \n\nBantu kami berkembang lebih baik lagi! Yuk isi survey di bawah ini dan sampaikan pendapatmu untuk Free Fire yang lebih baik lagi kedepannya. Saran kamu berarti loh! \n\nKlik tombol di bawah ini sekarang!",
+        "Start": "1775790000",
+        "End": "1776358799",
+        "LinkAlt": "https://ind.survey-site.com?fid=41a1aba7e7e59b7cdfde7fca4631be66&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#13 Token Ring - Undersea Ripples Bundle (710053012), Undersea Beauty Bundle (710053013)  — Use Voucher (802000131)",
+        "Start": "1776394800",
+        "End": "1776481199",
+        "Link": "V2_chestId_88"
+      },
+      {
+        "Title": "#24 Skyboard Gratis!",
+        "Start": "1776481200",
+        "End": "1776567599",
+        "Link": "15925"
+      },
+      {
+        "Title": "#12 BGW",
+        "Start": "1776308400",
+        "End": "1776394799",
+        "Link": "https://youtu.be/avp1Nsec5hY"
+      },
+      {
+        "Title": "#23 Special Interface Promotion",
+        "Start": "1776394800",
+        "End": "1776481199",
+        "Link": "V2_eventid_55_entranceId_0"
+      },
+      {
+        "Title": "#22 Craftlan Fitting Room Launch",
+        "Start": "1776308400",
+        "End": "1776394799",
+        "Link": "V2_workshopCode_#FREEFIREF675C15F502D6BD51DA516CCAF868BC04220"
+      },
+      {
+        "Title": "#14 Weekly Top Up W3 April 2026",
+        "Start": "1776481200",
+        "End": "1776567599",
+        "Link": "V2_category_1_groupId_15927"
+      }
+    ]
+  }
+}
