@@ -1,0 +1,47 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1776636000",
+        "End": "1776920399",
+        "LinkAlt": "https://ind.survey-site.com?fid=88e50c76759cf6e54a0711c8009721d5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1776636000",
+        "End": "1776920399",
+        "LinkAlt": "https://ind.survey-site.com?fid=c2963d96481509fe59d286090b7cbf9c&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Mundo Submarino",
+        "Banner": "OB53/US/animat1400x700.png",
+        "Start": "1776402000",
+        "End": "1777093199",
+        "LinkAlt": "https://youtu.be/EVBsQUT00n4?si=KTpvflZTsKo49pP6"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Community Voting Incubator Relaunch",
+        "Start": "1776661200",
+        "End": "1776833999",
+        "Link": "89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKCO9321_1750x1070_es.png"
+      },
+      {
+        "Title": "FW The Pro Bundle",
+        "Start": "1776661200",
+        "End": "1776833999",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4316_1750x1070_es.png"
+      }
+    ]
+  }
+}
