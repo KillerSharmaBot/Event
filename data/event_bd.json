@@ -1,0 +1,108 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "All Esports Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/AllEsportsUpdatesSplasgBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.facebook.com/ffesportsbdofficial"
+      },
+      {
+        "Title": "Full Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FullMatchActionAnnoBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.youtube.com/@ffesportsbdofficial"
+      },
+      {
+        "Title": "One-Tap Moments",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OneTapMomentsAnnoBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.tiktok.com/@ffesports.bd"
+      },
+      {
+        "Title": "Play of the Day",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PlayOfTheDaySplashBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.instagram.com/ffesports.bd/"
+      },
+      {
+        "Title": "OB53 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Survey2_336x580_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1776423600",
+        "End": "1776707999",
+        "LinkAlt": "https://ind.survey-site.com?fid=c2963d96481509fe59d286090b7cbf9c&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_SquadRestrictionNoticeAnnoBD_en.jpg",
+        "Start": "1775034954",
+        "End": "1777139999"
+      },
+      {
+        "Title": "OB53 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Survey2_336x580_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1776423600",
+        "End": "1776707999",
+        "LinkAlt": "https://ind.survey-site.com?fid=88e50c76759cf6e54a0711c8009721d5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[All] Booyah Wave",
+        "Start": "1776636000",
+        "End": "1776722399",
+        "Link": "V2_category_5_groupID_99528",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BooyahWaveSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFBPL S2 K.O. Stage Day 2",
+        "Start": "1776765600",
+        "End": "1776794399",
+        "Link": "https://youtube.com/live/fctrCU_STAI?feature=share"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES x BONE FIST**",
+        "Start": "1776722400",
+        "End": "1776765599",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MocoStoreBubblyWavesXBoneFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1776722400",
+        "End": "1776808799",
+        "Link": "https://youtu.be/raOV-LReI1E",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryCGSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFBPL S2 K.O. Stage Day 1",
+        "Start": "1776679200",
+        "End": "1776707999",
+        "Link": "https://youtube.com/live/spkOuzEyTo0?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FFBPLS2KOStageDay1_0420SplashBD_en.jpg"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES x BONE FIST**",
+        "Start": "1776794400",
+        "End": "1776808799",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MocoStoreBubblyWavesXBoneFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "M1014 x VSK94 Ring: UNDERSEA RAMPAGE x UNDERSEA MYSTERY***",
+        "Start": "1776708000",
+        "End": "1776722399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_M1014xVSK94RingUnderseaRampageSplashBD_en.jpg"
+      }
+    ]
+  }
+}
