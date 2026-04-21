@@ -1,0 +1,141 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "All Esports Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/AllEsportsUpdatesSplasgBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.facebook.com/ffesportsbdofficial"
+      },
+      {
+        "Title": "Full Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FullMatchActionAnnoBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.youtube.com/@ffesportsbdofficial"
+      },
+      {
+        "Title": "One-Tap Moments",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OneTapMomentsAnnoBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.tiktok.com/@ffesports.bd"
+      },
+      {
+        "Title": "Play of the Day",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PlayOfTheDaySplashBD_en.jpg",
+        "Start": "1774720800",
+        "End": "1776967199",
+        "LinkAlt": "https://www.instagram.com/ffesports.bd/"
+      },
+      {
+        "Title": "Squad Restriction",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_SquadRestrictionNoticeAnnoBD_en.jpg",
+        "Start": "1775034954",
+        "End": "1777139999"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1776880800",
+        "End": "1776895199",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderseaSpectacleSkydive0422SplashBD_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1777053600",
+        "End": "1777067999",
+        "Link": "https://youtu.be/raOV-LReI1E",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryCGSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFBPL S2 Grand Final",
+        "Start": "1777024800",
+        "End": "1777053599",
+        "Link": "https://youtube.com/live/K2UHnEcti64?feature=share"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES x BONE FIST**",
+        "Start": "1777053600",
+        "End": "1777067999",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MocoStoreBubblyWavesXBoneFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "Golden Ring: 24K WOOF BUNDLE x M82B - GOLDEN DOMINANCE**",
+        "Start": "1776895200",
+        "End": "1776981599",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenRing24kWoofSplash0422BD_en.jpg"
+      },
+      {
+        "Title": "Undersea Mystery Interface",
+        "Start": "1776895200",
+        "End": "1776981599",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryInterfaceSplashBD_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1776722400",
+        "End": "1776808799",
+        "Link": "https://youtu.be/raOV-LReI1E",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryCGSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE***",
+        "Start": "1776808800",
+        "End": "1776851999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderseaSpectacleSkydive0422SplashBD_en.jpg"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES x BONE FIST**",
+        "Start": "1776794400",
+        "End": "1776808799",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MocoStoreBubblyWavesXBoneFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES x BONE FIST**",
+        "Start": "1776981600",
+        "End": "1777024799",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MocoStoreBubblyWavesXBoneFistSplashBD_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1776981600",
+        "End": "1777028399",
+        "Link": "https://youtu.be/raOV-LReI1E",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryCGSplashBD_en.jpg"
+      },
+      {
+        "Title": "[All] Booyah Wave",
+        "Start": "1776808800",
+        "End": "1776895199",
+        "Link": "V2_category_5_groupID_99528",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BooyahWaveSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFBPL S2 K.O. Stage Day 3",
+        "Start": "1776852000",
+        "End": "1776880799",
+        "Link": "https://youtube.com/live/mfFCHKxEtvQ?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FFBPLS2KOStageDay3Splash0422BD_en.jpg"
+      },
+      {
+        "Title": "FFWS NP Leauge Stage W1D1",
+        "Start": "1777028400",
+        "End": "1777053599",
+        "Link": "https://youtube.com/live/YcCg_U2qJfg?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FFWSNPLeagueStageW1D1Splash0424BD_en.jpg"
+      }
+    ]
+  }
+}
