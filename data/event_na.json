@@ -1,0 +1,110 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "OB53 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1776459600",
+        "End": "1779335999",
+        "LinkAlt": "https://ind.survey-site.com?fid=88e50c76759cf6e54a0711c8009721d5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireUSOfficial/"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/Wvmz3ktQ6e"
+      },
+      {
+        "Title": "OB53 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1776459600",
+        "End": "1779335999",
+        "LinkAlt": "https://ind.survey-site.com?fid=c2963d96481509fe59d286090b7cbf9c&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Faded Wheel: UNDERSEA SPECTACLE SKYDIVE",
+        "Start": "1776844800",
+        "End": "1776931199",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWUnderSea_SkyDiveNA_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery Interface",
+        "Start": "1776931200",
+        "End": "1777017599",
+        "Link": "V2_eventid_55_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_UnderseaMysteryInterfaceSplashNA_en.jpg"
+      },
+      {
+        "Title": "Undersea Mystery CG",
+        "Start": "1776758400",
+        "End": "1776844799",
+        "Link": "https://youtu.be/HL84wjFnj14 ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FullAnimationOB53NA_en.jpg"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES x BONE FIST",
+        "Start": "1776758400",
+        "End": "1776844799",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MS_BubblyWaveNA_en.jpg"
+      },
+      {
+        "Title": "Golden Ring: 24K WOOF BUNDLE",
+        "Start": "1776931200",
+        "End": "1777017599",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenRIng24K_NA_en.jpg"
+      },
+      {
+        "Title": "[All] Undersea Mystery CG",
+        "Start": "1777017600",
+        "End": "1777103999",
+        "Link": "https://youtu.be/HL84wjFnj14 ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FullAnimationOB53NA_en.jpg"
+      },
+      {
+        "Title": "Moco Store: BUBBLY WAVES",
+        "Start": "1777017600",
+        "End": "1777103999",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MS_BubblyWaveNA_en.jpg"
+      },
+      {
+        "Title": "[All] Booyah Wave",
+        "Start": "1776844800",
+        "End": "1776931199",
+        "Link": "V2_category_6_groupID_95504",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BooyahWaveNA_en.jpg"
+      }
+    ]
+  }
+}
