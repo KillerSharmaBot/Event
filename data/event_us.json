@@ -1,0 +1,96 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1776636000",
+        "End": "1776920399",
+        "LinkAlt": "https://ind.survey-site.com?fid=88e50c76759cf6e54a0711c8009721d5&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1776636000",
+        "End": "1776920399",
+        "LinkAlt": "https://ind.survey-site.com?fid=c2963d96481509fe59d286090b7cbf9c&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Mundo Submarino",
+        "Banner": "OB53/US/animat1400x700.png",
+        "Start": "1776402000",
+        "End": "1777093199",
+        "LinkAlt": "https://youtu.be/EVBsQUT00n4?si=KTpvflZTsKo49pP6"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "EVO MP5 Relaunch",
+        "Start": "1776920400",
+        "End": "1776965399",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/EV0423_1750x1070_es.png"
+      },
+      {
+        "Title": "Earth Campaign to OV",
+        "Start": "1776834000",
+        "End": "1776920399",
+        "Link": "V2_category_6_groupId_970705",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/EAR0422_1750x1070_es.png"
+      },
+      {
+        "Title": "Moonwalk + Championswalk Emotes",
+        "Start": "1776834000",
+        "End": "1777006799",
+        "Link": "72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/WONMO5739_1750x1070_es.png"
+      },
+      {
+        "Title": "EVO MP5 Relaunch",
+        "Start": "1776972601",
+        "End": "1777006799",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/EV0423_1750x1070_es.png"
+      },
+      {
+        "Title": "Community Voting Incubator Relaunch",
+        "Start": "1776661200",
+        "End": "1776833999",
+        "Link": "89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKCO9321_1750x1070_es.png"
+      },
+      {
+        "Title": "FW The Pro Bundle",
+        "Start": "1776661200",
+        "End": "1776833999",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPM4316_1750x1070_es.png"
+      },
+      {
+        "Title": "E-sports pre heat",
+        "Start": "1776965400",
+        "End": "1776972600",
+        "Link": "https://www.instagram.com/ffesportslatam/",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADFW1168_1750x1070_es.png"
+      },
+      {
+        "Title": "Gintoki bundle",
+        "Start": "1777006800",
+        "End": "1777093199",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKGI1645_1750x1070_es.png"
+      },
+      {
+        "Title": "Encargo Samurai",
+        "Start": "1777006800",
+        "End": "1777093199",
+        "Link": "V2_category_5_groupId_51040",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ENCA0424_1750x1070_es.png"
+      }
+    ]
+  }
+}
