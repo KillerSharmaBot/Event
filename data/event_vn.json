@@ -1,0 +1,62 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Sinh Viên TP.HCM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/3.png",
+        "Link": "https://sl.garena.vn/ff/ffdhmo",
+        "Start": "1776934800",
+        "End": "1777049999",
+        "LinkAlt": "https://sl.garena.vn/ff/ffdhmo"
+      },
+      {
+        "Title": "Giải Sinh Viên trở lại",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/1.png",
+        "Link": "https://www.facebook.com/share/r/1CT3CKwJ2t/",
+        "Start": "1776848400",
+        "End": "1777222799",
+        "LinkAlt": "https://www.facebook.com/share/r/1CT3CKwJ2t/"
+      },
+      {
+        "Title": "Giải Đấu Đồng Nai",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/DongNai.png",
+        "Link": "https://sl.garena.vn/ff/lunrja",
+        "Start": "1776877200",
+        "End": "1776963599",
+        "LinkAlt": "https://sl.garena.vn/ff/lunrja"
+      },
+      {
+        "Title": "Vô Địch Giải Sinh Viên",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/2.png",
+        "Link": "https://www.facebook.com/share/p/1B3x8JFpHr/",
+        "Start": "1776848400",
+        "End": "1777222799",
+        "LinkAlt": "https://www.facebook.com/share/p/1B3x8JFpHr/"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: Undersea Splatter",
+        "Start": "1776790800",
+        "End": "1776963599",
+        "Link": "19"
+      }
+    ]
+  }
+}
