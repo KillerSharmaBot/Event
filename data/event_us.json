@@ -1,0 +1,21 @@
+{
+  "updates": {},
+  "events": {
+    "items": [
+      {
+        "Title": "FW - Elizabeth Bundle",
+        "Start": "1777352400",
+        "End": "1777525199",
+        "Link": "59",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADFW1199_1750x1070_es.png"
+      },
+      {
+        "Title": "Winchester + Kagura Bundle",
+        "Start": "1777266000",
+        "End": "1777525199",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKWI3833_1750x1070_es.png"
+      }
+    ]
+  }
+}
