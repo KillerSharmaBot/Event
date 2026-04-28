@@ -1,0 +1,85 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "Награды Мастров на Все Руки",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OddJobRewardsNewsRU_ru.jpg",
+        "Start": "1776906000",
+        "End": "1808809199"
+      },
+      {
+        "Title": "Командные Ограничения",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SquadRestriction_NoticeRU_ru.jpg",
+        "Start": "1775030400",
+        "End": "1808686799"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "KaguraRing",
+        "Start": "1777510800",
+        "End": "1777597199",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Kagura_RU_ru.jpg"
+      },
+      {
+        "Title": "KaguraRing",
+        "Start": "1777424400",
+        "End": "1777510799",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Kagura_RU_ru.jpg"
+      },
+      {
+        "Title": "FF X GINTAMA",
+        "Start": "1777510800",
+        "End": "1777597199",
+        "Link": "https://youtu.be/v0ZVme6A2fo",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Gintama_FullAnimation_RU_ru.jpg"
+      },
+      {
+        "Title": "Mr Ginpachi's Roll Call",
+        "Start": "1777338000",
+        "End": "1777424399",
+        "Link": "V2_category_6_groupID_95460",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RollCallRU_ru.jpg "
+      },
+      {
+        "Title": "Strange Supplies",
+        "Start": "1777424400",
+        "End": "1777510799",
+        "Link": "V2_category_6_groupID_95459",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_StrangeSuppliesRU_ru.jpg "
+      },
+      {
+        "Title": "Golden Ring: 24K WOOF BUNDLE",
+        "Start": "1777338000",
+        "End": "1777424399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenRIng24K_RU_ru.jpg"
+      }
+    ]
+  }
+}
