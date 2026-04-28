@@ -1,0 +1,95 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "OB53 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1777327200",
+        "End": "1777499999",
+        "LinkAlt": "https://ind.survey-site.com?fid=7465332dae229c66479a0192d229bbba&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "BPS41",
+        "Start": "1777600800",
+        "End": "1777687199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BPS41DDht_en.jpg"
+      },
+      {
+        "Title": "KaguraRing",
+        "Start": "1777514400",
+        "End": "1777600799",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/KaguraRingIILk_en.jpg"
+      },
+      {
+        "Title": "Golden Ring: 24K WOOF BUNDLE x M82B - GOLDEN DOMINANCE** ",
+        "Start": "1777341600",
+        "End": "1777427999",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GoldenRingOken_en.jpg"
+      },
+      {
+        "Title": "Businessassusual",
+        "Start": "1777600800",
+        "End": "1777687199",
+        "Link": "V2_category_5_groupID_2640834",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BusinessasusualUUik_en.jpg"
+      },
+      {
+        "Title": "Mr Ginpachi's Roll Call ",
+        "Start": "1777341600",
+        "End": "1777427999",
+        "Link": "V2_category_5_groupID_2640824",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RollCallOKkni_en.jpg"
+      },
+      {
+        "Title": "ODDjobstrangesupplies",
+        "Start": "1777428000",
+        "End": "1777514399",
+        "Link": "V2_category_5_groupID_2640823",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/StrangeSuppliesIjKuu_en.jpg"
+      },
+      {
+        "Title": "KaguraRing",
+        "Start": "1777428000",
+        "End": "1777514399",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/KaguraRingIILk_en.jpg"
+      },
+      {
+        "Title": "FF X GINTAMA",
+        "Start": "1777514400",
+        "End": "1777600799",
+        "Link": "https://youtu.be/stVgNG2fIHU?si=mlrHP4UsNJZk7SOC ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FFGintamaFAkn_en.jpg"
+      }
+    ]
+  }
+}
