@@ -1,0 +1,120 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "All Match Action",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_AllMatchActionBDAnno_en.jpg",
+        "Start": "1777226400",
+        "End": "1779645599",
+        "LinkAlt": "https://www.youtube.com/@FreeFireEsportsNP"
+      },
+      {
+        "Title": "OB53 Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Survey2_336x580_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1777312800",
+        "End": "1777485599",
+        "LinkAlt": "https://ind.survey-site.com?fid=7465332dae229c66479a0192d229bbba&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FF X GINTAMA (Full Animation)",
+        "Start": "1777500000",
+        "End": "1777586399",
+        "Link": "https://youtu.be/7_lDApm0xxA",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FFMxGintamaSplashBD_en.jpg"
+      },
+      {
+        "Title": "Odd Job: Business As Usual",
+        "Start": "1777658400",
+        "End": "1777672799",
+        "Link": "V2_category_5_groupID_99574",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_OddJobBuisnessAsUsualSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFWS BD Leauge Stgae W1D1",
+        "Start": "1777543200",
+        "End": "1777571999",
+        "Link": "https://youtube.com/live/6Rp_tueC7ZE?feature=share"
+      },
+      {
+        "Title": "Golden Ring: 24K WOOF BUNDLE x M82B - GOLDEN DOMINANCE**",
+        "Start": "1777327200",
+        "End": "1777413599",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GoldenRing24kWoofSplash0422BD_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S41 PREMIUM PLUS*",
+        "Start": "1777586400",
+        "End": "1777629599",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPRingS41SplashBD_en.jpg"
+      },
+      {
+        "Title": "Kagura Ring: KAGURA BUNDLE x WINCHESTER - KAGURA'S UMBRELLA*",
+        "Start": "1777572000",
+        "End": "1777586399",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_KaguraRingSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFWS NP Leauge Stage W2D1",
+        "Start": "1777635000",
+        "End": "1777658399",
+        "Link": "https://www.youtube.com/live/SRvvlWPHkYc"
+      },
+      {
+        "Title": "Odd Job: Business As Usual",
+        "Start": "1777586400",
+        "End": "1777634999",
+        "Link": "V2_category_5_groupID_99574",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_OddJobBuisnessAsUsualSplashBD_en.jpg"
+      },
+      {
+        "Title": "Kagura Ring: KAGURA BUNDLE x WINCHESTER - KAGURA'S UMBRELLA*",
+        "Start": "1777413600",
+        "End": "1777499999",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_KaguraRingSplashBD_en.jpg"
+      },
+      {
+        "Title": "NP YT Esports CHannel Promotion",
+        "Start": "1777413600",
+        "End": "1777499999",
+        "Link": "https://www.youtube.com/@FreeFireEsportsNP",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NPYTEsportsChannelSplashBD_en.jpg"
+      },
+      {
+        "Title": "BP Ring: BP S41 PREMIUM PLUS*",
+        "Start": "1777658400",
+        "End": "1777672799",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BPRingS41SplashBD_en.jpg"
+      },
+      {
+        "Title": "Kagura Ring: KAGURA BUNDLE x WINCHESTER - KAGURA'S UMBRELLA*",
+        "Start": "1777500000",
+        "End": "1777543199",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_KaguraRingSplashBD_en.jpg"
+      },
+      {
+        "Title": "FFWS BD Leauge Stgae W1D2",
+        "Start": "1777629600",
+        "End": "1777658399",
+        "Link": "https://youtube.com/live/JScmS0PNjWI?feature=share"
+      },
+      {
+        "Title": "Mr Ginpachi's Roll Call",
+        "Start": "1777327200",
+        "End": "1777413599",
+        "Link": "V2_category_5_groupID_99539",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_RollCall0422SplashBD_en.jpg"
+      }
+    ]
+  }
+}
