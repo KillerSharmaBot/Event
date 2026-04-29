@@ -1,0 +1,62 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Giải Đấu 25/04 - 03/05",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/VN/Community/5.png",
+        "Link": "https://sl.garena.vn/ff/ffdhmo",
+        "Start": "1777050000",
+        "End": "1777741199",
+        "LinkAlt": "https://sl.garena.vn/ff/ffdhmo"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Vong quay sieu pham 304",
+        "Start": "1777525200",
+        "End": "1777654799",
+        "Link": "https://sl.garena.vn/ff/vongquaysp?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "FW5: BP S41",
+        "Start": "1777654800",
+        "End": "1777741199",
+        "Link": "59"
+      },
+      {
+        "Title": "DW1: Prismatic Flight",
+        "Start": "1777309200",
+        "End": "1777481999",
+        "Link": "72"
+      },
+      {
+        "Title": "FW5: BP S41",
+        "Start": "1777568400",
+        "End": "1777741199",
+        "Link": "59"
+      },
+      {
+        "Title": "Shop Hộp Ma Thuật",
+        "Start": "1777604400",
+        "End": "1777741199",
+        "Link": "https://sl.garena.vn/ff/shophmt?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      }
+    ]
+  }
+}
