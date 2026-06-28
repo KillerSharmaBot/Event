@@ -1,0 +1,74 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Nuevo ícono de penalización",
+        "Banner": "OB53/US/ICON1400x700.png",
+        "Start": "1782482400",
+        "End": "1783393199",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "Encuesta",
+        "Banner": "OB37/US/surveynewsize0812_336x580_es.jpg",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1782529200",
+        "End": "1782788399",
+        "LinkAlt": "https://survey-site.com?fid=23674b0d8b056d646c2f6a5fa78ee980&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Mini Uzi Space Incubator",
+        "Start": "1782667801",
+        "End": "1782701999",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKMI4342_1750x1070_es.png"
+      },
+      {
+        "Title": "Special Interface  CTA",
+        "Start": "1782788400",
+        "End": "1782874799",
+        "Link": "V2_eventid_58_entranceId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SPECI30_1750x1070_es.png"
+      },
+      {
+        "Title": "Group Movement Emote",
+        "Start": "1782788400",
+        "End": "1782874799",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADGR7437_1750x1070_es.png"
+      },
+      {
+        "Title": "Mini Uzi Space Incubator",
+        "Start": "1782702000",
+        "End": "1782788399",
+        "Link": "87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKMI4342_1750x1070_es.png"
+      },
+      {
+        "Title": "Group Movement Emote",
+        "Start": "1782615600",
+        "End": "1782788399",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADGR7437_1750x1070_es.png"
+      },
+      {
+        "Title": "4pa4",
+        "Start": "1782660600",
+        "End": "1782667800",
+        "Link": "V2_url_\"https://youtube.com/live/a8bkSeLv4Lc?feature=share\"",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/4PA40628_1750x1070_es.png"
+      },
+      {
+        "Title": "Early Access EVO AUG + Backpack",
+        "Start": "1782788400",
+        "End": "1782874799",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/EAEVAUG30_1750x1070_es.png"
+      }
+    ]
+  }
+}
