@@ -1,0 +1,79 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Desafio da Oficina!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/Craftlands_Winners_June_1400x700_BR_pt.png",
+        "Start": "1782442800",
+        "End": "1783306799"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://survey-site.com?fid=d6d9011221c5b125cea7de9cf954f532&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Agradecemos seu apoio a Free Fire! Ajude-nos a fazer melhorias respondendo a este questionário. Analisaremos suas opiniões com cuidado. VAMOS COMEÇAR!",
+        "Start": "1782529200",
+        "End": "1782701999",
+        "LinkAlt": "https://survey-site.com?fid=d6d9011221c5b125cea7de9cf954f532&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Calendário na Faixa",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Event_Calendar_CBF_2_1400x700_BR_pt.jpg",
+        "Start": "1781074800",
+        "End": "1784516399"
+      },
+      {
+        "Title": "Calendário Premium",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Event_Calendar_CBF_Rev_1400x700_BR_pt.jpg",
+        "Start": "1780542000",
+        "End": "1784775599"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] 9th Anniversary Group Emote QA38",
+        "Start": "1782702000",
+        "End": "1782788399",
+        "Link": "V2_drawShopId_540301",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/9th_Anniversary_Group_Emote_QA38_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] 9th Anniversary EVO AUG EA ",
+        "Start": "1782788400",
+        "End": "1782874799",
+        "Link": "V2_drawShopId_540303",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/9th_Anniversary_EVO_AUG_EA_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] 9th Anniversary Bundles VQ97",
+        "Start": "1782615600",
+        "End": "1782701999",
+        "Link": "V2_drawShopId_540101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/9th_Anniversary_Bundles_VQ97_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] 9th Anniversary Bundles VQ97",
+        "Start": "1782788400",
+        "End": "1782874799",
+        "Link": "V2_drawShopId_540101",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/9th_Anniversary_Bundles_VQ97_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] Top Criminal Neon  XA57",
+        "Start": "1782666000",
+        "End": "1782874799",
+        "Link": "V2_drawShopId_540201",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/Top_Criminal_Neon_XA57_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
