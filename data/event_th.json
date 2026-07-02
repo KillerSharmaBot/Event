@@ -1,0 +1,220 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "เล่นฟีฟายไม่ใช้เน็ต!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_FFnoNet_1400x700.ff_extend",
+        "Start": "1775620800",
+        "End": "1808449199",
+        "LinkAlt": "V2_tabType_0"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/JW9RKao5hiqQ8Fvr8",
+        "Start": "1782925200",
+        "End": "1783011599",
+        "LinkAlt": "https://forms.gle/JW9RKao5hiqQ8Fvr8"
+      },
+      {
+        "Title": "ฟีฟายแจกฉ่ำตลอดปี",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_MonthlyGIP2_1400x700.ff_extend",
+        "Start": "1775617200",
+        "End": "1808758799",
+        "LinkAlt": "https://vt.tiktok.com/ZS98vuNw1PhPs-EZozF/"
+      },
+      {
+        "Title": "สะสม Google Play Points",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260630-ANC_GooglePlayPoints_1400x700.ff_extend",
+        "Start": "1782795600",
+        "End": "1784221199",
+        "LinkAlt": "https://leagues.withgoogle.com/free-fire/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Jul26_TG2_Jersey_Preheat2",
+        "Start": "1783098000",
+        "End": "1783184399",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TG2_Jersey_Preheat2_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Jul26_TG2_Jersey",
+        "Start": "1783184400",
+        "End": "1783270799",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TG2_Jersey_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Jul26_Topup_Monthly",
+        "Start": "1783184400",
+        "End": "1783270799",
+        "Link": "58300",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_Topup_Monthly.png"
+      },
+      {
+        "Title": "TH_Jul26_BP43",
+        "Start": "1782925200",
+        "End": "1783011599",
+        "Link": "V2_BPTYPE_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_BP43.png"
+      },
+      {
+        "Title": "2026July_9TH_Store_DAU_1_V1",
+        "Start": "1783011600",
+        "End": "1783097999",
+        "Link": "V2_category_5_groupId_58221",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_9TH_Store_DAU_1_V1.png"
+      },
+      {
+        "Title": "2026June_9TH_Fast_track_OverviewBG_3",
+        "Start": "1783184400",
+        "End": "1783270799",
+        "Link": "V2_category_5_groupId_58222",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026June_9TH_Fast_track_OverviewBG_3.png"
+      },
+      {
+        "Title": "2026July_Baseline_Play_games_Overview_10",
+        "Start": "1782925200",
+        "End": "1783011599",
+        "Link": "V2_category_5_groupId_58232",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_Baseline_Play_games_Overview_10.png"
+      },
+      {
+        "Title": "TH_Jul26_Topup_Monthly",
+        "Start": "1783098000",
+        "End": "1783184399",
+        "Link": "58300",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_Topup_Monthly.png"
+      },
+      {
+        "Title": "2026July_9TH_Play_mins_OverviewBG_4",
+        "Start": "1783026000",
+        "End": "1783097999",
+        "Link": "V2_category_5_groupId_58224",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_9TH_Play_mins_OverviewBG_4.png"
+      },
+      {
+        "Title": "TH_Jul26_TW1_EvoVault",
+        "Start": "1783098000",
+        "End": "1783184399",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TW1_EvoVault.png"
+      },
+      {
+        "Title": "TH_Jun26_Moco1_Purplegun",
+        "Start": "1782925200",
+        "End": "1783011599",
+        "Link": "V2_chestId_28",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jun26_Moco1_Purplegun.png"
+      },
+      {
+        "Title": "2026June_9TH_Fast_track_OverviewBG_3",
+        "Start": "1783011600",
+        "End": "1783097999",
+        "Link": "V2_category_5_groupId_58222",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026June_9TH_Fast_track_OverviewBG_3.png"
+      },
+      {
+        "Title": "2026July_rank_reset_play_games_DAU_2",
+        "Start": "1782925200",
+        "End": "1783011599",
+        "Link": "V2_category_5_groupId_58223",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_rank_reset_play_games_DAU_2.png"
+      },
+      {
+        "Title": "FFCM_Elim_Day_5",
+        "Start": "1783155600",
+        "End": "1783180800",
+        "Link": "https://youtube.com/live/tzjFjlpCZd4?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/FFCM_Elim_Day_5.png"
+      },
+      {
+        "Title": "TH_Jul26_TG2_Jersey_Preheat1",
+        "Start": "1783011600",
+        "End": "1783097999",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TG2_Jersey_Preheat1_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Jul26_FW2_Finalshot",
+        "Start": "1783098000",
+        "End": "1783184399",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_FW2_Finalshot.png"
+      },
+      {
+        "Title": "FFCM_Group_Day_3",
+        "Start": "1782982800",
+        "End": "1783008000",
+        "Link": "https://youtube.com/live/Hvqac4I4QRs?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/FFCM_Group_Day_3.png"
+      },
+      {
+        "Title": "2026July_9TH_Play_mins_OverviewBG_4",
+        "Start": "1783098000",
+        "End": "1783184399",
+        "Link": "V2_category_5_groupId_58224",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_9TH_Play_mins_OverviewBG_4.png"
+      },
+      {
+        "Title": "2026July_9TH_Play_mins_OverviewBG_4",
+        "Start": "1783184400",
+        "End": "1783270799",
+        "Link": "V2_category_5_groupId_58224",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_9TH_Play_mins_OverviewBG_4.png"
+      },
+      {
+        "Title": "FFCM_Elim_Day_4",
+        "Start": "1783069200",
+        "End": "1783094400",
+        "Link": "https://youtube.com/live/jsGaHe0Y0ZU?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/FFCM_Elim_Day_4.png"
+      },
+      {
+        "Title": "2026June_9TH_Fast_track_OverviewBG_3",
+        "Start": "1782925200",
+        "End": "1783011599",
+        "Link": "V2_category_5_groupId_58222",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026June_9TH_Fast_track_OverviewBG_3.png"
+      },
+      {
+        "Title": "TH_Jul26_FW2_Finalshot",
+        "Start": "1783011600",
+        "End": "1783097999",
+        "Link": "V2_chestId_29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_FW2_Finalshot.png"
+      },
+      {
+        "Title": "TH_Jul26_TW1_EvoVault",
+        "Start": "1783184400",
+        "End": "1783270799",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TW1_EvoVault.png"
+      },
+      {
+        "Title": "FFCM_Final",
+        "Start": "1783242000",
+        "End": "1783270799",
+        "Link": "https://youtube.com/live/Cf3DwR4Zk5U?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/FFCM_Final.png"
+      }
+    ]
+  }
+}
