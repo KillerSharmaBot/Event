@@ -1,0 +1,72 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "iOS 12 Support is Ending",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB53/ME/20260627W08/Anno1099_en.png",
+        "Details": "Hi Survivors!\n\nWe're making updates to ensure Free Fire stays compatible with the latest iOS versions. As part of this, the minimum supported iOS version will be raised to [b]iOS 13[/b].\n[b]Who is affected?[/b] Only players on [b]iOS 12 devices (iPhone 6 and older)[/b] that cannot be upgraded to iOS 13 such as iPhone 5s, iPhone 6, and iPhone 6 Plus. Android players and iOS 13+ players are not affected.\n\n[b]Free Fire MAX:[/b] iOS 12 support will end with the [b]June 24 patch update[/b]. After this date, players on iOS 12 will no longer be able to launch or play Free Fire MAX.\n\n[b]Free Fire:[/b] iOS 12 support will continue through the [b]June 24 patch update[/b], giving affected players time to make the switch. Support will officially end with the [b]September 16 patch update[/b].\n\nIf you're on an affected device, act now:\n[b]Bind your Guest account[/b] to a supported login method\n[b]Set up a recovery email[/b] to protect your progress\n[b]Plan to switch[/b] to a compatible device before September 16\n\nWe apologize for the inconvenience and thank you for your understanding.",
+        "Start": "1781056800",
+        "End": "1783821599"
+      },
+      {
+        "Title": "Alpine Removal",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB53/ME/20260627W08/Anno1089_en.png",
+        "Start": "1782266400",
+        "End": "1785463199"
+      },
+      {
+        "Title": "Redeem Your Codes",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB44/ME/20240616W25/News_Anno_Product_Marketing_-_Web_Event_-_Tier_1_-_Redeem_Your_Codes_en.png",
+        "Details": "Hi Survivors!\n\nRedeem your codes now. Get the rewards and enjoy Free Fire more! Thanks!",
+        "Start": "1680660000",
+        "End": "1893463200",
+        "LinkAlt": "https://reward.ff.garena.com/?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Technical Support",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB35/ME/20220720Week1/AcustserEN.png",
+        "Link": "https://api-otrs.garena.com/support/callback/?access_token=<GARENA_TOKEN>&account_id=<FF_ID>&region=<FF_REGION>&lang=<FF_LANGUAGE>",
+        "Details": "Survivors!  \n\nPlease contact us via our technical support website if you need any help!  \n\nClick Below and do not hesitate to tell us your problem, we're here to help you!",
+        "Start": "1680660000",
+        "End": "1893463200"
+      },
+      {
+        "Title": "Our Discord!",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB36/ME/20220921Week1/ANNO_discord_EN.jpg",
+        "Link": "https://redirect.garena.com/discordFFMENA",
+        "Details": "Hi Survivors! \n\n[FFB300]Free Fire Discord Community[-] \n\nOur own Discord server now welcomes you with news of events, tournaments and much more! \n\nYou will have fun and meet new people, so join now!",
+        "Start": "1680660000",
+        "End": "1893463200"
+      },
+      {
+        "Title": "New Rank Season",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB54/ME/20260624W01/Anno1086_en.png",
+        "Start": "1782784800",
+        "End": "1787623199",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1 "
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Weekend Rush",
+        "Start": "1783044000",
+        "End": "1783130399",
+        "Link": "V2_category_1_groupId_842897"
+      },
+      {
+        "Title": "Scuba Dance Event",
+        "Start": "1782957600",
+        "End": "1783043999",
+        "Link": "V2_category_1_groupId_842898"
+      },
+      {
+        "Title": "Booyah Pass Top Up Bonus",
+        "Start": "1782871200",
+        "End": "1783130399",
+        "Link": "V2_category_5_groupId_842891"
+      }
+    ]
+  }
+}
