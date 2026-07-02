@@ -1,0 +1,141 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Free Fire Event Survey",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Survey2_336x580_en.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1782190800",
+        "End": "1783015199",
+        "LinkAlt": "https://ind.survey-site.com?fid=43ecda37afe902a299873c4dadeed07d&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Gold Vault Update",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors,\n\nGold Royale and Luck Royale will be removed from Free Fire on 24 June 2026.\n\nAfter the update, Gold Royale Vouchers and Luck Royale Vouchers will no longer be available and can be exchanged for the new Gold Vault Voucher at the following rates:\n\n1 Gold Vault Voucher = 1 Luck Royale Voucher\n1 Gold Vault Voucher = 1 Gold Royale Voucher\n\nPlayers may choose to either:\n• Use up their current Gold Royale and Luck Royale Vouchers before the update, or\n• Keep them and have them exchanged for Gold Vault Vouchers after the update.\nPlease take note of the upcoming changes and plan your vouchers accordingly.\n\nThank you for your continued support!\n\n- Free Fire Operations Team",
+        "Start": "1779768000",
+        "End": "1789495199"
+      },
+      {
+        "Title": "VOUCHER REPLACEMENT",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors,  \n\nGold Royale and Luck Royale have been removed in OB54. \nGold Royale Vouchers and Luck Royale Vouchers in your inventory will be replaced with Gold Vault Vouchers at the following rates:  \n\n1 Gold Vault Voucher = 1 Luck Royale Voucher \n1 Gold Vault Voucher = 1 Gold Royale Voucher  \n\nYou can use the Gold Vault Vouchers now in the new Gold Vault.  \n\nThank you for your patience and continued support!  \n\n- Free Fire Operations Team",
+        "Start": "1782273600",
+        "End": "1783461599"
+      },
+      {
+        "Title": "Youtube Feature Update",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors, \n\nWe'd like to inform you that YouTube has been temporarily removed from the Social Media Info component in the Personal Profile due to technical issues. Once resolved, we will bring it back. \n\nStay tuned for more updates, and thank you for your patience and understanding!",
+        "Start": "1782424800",
+        "End": "1783653852"
+      },
+      {
+        "Title": "BUDDY MART UPDATE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_OB54BuddyMartUpdateAnnoBD_en.jpg",
+        "Start": "1782273600",
+        "End": "1789509599",
+        "LinkAlt": "V2_category_1_GroupID_997331"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Group Skydive Trial",
+        "Start": "1783202400",
+        "End": "1783288799",
+        "Link": "V2_category_5_groupID_99801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GroupSkyDiveSplash0701BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFCM Sea Elimination Day 2",
+        "Start": "1783153800",
+        "End": "1783187999",
+        "Link": "https://youtube.com/live/_jIb3ZqPUB0?feature=share"
+      },
+      {
+        "Title": "Celebration Climb",
+        "Start": "1782943200",
+        "End": "1783029599",
+        "Link": "V2_category_5_groupID_99803",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_CelebrationClimbSplash0701BD_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: AUG EVO GUN***",
+        "Start": "1783029600",
+        "End": "1783067399",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVAUGJulySplashBD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFCM Sea Elimination Day 1",
+        "Start": "1783067400",
+        "End": "1783101599",
+        "Link": "https://youtube.com/live/1TCrJJTNGMA?feature=share"
+      },
+      {
+        "Title": "Group Skydive Trial",
+        "Start": "1783029600",
+        "End": "1783115999",
+        "Link": "V2_category_5_groupID_99801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GroupSkyDiveSplash0701BD_en.jpg"
+      },
+      {
+        "Title": "Group Skydive Trial",
+        "Start": "1783116000",
+        "End": "1783202399",
+        "Link": "V2_category_5_groupID_99801",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_GroupSkyDiveSplash0701BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFCM Sea Semi & Grand Finals",
+        "Start": "1783240200",
+        "End": "1783274399",
+        "Link": "https://youtube.com/live/8rsRS_e9CGc?feature=share"
+      },
+      {
+        "Title": "Lucky Wheel: 9TH ANNIVERSARY BUNDLES***",
+        "Start": "1783202400",
+        "End": "1783240199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LuckyWheel9thAnniversarySplash0701BD_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: AUG EVO GUN***",
+        "Start": "1783101600",
+        "End": "1783115999",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVAUGJulySplashBD_en.jpg"
+      },
+      {
+        "Title": "Lucky Wheel: 9TH ANNIVERSARY BUNDLES***",
+        "Start": "1783116000",
+        "End": "1783153799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LuckyWheel9thAnniversarySplash0701BD_en.jpg"
+      },
+      {
+        "Title": "Lucky Wheel: 9TH ANNIVERSARY BUNDLES***",
+        "Start": "1783188000",
+        "End": "1783202399",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_LuckyWheel9thAnniversarySplash0701BD_en.jpg"
+      },
+      {
+        "Title": "EVO Vault: AUG EVO GUN***",
+        "Start": "1783015200",
+        "End": "1783029599",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_EVAUGJulySplashBD_en.jpg"
+      },
+      {
+        "Title": "FFCM Sea Group Stage D3",
+        "Start": "1782981000",
+        "End": "1783015199",
+        "Link": "https://youtube.com/live/5h9KdTt_K8A?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FFCMSeaGroupStageD3Splash0701BD_en.jpg"
+      }
+    ]
+  }
+}
