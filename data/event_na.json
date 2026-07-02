@@ -1,0 +1,88 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Youtube Feature Update",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors, \n\nWe'd like to inform you that YouTube has been temporarily removed from the Social Media Info component in the Personal Profile due to technical issues. Once resolved, we will bring it back. \n\nStay tuned for more updates, and thank you for your patience and understanding!",
+        "Start": "1782374400",
+        "End": "1783689852"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.facebook.com/FreeFireNAOfficial"
+      },
+      {
+        "Title": "Squad Up - Join our Server",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_endiscord.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://discord.gg/FreeFireNA"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.youtube.com/@GarenaFreeFireNorthAmerica"
+      },
+      {
+        "Title": "Voucher Replacement",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice0529_en.jpg",
+        "Details": "Dear Survivors,\n\nGold Royale and Luck Royale have been removed in OB54.\nGold Royale Vouchers and Luck Royale Vouchers in your inventory will be replaced with Gold Vault Vouchers at the following rates:\n\n1 Gold Vault Voucher = 1 Luck Royale Voucher\n1 Gold Vault Voucher = 1 Gold Royale Voucher\n\nYou can use the Gold Vault Vouchers now in the new Gold Vault,\n\nThank you for your patience and continued support!\n\n- Free Fire Operations Team",
+        "Start": "1782273600",
+        "End": "1783497599",
+        "LinkAlt": "V2_category_1_GroupID_2606249"
+      },
+      {
+        "Title": "Buddy Mart Update",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OB54_BuddyMartUpdate_en.jpg",
+        "Start": "1782273600",
+        "End": "1789545599",
+        "LinkAlt": "V2_category_1_GroupID_26062411"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742788800",
+        "End": "1900641599",
+        "LinkAlt": "https://www.tiktok.com/@freefirenaofficial_en"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Lucky Wheel 9 Anniversary",
+        "Start": "1783238400",
+        "End": "1783324799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_LuckyWheel9thAnniversary_en.jpg"
+      },
+      {
+        "Title": "Evo Vault AUG",
+        "Start": "1783065600",
+        "End": "1783151999",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_EvoVaultAUG_en.jpg"
+      },
+      {
+        "Title": "Soaring Eagle",
+        "Start": "1783238400",
+        "End": "1783324799",
+        "Link": "V2_category_1_groupID_26070109",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_SoaringEagle_en.jpg"
+      },
+      {
+        "Title": "Evo Vault AUG",
+        "Start": "1782979200",
+        "End": "1783065599",
+        "Link": "V2_chestId_87",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_EvoVaultAUG_en.jpg"
+      }
+    ]
+  }
+}
