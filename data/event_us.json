@@ -1,0 +1,66 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Nuevo ícono de penalización",
+        "Banner": "OB53/US/ICON1400x700.png",
+        "Start": "1782489600",
+        "End": "1783400399",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "¿Quieres reportar algo?",
+        "Banner": "OB54/US/PSREP1400x700.png",
+        "Start": "1782795600",
+        "End": "1784005199",
+        "LinkAlt": "https://ffsoporte.garena.com/hc/es-419"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "EVO AUG + Backpack",
+        "Start": "1783054800",
+        "End": "1783141199",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADEV5100_1750x1070_es.png"
+      },
+      {
+        "Title": "Diamond Bonus",
+        "Start": "1783141200",
+        "End": "1783313999",
+        "Link": "V2_category_1_groupId_60766",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/GACDI0704_1750x1070_es.png"
+      },
+      {
+        "Title": "Pirate Flag (Summon Emote) Relaunch",
+        "Start": "1783054800",
+        "End": "1783141199",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPI9713_1750x1070_es.png"
+      },
+      {
+        "Title": "BPS43",
+        "Start": "1782968400",
+        "End": "1783054799",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/BPS4301_1750x1070_es.png"
+      },
+      {
+        "Title": "Top Criminal Red Relaunch",
+        "Start": "1783141200",
+        "End": "1783313999",
+        "Link": "34",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/TOKTO1918_1750x1070_es.png"
+      },
+      {
+        "Title": "Pirate Flag (Summon Emote) Relaunch",
+        "Start": "1782968400",
+        "End": "1783054799",
+        "Link": "39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADPI9713_1750x1070_es.png"
+      }
+    ]
+  }
+}
