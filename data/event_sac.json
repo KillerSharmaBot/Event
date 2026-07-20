@@ -1,0 +1,38 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Protege Tu Cuenta",
+        "Banner": "OB54/US/PROT_1400x700_es.png",
+        "Start": "1783998000",
+        "End": "1784948399",
+        "LinkAlt": "0"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW - Evo AK47/ Scar",
+        "Start": "1784516400",
+        "End": "1784602799",
+        "Link": "59",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADFW2529_1750x1070_es.png"
+      },
+      {
+        "Title": "Isagi Emote + Nagi Emote Relaunch",
+        "Start": "1784516400",
+        "End": "1784689199",
+        "Link": "72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/WONIS8590_1750x1070_es.png"
+      },
+      {
+        "Title": "Magic Cube CTA",
+        "Start": "1784602800",
+        "End": "1784689199",
+        "Link": "V2_firstTab_6",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/MAG0721_1750x1070_es.png"
+      }
+    ]
+  }
+}
