@@ -1,0 +1,44 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Alpine Removal",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB53/ME/20260627W08/Anno1089_en.png",
+        "Start": "1782266400",
+        "End": "1785463199"
+      },
+      {
+        "Title": "Redeem Your Codes",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB44/ME/20240616W25/News_Anno_Product_Marketing_-_Web_Event_-_Tier_1_-_Redeem_Your_Codes_en.png",
+        "Details": "Hi Survivors!\n\nRedeem your codes now. Get the rewards and enjoy Free Fire more! Thanks!",
+        "Start": "1680660000",
+        "End": "1893463200",
+        "LinkAlt": "https://reward.ff.garena.com/?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Technical Support",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB35/ME/20220720Week1/AcustserEN.png",
+        "Link": "https://api-otrs.garena.com/support/callback/?access_token=<GARENA_TOKEN>&account_id=<FF_ID>&region=<FF_REGION>&lang=<FF_LANGUAGE>",
+        "Details": "Survivors!  \n\nPlease contact us via our technical support website if you need any help!  \n\nClick Below and do not hesitate to tell us your problem, we're here to help you!",
+        "Start": "1680660000",
+        "End": "1893463200"
+      },
+      {
+        "Title": "Our Discord!",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB36/ME/20220921Week1/ANNO_discord_EN.jpg",
+        "Link": "https://redirect.garena.com/discordFFMENA",
+        "Details": "Hi Survivors! \n\n[FFB300]Free Fire Discord Community[-] \n\nOur own Discord server now welcomes you with news of events, tournaments and much more! \n\nYou will have fun and meet new people, so join now!",
+        "Start": "1680660000",
+        "End": "1893463200"
+      },
+      {
+        "Title": "New Rank Season",
+        "Banner": "https://freefiremobile-a.akamaihd.net/common/OB54/ME/20260624W01/Anno1086_en.png",
+        "Start": "1782784800",
+        "End": "1787623199",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1 "
+      }
+    ]
+  },
+  "events": {}
+}
