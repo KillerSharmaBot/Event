@@ -1,0 +1,59 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Protege Tu Cuenta",
+        "Banner": "OB54/US/PROT_1400x700_es.png",
+        "Start": "1784005200",
+        "End": "1784955599",
+        "LinkAlt": "0"
+      },
+      {
+        "Title": "¡Torneo de Influencers!",
+        "Banner": "OB54/US/TORN_1400x700_es.png",
+        "Start": "1784264400",
+        "End": "1784523599",
+        "LinkAlt": "https://youtube.com/@thehectorino?si=RODtg3F4ZKEhIVwQ"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW - Evo AK47/ Scar",
+        "Start": "1784523600",
+        "End": "1784609999",
+        "Link": "59",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FADFW2529_1750x1070_es.png"
+      },
+      {
+        "Title": "Isagi Emote + Nagi Emote Relaunch",
+        "Start": "1784523600",
+        "End": "1784696399",
+        "Link": "72",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/WONIS8590_1750x1070_es.png"
+      },
+      {
+        "Title": "Diamond Bonus",
+        "Start": "1784350800",
+        "End": "1784523599",
+        "Link": "V2_category_1_groupId_60769",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/GACDI0718_1750x1070_es.png"
+      },
+      {
+        "Title": "Rin Itoshi + Old Blue Lock Relaunch",
+        "Start": "1784386801",
+        "End": "1784523599",
+        "Link": "88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/RIN0718_1750x1070_es.png"
+      },
+      {
+        "Title": "Magic Cube CTA",
+        "Start": "1784610000",
+        "End": "1784696399",
+        "Link": "V2_firstTab_6",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/MAG0721_1750x1070_es.png"
+      }
+    ]
+  }
+}
