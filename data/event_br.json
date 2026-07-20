@@ -1,0 +1,59 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Nova Temporada BR",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/BP_S52_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1782874800",
+        "End": "1788231599",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Calendário Premium",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB53/BR/Event_Calendar_CBF_Rev_1400x700_BR_pt.jpg",
+        "Start": "1780542000",
+        "End": "1784775599"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] BLock Rin Backpack CQ02",
+        "Start": "1784430000",
+        "End": "1784602799",
+        "Link": "V2_drawShopId_540105",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/BLock_Rin_Backpack_CQ02_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] BLock Isagi Emote MA96",
+        "Start": "1784602800",
+        "End": "1784689199",
+        "Link": "V2_drawShopId_540106",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/BLock_Isagi_Emote_MA96_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] BLock Rin Backpack CQ02",
+        "Start": "1784602800",
+        "End": "1784689199",
+        "Link": "V2_drawShopId_540105",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/BLock_Rin_Backpack_CQ02_1750x1070_BR_pt.jpg"
+      },
+      {
+        "Title": "[REVENUE] Knee Slide Arrival VQ7",
+        "Start": "1784516400",
+        "End": "1784602799",
+        "Link": "V2_drawShopId_540306",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/Knee_Slide_Arrival_VQ7_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
