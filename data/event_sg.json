@@ -1,0 +1,92 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.instagram.com/freefiremalaysiaofficial/"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.facebook.com/freefiremalaysia/"
+      },
+      {
+        "Title": "Blue Lock Tailor Bundles",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BlueLockTailorBundles_en.jpg",
+        "Start": "1784232000",
+        "End": "1786895999",
+        "LinkAlt": "V2_tailorID_16"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.youtube.com/@freefiremalaysiaofficial"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.tiktok.com/@freefiremalaysiaofficial"
+      },
+      {
+        "Title": "EWC Aurora Gaming",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Aurora_EWC_en.jpg",
+        "Start": "1784313615",
+        "End": "1784908800"
+      },
+      {
+        "Title": "Google Play League",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GooglePlayLeague_en.jpg",
+        "Start": "1783008000",
+        "End": "1785009599"
+      },
+      {
+        "Title": "Buddy Mart Update",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OB54_BuddyMartUpdate_en.jpg",
+        "Start": "1782273600",
+        "End": "1789502399",
+        "LinkAlt": "V2_category_1_GroupID_26062411"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Lock Ring",
+        "Start": "1784491200",
+        "End": "1784577599",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BlueLockRing_en.jpg"
+      },
+      {
+        "Title": "9 Anni_Party Finale",
+        "Start": "1784491200",
+        "End": "1784577599",
+        "Link": "V2_category_5_groupId_26071501",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_9Anni_PartyFinale_en.jpg"
+      },
+      {
+        "Title": "Blue Lock_Overtime",
+        "Start": "1784577600",
+        "End": "1784663999",
+        "Link": "V2_category_1_groupId_26071505",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BlueLock_Overtime_en.jpg"
+      },
+      {
+        "Title": "Trophy Lift",
+        "Start": "1784577600",
+        "End": "1784663999",
+        "Link": "V2_chestId_11",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_TrophyLift_en.jpg"
+      }
+    ]
+  }
+}
