@@ -1,0 +1,79 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "BUDDY MART UPDATE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Buddymartnewsiykyk_en.jpg",
+        "Start": "1782273600",
+        "End": "1789523999",
+        "LinkAlt": "V2_category_1_groupID_26060424"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "BLUE LOCK TAILOR BUNDLES",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Bluelocktilorbundlesiykyk_en.jpg",
+        "Start": "1784253600",
+        "End": "1786917599",
+        "LinkAlt": "V2_tailorID_16"
+      },
+      {
+        "Title": "GOOGLE PLAY LEAGUE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/GpUpdateiykyk_en.jpg",
+        "Start": "1783029600",
+        "End": "1785031199"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "BLUE LOCK OVERTIME",
+        "Start": "1784599200",
+        "End": "1784685599",
+        "Link": "V2_category_1_groupID_26060495",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BlueLockOvertimeEU_iykyk_en.jpg"
+      },
+      {
+        "Title": "PARTY FINALE ",
+        "Start": "1784512800",
+        "End": "1784599199",
+        "Link": "V2_category_5_groupID_26060457",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/PartyFinaleEUiykyk_en.jpg"
+      },
+      {
+        "Title": "Emote Royale: TROPHY LIFT  x SHOE SHINING DUO EMOTE x LOL**",
+        "Start": "1784599200",
+        "End": "1784685599",
+        "Link": "V2_chestId_11",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ERTrophyLiftiykyk_en.jpg"
+      },
+      {
+        "Title": "Blue Lock Ring: RIN BUNDLE x ISAGI TEAM Z BUNDLE x NAGI TEAM Z BUNDLE**",
+        "Start": "1784512800",
+        "End": "1784599199",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BlueLockRingiykyk_en.jpg"
+      }
+    ]
+  }
+}
