@@ -1,0 +1,30 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "GYC Side Event",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/ID/splash/9bp2VIOcAL.jpg",
+        "Link": "https://linktr.ee/gycsideevent",
+        "Start": "1784343600",
+        "End": "1785517199",
+        "LinkAlt": "https://linktr.ee/gycsideevent"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "#26 Blue Lock - Vector Blue Lock!",
+        "Start": "1784516400",
+        "End": "1784602799",
+        "Link": "16235"
+      },
+      {
+        "Title": "#16 Token Ring [UNIVERSAL] - Duo Emote - Trophy Lift (909054014) (Orange) + shoe shining",
+        "Start": "1784516400",
+        "End": "1784602799",
+        "Link": "V2_chestId_88"
+      }
+    ]
+  }
+}
