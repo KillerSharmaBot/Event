@@ -1,0 +1,71 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "BLUE LOCK TAILOR BUNDLES",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_BlueLockTailorBundlesAnno0717BD_en.jpg",
+        "Start": "1784239200",
+        "End": "1786903199",
+        "LinkAlt": "V2_tailorID_16"
+      },
+      {
+        "Title": "Gold Vault Update",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_Notice1_en.jpg",
+        "Details": "Dear Survivors,\n\nGold Royale and Luck Royale will be removed from Free Fire on 24 June 2026.\n\nAfter the update, Gold Royale Vouchers and Luck Royale Vouchers will no longer be available and can be exchanged for the new Gold Vault Voucher at the following rates:\n\n1 Gold Vault Voucher = 1 Luck Royale Voucher\n1 Gold Vault Voucher = 1 Gold Royale Voucher\n\nPlayers may choose to either:\n• Use up their current Gold Royale and Luck Royale Vouchers before the update, or\n• Keep them and have them exchanged for Gold Vault Vouchers after the update.\nPlease take note of the upcoming changes and plan your vouchers accordingly.\n\nThank you for your continued support!\n\n- Free Fire Operations Team",
+        "Start": "1779768000",
+        "End": "1789495199"
+      },
+      {
+        "Title": "BUDDY MART UPDATE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_OB54BuddyMartUpdateAnnoBD_en.jpg",
+        "Start": "1782273600",
+        "End": "1789509599",
+        "LinkAlt": "V2_category_1_GroupID_997331"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Lock Ring: RIN BUNDLE x ISAGI TEAM Z BUNDLE x NAGI TEAM Z BUNDLE**",
+        "Start": "1784498400",
+        "End": "1784541599",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BlueLockRingSplash0715BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFBPL S3 Group Stage  1",
+        "Start": "1784541600",
+        "End": "1784584799",
+        "Link": "https://youtube.com/live/8wle2VyWeKU?feature=share"
+      },
+      {
+        "Title": "PARTY FINALE",
+        "Start": "1784498400",
+        "End": "1784584799",
+        "Link": "V2_category_5_groupID_99835",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_PartyFinaleSplash0715BD_en.jpg"
+      },
+      {
+        "Title": "Emote Royale: TROPHY LIFT  x SHOE SHINING DUO EMOTE x LOL**",
+        "Start": "1784584800",
+        "End": "1784627999",
+        "Link": "V2_chestId_11",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ERTrophyLiftSplash0715BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFBPL S3 Group Stage 2",
+        "Start": "1784628000",
+        "End": "1784671199",
+        "Link": "https://youtube.com/live/DoFjCCmilXE?feature=share"
+      },
+      {
+        "Title": "BLUE LOCK OVERTIME",
+        "Start": "1784584800",
+        "End": "1784671199",
+        "Link": "V2_category_1_groupID_998391",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BlueLockOvertimeSplash0715BD_en.jpg"
+      }
+    ]
+  }
+}
