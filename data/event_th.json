@@ -1,0 +1,173 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "รับ Box Set HRK ฟรี!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260711-ANC_HRKGiveaway_1400x700.ff_extend",
+        "Start": "1783756800",
+        "End": "1785517199",
+        "LinkAlt": "https://survey-site.com?fid=31f848c25acaa501a2f9e2c8277708ab&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "รับสมัคร 9 ปี 9 ทุน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260719-ANC_9Years9scholarship_1400x700.ff_extend",
+        "Start": "1784430000",
+        "End": "1785085199",
+        "LinkAlt": "https://forms.gle/yB8dprmiwpcL5TGx8"
+      },
+      {
+        "Title": "เล่นฟีฟายไม่ใช้เน็ต!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_FFnoNet_1400x700.ff_extend",
+        "Start": "1775620800",
+        "End": "1808449199",
+        "LinkAlt": "V2_tabType_0"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/JW9RKao5hiqQ8Fvr8",
+        "Start": "1784480400",
+        "End": "1784566799",
+        "LinkAlt": "https://forms.gle/JW9RKao5hiqQ8Fvr8"
+      },
+      {
+        "Title": "รับสมัครนักเรียนแข่งฟีฟาย",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260710-ANC_MYCRegistation_1400x700.ff_extend",
+        "Start": "1783659600",
+        "End": "1784912399",
+        "LinkAlt": "https://www.facebook.com/share/p/199u99xxeD/"
+      },
+      {
+        "Title": "ฟีฟายแจกฉ่ำตลอดปี",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_MonthlyGIP2_1400x700.ff_extend",
+        "Start": "1775617200",
+        "End": "1808758799",
+        "LinkAlt": "https://vt.tiktok.com/ZS98vuNw1PhPs-EZozF/"
+      },
+      {
+        "Title": "อยากลองฟีเจอร์ใหม่ คลิก!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "อยากเป็นหนูทดลองไหม? \n\n \n\nร่่วมทดลองฟีเจอร์ใหม่ก่อนใคร \n\n \n\nเพียงตอบแบบสอบถามนี้ เริ่มเลย!! \n\n\n\n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 23 กรกฎาคม 2569 เวลา 23:59 น.\n\n\n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1784246400",
+        "End": "1784825999",
+        "LinkAlt": "https://survey-site.com?fid=1eb38f60b420d9d7662ae616b4aa6a67&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "รับสมัครครีเอเตอร์ฟีฟาย",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260706-ANC_CreatorFreeFireWeb_1400x700.ff_extend",
+        "Start": "1783321200",
+        "End": "1909587599",
+        "LinkAlt": "https://creatorprogram.garena.in.th/ff/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "2026July_9TH_Play_mins_OverviewBG_6_V2",
+        "Start": "1784494800",
+        "End": "1784566799",
+        "Link": "V2_category_5_groupId_58226",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_9TH_Play_mins_OverviewBG_6_V2.png"
+      },
+      {
+        "Title": "TH_Jul26_TW3_IsagiNagi_Preheat1",
+        "Start": "1784480400",
+        "End": "1784566799",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TW3_IsagiNagi_Preheat1_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Jul26_TW3_IsagiNagi_Preheat2",
+        "Start": "1784566800",
+        "End": "1784653199",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TW3_IsagiNagi_Preheat2_DynamicBG.png"
+      },
+      {
+        "Title": "2026July_9TH_EWC_OverviewBG_14",
+        "Start": "1784581199",
+        "End": "1784653199",
+        "Link": "V2_category_5_groupId_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/2026July_9TH_EWC_OverviewBG_14.png"
+      },
+      {
+        "Title": "TH_Jul26_TW6_Emoteparty",
+        "Start": "1784566800",
+        "End": "1784653199",
+        "Link": "V2_chestId_92",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TW6_Emoteparty_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Jul26_Glassroot_V2",
+        "Start": "1784566800",
+        "End": "1784653199",
+        "Link": "https://www.facebook.com/share/p/199u99xxeD/",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_Glassroot_V2.png"
+      },
+      {
+        "Title": "TH_Jul26_Topup_Payday_TGVoucher",
+        "Start": "1784566800",
+        "End": "1784653199",
+        "Link": "58502",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_Topup_Payday_TGVoucher.png"
+      },
+      {
+        "Title": "TH_Jul26_Shop_add_worldcup",
+        "Start": "1784480400",
+        "End": "1784566799",
+        "Link": "V2_secondTab_10402_storeid_203000192",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_Shop_add_worldcup.png"
+      },
+      {
+        "Title": "TH_Jul26_TG2_Eye",
+        "Start": "1784566800",
+        "End": "1784653199",
+        "Link": "V2_chestId_62",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TG2_Eye.png"
+      },
+      {
+        "Title": "TH_Jul26_TT1_Fist_9th",
+        "Start": "1784480400",
+        "End": "1784566799",
+        "Link": "V2_chestId_33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TT1_Fist_9th_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Jul26_TW4_TriOGun_SGV",
+        "Start": "1784480400",
+        "End": "1784566799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TW4_TriOGun_SGV.png"
+      },
+      {
+        "Title": "TH_Jul26_Glassroot_V2",
+        "Start": "1784480400",
+        "End": "1784566799",
+        "Link": "https://www.facebook.com/share/p/199u99xxeD/",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_Glassroot_V2.png"
+      },
+      {
+        "Title": "TH_Jul26_TT1_Fist_9th",
+        "Start": "1784566800",
+        "End": "1784653199",
+        "Link": "V2_chestId_33",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Splash/TH_Jul26_TT1_Fist_9th_DynamicBG.png"
+      }
+    ]
+  }
+}
