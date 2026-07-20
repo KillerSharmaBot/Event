@@ -1,0 +1,80 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_WatchTheBattleUnfoldINDAnno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.youtube.com/@FreeFireIndiaOfficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_StayInLoopAnnIND_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.facebook.com/freefireIND"
+      },
+      {
+        "Title": "Feedback Requested",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/surveyind_en.jpg",
+        "Details": "Hi Survivor\n\nPlease take 5 minutes to provide your valuable feedback about recent events and updates.\n\nPlease click on GO to fill up a quick survey.\n\n-The Free Fire MAX Operations Team",
+        "Start": "1784295000",
+        "End": "1784917799",
+        "LinkAlt": "https://ind.survey-site.com?fid=a50c18170c39d7deda3c08d217cfff76&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "GOOGLE PLAY LEAGUE",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_GooglePlayLeague0706AnnoIND_en.jpg",
+        "Start": "1783017000",
+        "End": "1785018599"
+      },
+      {
+        "Title": "BLUE LOCK TAILOR BUNDLES",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_BlueLockTailorBundlesAnno0717IND_en.jpg",
+        "Start": "1784241000",
+        "End": "1786904999",
+        "LinkAlt": "V2_tailorID_16"
+      },
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1400x700_TheLatestUpdatesINDanno_en.jpg",
+        "Start": "1742769000",
+        "End": "4108904999",
+        "LinkAlt": "https://www.instagram.com/freefireindiaofficial/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Lock Ring: RIN BUNDLE x ISAGI TEAM Z BUNDLE x NAGI TEAM Z BUNDLE**",
+        "Start": "1784500200",
+        "End": "1784586599",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_BlueLockRingSplash0715IND_en.jpg"
+      },
+      {
+        "Title": "Emote Royale: TROPHY LIFT  x SHOE SHINING DUO EMOTE x LOL**",
+        "Start": "1784586600",
+        "End": "1784672999",
+        "Link": "V2_chestId_11",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_ERTrophyLiftSplash0715IND_en.jpg"
+      },
+      {
+        "Title": "PARTY FINALE",
+        "Start": "1784500200",
+        "End": "1784586599",
+        "Link": "V2_category_5_groupID_95820",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_PartyFinaleSplash0715IND_en.jpg"
+      },
+      {
+        "Title": "BLUE LOCK OVERTIME",
+        "Start": "1784586600",
+        "End": "1784672999",
+        "Link": "V2_category_1_groupID_958241",
+        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_BlueLockOvertimeSplashNew0715IND_en.jpg"
+      }
+    ]
+  }
+}
