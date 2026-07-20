@@ -1,0 +1,80 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "Обновление Золотой Схрон",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeRU_336x880_ru.jpg",
+        "Details": "Привет выживший,\n\nЗолотой Джекпот и Алмазный Джекпот будут удалены из Free Fire 24 июня 2026 года.\n\nПосле обновления купоны Золотого Джекпота и Алмазного Джекпота больше не будут доступны и будут автоматически обменяны на новые купоны Золотого Схрона по следующему курсу:\n\n1 Купон Золотого Схрона = 1 Купон Алмазного Джекпота\n1 Купон Золотого Схрона = 1 Купона Золотого Джекпота  \n\nИгроки могут:\n• использовать текущие купоны Золотого Джекпота и Алмазного Джекпота до обновления, или\n• сохранить их и получить обмен на Купон Золотого Схрона после обновления\nПожалуйста, учитывайте предстоящие изменения и планируйте использование купонов заранее.\n\nСпасибо за вашу поддержку!\n\n— Команда Free Fire",
+        "Start": "1779778800",
+        "End": "1789505999"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "BLUE LOCK НАБОРЫ СЕТ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_BlueLockTailorBundlesAnno0717RU_ru.jpg",
+        "Start": "1784250000",
+        "End": "1786913999",
+        "LinkAlt": "V2_tailorID_16"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      },
+      {
+        "Title": "ОБНОВЛЕНИЕ ПРИЯТЕЛЬСКОГО МАГАЗА",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_OB54BuddyMartUpdateAnnoRU_ru.jpg",
+        "Start": "1782273600",
+        "End": "1789520399",
+        "LinkAlt": "V2_category_1_GroupID_95541"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Blue Lock Ring: RIN BUNDLE x ISAGI TEAM Z BUNDLE x NAGI TEAM Z BUNDLE**",
+        "Start": "1784509200",
+        "End": "1784595599",
+        "Link": "V2_chestId_91",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BlueLockRingRinIsagiNagiSplash0715RU_ru.jpg"
+      },
+      {
+        "Title": "BLUE LOCK OVERTIME",
+        "Start": "1784595600",
+        "End": "1784681999",
+        "Link": "V2_category_1_groupID_958191",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_BlueLockOvertimeSplash0715RU_ru.jpg"
+      },
+      {
+        "Title": "Emote Royale: TROPHY LIFT  x SHOE SHINING DUO EMOTE x LOL**",
+        "Start": "1784595600",
+        "End": "1784681999",
+        "Link": "V2_chestId_11",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ERTrophyLiftSplash0715RU_ru.jpg"
+      },
+      {
+        "Title": "PARTY FINALE",
+        "Start": "1784509200",
+        "End": "1784595599",
+        "Link": "V2_category_5_groupID_95815",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_PartyFinaleSplash0715RU_ru.jpg"
+      }
+    ]
+  }
+}
