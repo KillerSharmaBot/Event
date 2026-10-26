@@ -1,0 +1,65 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "ОБНОВЛЕНИЕ ОРУЖИЯ",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1400x700_WeaponAdjustmentsAnno1022RU_ru.jpg",
+        "Start": "1792620000",
+        "End": "1793062799"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[ALL] Unseen CG",
+        "Start": "1793062800",
+        "End": "1793149199",
+        "Link": "https://youtu.be/J7x4ORnSQPs",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_UnseenCGSplash1017RU_ru.jpg"
+      },
+      {
+        "Title": "G36 x SKS Ring: BRIDE'S REVENGE x HIGH VOLTAGE**",
+        "Start": "1792976400",
+        "End": "1793062799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_G36xSKSRingBRIDESREVENGExHIGHVOLTAGESplash1023RU_ru.jpg"
+      },
+      {
+        "Title": "Faded Wheel: UNSEEN CLAWS SKYDIVE***",
+        "Start": "1793062800",
+        "End": "1793149199",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FadedWheelUNSEENCLAWSSKYDIVESplash1025RU_ru.jpg"
+      },
+      {
+        "Title": "[ALL] Unseen Interface",
+        "Start": "1792976400",
+        "End": "1793062799",
+        "Link": "V2_eventid_62_entranceId_0",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_UnseenInterfaceSplash1016RU_ru.jpg"
+      }
+    ]
+  }
+}
