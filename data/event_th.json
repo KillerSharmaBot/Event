@@ -1,0 +1,200 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "คอนเทนต์ปังเอาตังไป:เรื่องสยองฟีฟาย",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261016-ANC_GIP_OctGhost26_1400x700.ff_extend",
+        "Start": "1792112400",
+        "End": "1793552399",
+        "LinkAlt": "https://snssdk1233.onelink.me/bIdt?af_force_deeplink=true&af_dp=snssdk1233%3A%2F%2Fwebcast_game_detail%3Fbusiness%3Dleaderboard%26leader_board_id%3D7688669281415973652%26gip_channel%3Dshare"
+      },
+      {
+        "Title": "เล่นฟีฟายไม่ใช้เน็ต!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_FFnoNet_1400x700.ff_extend",
+        "Start": "1775620800",
+        "End": "1808449199",
+        "LinkAlt": "V2_tabType_0"
+      },
+      {
+        "Title": "เพลง เพชฌฆาต",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261026-ANC_MusicReachYourPrime_1400x700.ff_extend",
+        "Start": "1793012400",
+        "End": "1793811599",
+        "LinkAlt": "https://youtu.be/t5D8P9rAJnM?si=CgJtsP5WYKwmdlIm"
+      },
+      {
+        "Title": "อัปเดตอาวุธเพิ่มเติม",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261022-ANC_Weaponupdate1_1400x700.png",
+        "Start": "1792666800",
+        "End": "1793897999",
+        "LinkAlt": "V2"
+      },
+      {
+        "Title": "Shopee แจกไอเทม",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20260924-ANC_ShopeeGivereward_1400x700.ff_extend",
+        "Start": "1790218800",
+        "End": "1821805199",
+        "LinkAlt": "https://u.shopee.co.th/FQxW5Jq"
+      },
+      {
+        "Title": "ฟีฟายแจกฉ่ำตลอดปี",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_MonthlyGIP2_1400x700.ff_extend",
+        "Start": "1775617200",
+        "End": "1808758799",
+        "LinkAlt": "https://vt.tiktok.com/ZS98vuNw1PhPs-EZozF/"
+      },
+      {
+        "Title": "กิจกรรมเพชฌฆาตล่าเพชร",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261026-ANC_UGCMusicReachYourPrime_1400x700.ff_extend",
+        "Start": "1793012400",
+        "End": "1793811599",
+        "LinkAlt": "https://vt.tiktok.com/ZSgXCMYUb/"
+      },
+      {
+        "Title": "รายงานปัญหา ภายในเกม",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/1400x700_Overview_issue_report.jpg",
+        "Link": "https://forms.gle/JW9RKao5hiqQ8Fvr8",
+        "Start": "1793034000",
+        "End": "1793120399",
+        "LinkAlt": "https://forms.gle/JW9RKao5hiqQ8Fvr8"
+      },
+      {
+        "Title": "รับสมัครครีเอเตอร์ฟีฟาย",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260706-ANC_CreatorFreeFireWeb_1400x700.ff_extend",
+        "Start": "1783321200",
+        "End": "1909587599",
+        "LinkAlt": "https://creatorprogram.garena.in.th/ff/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Oct26_TG2_Special_Halloween",
+        "Start": "1793293200",
+        "End": "1793379599",
+        "Link": "V2_chestId_62",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_TG2_Special_Halloween.png"
+      },
+      {
+        "Title": "TH_Oct26_FW2_Skydive_Halloween",
+        "Start": "1793206800",
+        "End": "1793293199",
+        "Link": "V2_chestId_29",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_FW2_Skydive_Halloween_DynamicBG.png"
+      },
+      {
+        "Title": "2026Sep_Unseen_Event_OverviewBG3",
+        "Start": "1793120400",
+        "End": "1793206799",
+        "Link": "V2_category_5_groupId_59721",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Sep_Unseen_Event_OverviewBG3.png"
+      },
+      {
+        "Title": "TH_Oct26_FW2_Skydive_Halloween",
+        "Start": "1793293200",
+        "End": "1793379599",
+        "Link": "V2_chestId_29",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_FW2_Skydive_Halloween_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Oct26_TW4_HalloweenBundle",
+        "Start": "1793034000",
+        "End": "1793120399",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_TW4_HalloweenBundle_DynamicBG.png"
+      },
+      {
+        "Title": "2026Oct_Unseen_Interface",
+        "Start": "1793034000",
+        "End": "1793120399",
+        "Link": "V2_eventid_62_entranceId_0",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Oct_Unseen_Interface.png"
+      },
+      {
+        "Title": "TH_Oct26_FW2_Skydive_Halloween",
+        "Start": "1793120400",
+        "End": "1793206799",
+        "Link": "V2_chestId_29",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_FW2_Skydive_Halloween_DynamicBG.png"
+      },
+      {
+        "Title": "TH_Oct26_FW2_Skydive_Halloween_Preheat",
+        "Start": "1793034000",
+        "End": "1793120399",
+        "Link": "V2_chestId_29",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_FW2_Skydive_Halloween_Preheat_DynamicBG.png"
+      },
+      {
+        "Title": "2026Aug_Baseline_Play_games_OverviewBG20",
+        "Start": "1793206800",
+        "End": "1793293199",
+        "Link": "V2_category_5_groupId_59724",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Aug_Baseline_Play_games_OverviewBG20.png"
+      },
+      {
+        "Title": "TH_Oct26_LW",
+        "Start": "1793034000",
+        "End": "1793120399",
+        "Link": "V2",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_LW.png"
+      },
+      {
+        "Title": "TH_Oct26_TG2_Special_Halloween_Preheat",
+        "Start": "1793206800",
+        "End": "1793293199",
+        "Link": "V2_firstTab_9",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_TG2_Special_Halloween_Preheat.png"
+      },
+      {
+        "Title": "2026Oct_DoubleEXP_Event_Twomission3",
+        "Start": "1793206800",
+        "End": "1793293199",
+        "Link": "V2_category_5_groupId_59622",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Oct_DoubleEXP_Event_Twomission3.png"
+      },
+      {
+        "Title": "TH_Oct26_Topup_Payday_TGVoucher",
+        "Start": "1793293200",
+        "End": "1793379599",
+        "Link": "59801",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_Topup_Payday_TGVoucher.png"
+      },
+      {
+        "Title": "2026Sep_Unseen_Event_OverviewBG1_V2",
+        "Start": "1793034000",
+        "End": "1793120399",
+        "Link": "V2_category_5_groupId_59720",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Sep_Unseen_Event_OverviewBG1_V2.png"
+      },
+      {
+        "Title": "2026Aug_Baseline_Play_games_OverviewBG20",
+        "Start": "1793134800",
+        "End": "1793206799",
+        "Link": "V2_category_5_groupId_59724",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Aug_Baseline_Play_games_OverviewBG20.png"
+      },
+      {
+        "Title": "TH_Oct26_LW",
+        "Start": "1793120400",
+        "End": "1793206799",
+        "Link": "V2",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Oct26_LW.png"
+      }
+    ]
+  }
+}
