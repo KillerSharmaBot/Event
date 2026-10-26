@@ -1,0 +1,72 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.tiktok.com/@garenafreefirepkofficial"
+      },
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.instagram.com/freefirepkofficial/?hl=en"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.youtube.com/@FreeFirePakistanOfficial"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1752692400",
+        "End": "4119533999",
+        "LinkAlt": "https://www.facebook.com/freefireenn/?brand_redir=139274140865488#"
+      },
+      {
+        "Title": "WEAPON ADJUSTMENTS",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/OB55_NewWeaponAdjustmentNews_en.jpg",
+        "Start": "1792609200",
+        "End": "1793055599"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Faded Wheel UNSEEN CLAWS SKYDIVE",
+        "Start": "1793055600",
+        "End": "1793141999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_FadedWheelUnseenClawsSkydivePK_en.jpg"
+      },
+      {
+        "Title": "Unseen CG",
+        "Start": "1793055600",
+        "End": "1793141999",
+        "Link": "https://youtu.be/0Hg1C_q92Qg",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_UnseenCgPK_en.jpg"
+      },
+      {
+        "Title": "G36 x SKS Ring BRIDE'S REVENGE x HIGH VOLTAGE",
+        "Start": "1792969200",
+        "End": "1793055599",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_G36XSksRingBridesRevengeXHighVoltagePK_en.jpg"
+      },
+      {
+        "Title": "Unseen Interface",
+        "Start": "1792969200",
+        "End": "1793055599",
+        "Link": "V2_eventid_62_entranceId_0",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_UnseenInterfacePK_en.jpg"
+      }
+    ]
+  }
+}
