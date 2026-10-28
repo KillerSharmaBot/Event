@@ -1,0 +1,91 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Concurso CapCut",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Concurso_CapCut_1400x700_CPCTN.png",
+        "Link": "https://www.instagram.com/p/DexLpaGDcZF/?img_index=1",
+        "Start": "1792724400",
+        "End": "1793242799",
+        "LinkAlt": "https://www.instagram.com/p/DexLpaGDcZF/?img_index=1"
+      },
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Novas Armas",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/BR/New_Weapons_View_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1790838000",
+        "End": "1793415599",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "CS Temporada 39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/BR/CS_Season_39_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_6_Map_1_Game_15",
+        "Start": "1790838000",
+        "End": "1793501999",
+        "LinkAlt": "V2_Team_1_Match_6_Map_1_Game_15"
+      },
+      {
+        "Title": "Entenda as novidades!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/BR/KellyShow_Guns_1400x700_BR_pt.png",
+        "Link": "https://www.youtube.com/watch?v=kwqoPmzfvA0",
+        "Start": "1790751600",
+        "End": "1793415599",
+        "LinkAlt": "https://www.youtube.com/watch?v=kwqoPmzfvA0"
+      },
+      {
+        "Title": "Recompensas na Faixa!",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/The_Unseen_Rewards_1400x700_6H2TR.jpg",
+        "Start": "1792119600",
+        "End": "1793588399"
+      },
+      {
+        "Title": "Anime do Free Fire!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/DAYBREAK_PV_1400x700_BR_pt.jpg",
+        "Link": "https://www.youtube.com/watch?v=LfOYwhivOSk",
+        "Start": "1788231600",
+        "End": "1798772399",
+        "LinkAlt": "https://www.youtube.com/watch?v=LfOYwhivOSk"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Halloween G36 + Katana",
+        "Start": "1792983600",
+        "End": "1793069999",
+        "Link": "V2_drawShopId_550312",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Halloween_G36_Katana_1750x1070_ITGBQ.jpg"
+      },
+      {
+        "Title": "Halloween Skydive Backpack",
+        "Start": "1792983600",
+        "End": "1793069999",
+        "Link": "V2_drawShopId_550310",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Halloween_Skydive_Backpack_1750x1070_SE4JG.jpg"
+      },
+      {
+        "Title": "Halloween G36 + Katana",
+        "Start": "1793070000",
+        "End": "1793156399",
+        "Link": "V2_drawShopId_550312",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Halloween_G36_Katana_1750x1070_ITGBQ.jpg"
+      },
+      {
+        "Title": "Cat 2026 Collection OB55",
+        "Start": "1793070000",
+        "End": "1793156399",
+        "Link": "V2",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Cat_2026_Collection_OB55_1750x1070_DGLGR.jpg"
+      }
+    ]
+  }
+}
