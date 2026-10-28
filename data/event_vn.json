@@ -1,0 +1,51 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Khảo sát người chơi",
+        "Link": "https://survey-site.com?fid=148550bd3ae4d5e11f7d935832a0b422&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1792468800",
+        "End": "1793206800",
+        "LinkAlt": "https://survey-site.com?fid=148550bd3ae4d5e11f7d935832a0b422&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "QUÀ FREE",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/VN/2026/10/ffxsp.png",
+        "Link": "https://www.facebook.com/share/p/19VNUoDK2c/",
+        "Start": "1791988200",
+        "End": "1793206799",
+        "LinkAlt": "https://www.facebook.com/share/p/19VNUoDK2c/"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FW1: G36 - Bride's Revenge",
+        "Start": "1793293200",
+        "End": "1793465999",
+        "Link": "19"
+      },
+      {
+        "Title": "TW3: Inner Devil Bundle",
+        "Start": "1793120400",
+        "End": "1793293199",
+        "Link": "89"
+      }
+    ]
+  }
+}
