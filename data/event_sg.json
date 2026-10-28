@@ -1,0 +1,94 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.instagram.com/freefiremalaysiaofficial/"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.facebook.com/freefiremalaysia/"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.youtube.com/@freefiremalaysiaofficial"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.tiktok.com/@freefiremalaysiaofficial"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Unseen Interface",
+        "Start": "1793131200",
+        "End": "1793217599",
+        "Link": "V2_eventid_62_entranceId_0",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_UnseenInterfaceSG_en.jpg"
+      },
+      {
+        "Title": "Unseen CG",
+        "Start": "1793390400",
+        "End": "1793476799",
+        "Link": "https://youtu.be/HTHdy4gXORk",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_UnseenCgSG_en.jpg"
+      },
+      {
+        "Title": "LUMINOUS CARNIVAL",
+        "Start": "1793325600",
+        "End": "1793390399",
+        "Link": "https://carnival.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_LuminousCarnivalSG_en.jpg"
+      },
+      {
+        "Title": "Unseen Moves",
+        "Start": "1793217600",
+        "End": "1793303999",
+        "Link": "V2_category_5_groupID_26102801",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_UnseenMovesSG_en.jpg"
+      },
+      {
+        "Title": "LUMINOUS CARNIVAL",
+        "Start": "1793390400",
+        "End": "1793476799",
+        "Link": "https://carnival.sea.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_LuminousCarnivalSG_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel LA CALABAZA EMOTE",
+        "Start": "1793217600",
+        "End": "1793325599",
+        "Link": "V2_chestId_49",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_FadedWheelLaCalabazaEmoteSG_en.jpg"
+      },
+      {
+        "Title": "Unseen Moves",
+        "Start": "1793304000",
+        "End": "1793390399",
+        "Link": "V2_category_5_groupID_26102801",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_UnseenMovesSG_en.jpg"
+      },
+      {
+        "Title": "Phantom Ring NECRO WALKER BUNDLE x BONY SERIES",
+        "Start": "1793131200",
+        "End": "1793217599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_PhantomRingNecroWalkerBundleXBonySeriesSG_en.jpg"
+      }
+    ]
+  }
+}
