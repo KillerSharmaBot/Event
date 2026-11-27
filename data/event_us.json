@@ -1,0 +1,117 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "¿El Free sigue existiendo?",
+        "Banner": "OB55/US/bannera.png",
+        "Start": "1795323600",
+        "End": "1795841999",
+        "LinkAlt": "https://www.youtube.com/watch?v=cN-_-IoKz64"
+      },
+      {
+        "Title": "¡Ayúdanos!",
+        "Banner": "OB55/US/newsurvey.png",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1795730400",
+        "End": "1796014799",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "¡Se acaba el tiempo!",
+        "Banner": "OB55/US/tokensran.png",
+        "Start": "1795719600",
+        "End": "1797390000",
+        "LinkAlt": "V2_category_1_groupId_51116"
+      },
+      {
+        "Title": "¿El Free sigue existiendo?",
+        "Banner": "OB55/US/bannerb.png",
+        "Start": "1795323600",
+        "End": "1795841999",
+        "LinkAlt": "https://www.youtube.com/watch?v=cN-_-IoKz64"
+      },
+      {
+        "Title": "¡Ayúdanos!",
+        "Banner": "OB55/US/newsurvey.png",
+        "Details": "¡Gracias por apoyar a Free Fire! Ayúdanos a mejorar respondiendo una breve encuesta. Tu opinión es muy importante para nosotros. ¡EMPECEMOS!",
+        "Start": "1795730400",
+        "End": "1796014799",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "W2K Bundles + Dino Suits Relaunch",
+        "Start": "1795755600",
+        "End": "1795841999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/MYSW23958_1750x1070.png"
+      },
+      {
+        "Title": "W2K Bundles + Dino Suits Relaunch",
+        "Start": "1795842000",
+        "End": "1795859999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/MYSW23958_1750x1070.png"
+      },
+      {
+        "Title": "FFWS Global Finals (placeholder)",
+        "Start": "1795780801",
+        "End": "1795841999",
+        "Link": "V2_url_\"https://youtube.com/live/xMYXmESFkU8?feature=share\"",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/FFWSPLH01_1750x1070.png"
+      },
+      {
+        "Title": "Movement Emote",
+        "Start": "1795842000",
+        "End": "1795928399",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/FADMO1005_1750x1070.png"
+      },
+      {
+        "Title": "W2K Bundles + Dino Suits Relaunch",
+        "Start": "1795928400",
+        "End": "1796014799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/MYSW23958_1750x1070.png"
+      },
+      {
+        "Title": "Movement Emote",
+        "Start": "1795928400",
+        "End": "1796029199",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/FADMO1005_1750x1070.png"
+      },
+      {
+        "Title": "FFWS Global Finals",
+        "Start": "1795860000",
+        "End": "1795867200",
+        "Link": "V2_url_\"https://youtube.com/live/xMYXmESFkU8?feature=share\"",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/FFWSGLOB97_1750x1070.png"
+      },
+      {
+        "Title": "Movement Emote",
+        "Start": "1796014800",
+        "End": "1796101199",
+        "Link": "19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/FADMO1005_1750x1070.png"
+      },
+      {
+        "Title": "W2K Bundles + Dino Suits Relaunch",
+        "Start": "1795867201",
+        "End": "1795928399",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/MYSW23958_1750x1070.png"
+      },
+      {
+        "Title": "Ben 10 free rewards",
+        "Start": "1796029200",
+        "End": "1796101199",
+        "Link": "V2_category_1_groupId_51121",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB55/US/BENFR0001_1750x1070.png"
+      }
+    ]
+  }
+}
