@@ -1,0 +1,160 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Game Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795683600",
+        "End": "1795967999",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "The Latest Updates!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_ig_en.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.instagram.com/freefiremalaysiaofficial/"
+      },
+      {
+        "Title": "Game Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795683600",
+        "End": "1795967999",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enfb.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.facebook.com/freefiremalaysia/"
+      },
+      {
+        "Title": "Watch the Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_enyoutube.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.youtube.com/@freefiremalaysiaofficial"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_entiktok.jpg",
+        "Start": "1742745600",
+        "End": "1900598399",
+        "LinkAlt": "https://www.tiktok.com/@freefiremalaysiaofficial"
+      },
+      {
+        "Title": "Multi-map Bonus",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/UpdateBanner4_en.jpg",
+        "Details": "Hi Survivors,\n\nAs part of our ongoing work to improve the rank system, we're removing the multi-map bonus from the calculation of the BR rank score and CS Protection Points for now, effective from 19 Nov 2026 onwards.\n\nWith this change, your rank will better reflect how you actually perform in each match rather than how many maps you play. It also gives us more room to refine rank score calculation going forward.\n\nThank you for your understanding and also your continued support!",
+        "Start": "1794844800",
+        "End": "1796155199"
+      },
+      {
+        "Title": "Advanced Room Card",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ARCRemovalNews_en.jpg",
+        "Start": "1793649600",
+        "End": "1797364799",
+        "LinkAlt": "V2_category_1_groupID_26102805"
+      },
+      {
+        "Title": "FF Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795770000",
+        "End": "1795967999",
+        "LinkAlt": "https://ind.survey-site.com?fid=1b12a0e628b9016115bbef0127888101&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "EYE OF THE STORM",
+        "Start": "1795788000",
+        "End": "1795809599",
+        "Link": "V2_category_6_groupID_26111802",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_EyeOfTheStormSG_en.jpg"
+      },
+      {
+        "Title": "Dimensional Ring DIMENSIONAL BRUISER BUNDLE",
+        "Start": "1795788000",
+        "End": "1795809599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_DimensionalRingDimensionalBruiserBundleSG_en.jpg"
+      },
+      {
+        "Title": "FULL ANIMATION",
+        "Start": "1795881600",
+        "End": "1795895999",
+        "Link": "https://youtu.be/DpUKWLAmJUk?si=GkqjLUF084KdpOWp",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_StormArenaFullAnimationSG_en.jpg"
+      },
+      {
+        "Title": "FULL ANIMATION",
+        "Start": "1795896000",
+        "End": "1795982399",
+        "Link": "https://youtu.be/DpUKWLAmJUk?si=GkqjLUF084KdpOWp",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_StormArenaFullAnimationSG_en.jpg"
+      },
+      {
+        "Title": "FULL ANIMATION",
+        "Start": "1795809600",
+        "End": "1795859999",
+        "Link": "https://youtu.be/DpUKWLAmJUk?si=GkqjLUF084KdpOWp",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_StormArenaFullAnimationSG_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel COSMIC RULER ARRIVAL ANIMATION",
+        "Start": "1795881600",
+        "End": "1795895999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_FadedWheelCosmicRulerArrivalAnimationSG_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel COSMIC RULER ARRIVAL ANIMATION",
+        "Start": "1795809600",
+        "End": "1795859999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_FadedWheelCosmicRulerArrivalAnimationSG_en.jpg"
+      },
+      {
+        "Title": "Ben 10 TOPUP",
+        "Start": "1796022000",
+        "End": "1796068799",
+        "Link": "26112505",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_Ben10TopupSG_en.jpg"
+      },
+      {
+        "Title": "Ben 10 Is Here",
+        "Start": "1795982400",
+        "End": "1796021999",
+        "Link": "V2_category_5",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_Ben10IsHereSG_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel COSMIC RULER ARRIVAL ANIMATION",
+        "Start": "1795896000",
+        "End": "1795982399",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_FadedWheelCosmicRulerArrivalAnimationSG_en.jpg"
+      },
+      {
+        "Title": "Alien Force",
+        "Start": "1795982400",
+        "End": "1796068799",
+        "Link": "V2_category_5_groupID_26112502",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/BD/Splashanno/1750x1070_AlienForceSG_en.jpg"
+      },
+      {
+        "Title": "FFWS GF TikTok",
+        "Start": "1795860000",
+        "End": "1795881599",
+        "Link": "https://ffredirect.sea.freefiremobile.com/api/info?banner_id=bp65c7e67a73d9830eb1e4c732c2d5a7eb",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FFWS26GFSG_LastChanceTikTok_en.jpg"
+      }
+    ]
+  }
+}
