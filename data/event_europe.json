@@ -1,0 +1,125 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "ADVANCED ROOM CARD REMOVAL",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/Advanceroomcardiykyk_en.jpg",
+        "Start": "1793671200",
+        "End": "1797386399",
+        "LinkAlt": "V2_category_1_groupID_26060549"
+      },
+      {
+        "Title": "Game Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795705200",
+        "End": "1795989599",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "Game Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795705200",
+        "End": "1795989599",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "FF Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBannerEN1-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795791600",
+        "End": "1795989599",
+        "LinkAlt": "https://ind.survey-site.com?fid=1b12a0e628b9016115bbef0127888101&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Ben 10 TOP-UP",
+        "Start": "1796043600",
+        "End": "1796090399",
+        "Link": "V2_TabType_11_GroupId_26060584",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Ben_10_TOP_UPEU_1750x1070_A1VM1YX4_en.jpg"
+      },
+      {
+        "Title": "Ben 10 Is Here",
+        "Start": "1796004000",
+        "End": "1796043599",
+        "Link": "V2_category_5_groupID",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_Ben10_Hero_TimeEU_744140EB_en.jpg"
+      },
+      {
+        "Title": "Dimensional Ring: DIMENSIONAL BRUISER BUNDLE",
+        "Start": "1795744800",
+        "End": "1795831199",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Dimensional_Ring_DIMENSIONAL_BRUISER_BUNDLEEU_1750x1070_A05CYHQF_en.jpg"
+      },
+      {
+        "Title": "FF Anime Trailer",
+        "Start": "1795946400",
+        "End": "1796003999",
+        "Link": "https://youtu.be/_BF0PEy8qpc",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FF_Anime_TrailerEU_1750x1070_A0IM83DO_en.jpg"
+      },
+      {
+        "Title": "EYE OF THE STORM",
+        "Start": "1795744800",
+        "End": "1795831199",
+        "Link": "V2_category_6_groupID_26060571",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/EYE_OF_THE_STORMEU_1750x1070_A13V9JYR_en.jpg"
+      },
+      {
+        "Title": "FULL ANIMATION",
+        "Start": "1795831200",
+        "End": "1795917599",
+        "Link": "https://youtu.be/UlrkEQUgL5M",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FULL_ANIMATIONEU1_1750x1070_A0MLLKYH_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: COSMIC RULER ARRIVAL ANIMATION",
+        "Start": "1795831200",
+        "End": "1795917599",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Faded_Wheel_COSMIC_RULER_ARRIVAL_ANIMATIONEU_1750x1070_A12AN6U7_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: COSMIC RULER ARRIVAL ANIMATION",
+        "Start": "1795917600",
+        "End": "1796003999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Faded_Wheel_COSMIC_RULER_ARRIVAL_ANIMATIONEU_1750x1070_A12AN6U7_en.jpg"
+      },
+      {
+        "Title": "Alien Force",
+        "Start": "1796004000",
+        "End": "1796090399",
+        "Link": "V2_category_5_groupID_26060581",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Alien_ForceEU_1750x1070_A1VJBZMX_en.jpg"
+      }
+    ]
+  }
+}
