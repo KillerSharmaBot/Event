@@ -1,0 +1,99 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "FF Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795777200",
+        "End": "1795975199",
+        "LinkAlt": "https://ind.survey-site.com?fid=1b12a0e628b9016115bbef0127888101&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Game Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795690800",
+        "End": "1795975199",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Game Survey",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/SurveryBanner1EN-336x580.jpg",
+        "Details": "Dear Survivors,\n\nIn order for us to understand you better, and to help improve the game for you, please take a few minutes of your time to fill in this survey.\n\nThank you for your cooperation!",
+        "Start": "1795690800",
+        "End": "1795975199",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ADVANCED ROOM CARD",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1400x700_AdvancedRoomCardRemovalAnno1103BD_en.jpg",
+        "Start": "1793656800",
+        "End": "1797371999",
+        "LinkAlt": "V2_category_1_groupID_105136"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[ALL] Alien Force",
+        "Start": "1795989600",
+        "End": "1796075999",
+        "Link": "V2_category_9_groupID_1052211",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_AlienForceSplash1130BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFWS GF - Grand Finals",
+        "Start": "1795861800",
+        "End": "1795903199",
+        "Link": "https://youtube.com/live/ck53mk5hjPo?feature=share"
+      },
+      {
+        "Title": "[ALL] EYE OF THE STORM",
+        "Start": "1795730400",
+        "End": "1795816799",
+        "Link": "V2_category_5_groupID_105197",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_EYEOFTHESTORMSplash1124BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFBPL S5 Reg Open",
+        "Start": "1795903200",
+        "End": "1795989599"
+      },
+      {
+        "Title": "[BD] FFBPL S5 Reg Close",
+        "Start": "1795989600",
+        "End": "1796075999"
+      },
+      {
+        "Title": "Faded Wheel: COSMIC RULER ARRIVAL ANIMATION**",
+        "Start": "1795816800",
+        "End": "1795861799",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FadedWheelCOSMICRULERARRIVALANIMATIONSplash1128BD_en.jpg"
+      },
+      {
+        "Title": "[ALL] FULL ANIMATION",
+        "Start": "1795816800",
+        "End": "1795903199",
+        "Link": "https://youtu.be/6X7avGvIceo",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FULLANIMATIONSplash1106BD_en.jpg"
+      },
+      {
+        "Title": "[ALL] FF Anime Trailer",
+        "Start": "1795932000",
+        "End": "1795989599",
+        "Link": "https://youtu.be/1HVgV3wIZB4",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FFAnimeTrailerSplash1129BD_en.jpg"
+      },
+      {
+        "Title": "[BD] FFWS GF - Last Chance",
+        "Start": "1795773600",
+        "End": "1795816799",
+        "Link": "https://youtube.com/live/0rCSlVmAdOc?feature=share",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FFWSGFLastChanceSplash1127BD_en.jpg"
+      }
+    ]
+  }
+}
