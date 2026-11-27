@@ -1,0 +1,266 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "สมัครเข้าร่วม การแข่งขัน",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260107-ANC_NutTour_1400x700.ff_extend",
+        "Start": "1767754800",
+        "End": "2086549199",
+        "LinkAlt": "https://esports.freefire.in.th?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Red Bull x Free Fire",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261113-ANC_Redbull26V2_1400x700.ff_extend",
+        "Start": "1794546000",
+        "End": "1798736399",
+        "LinkAlt": "https://redbulltcp.freefiremobile.com/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "แจ้งจับแฮคเกอร์",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261107-ANC_HackerAnnouncement_1400x700.ff_extend",
+        "Start": "1794027600",
+        "End": "2111504399",
+        "LinkAlt": "https://fairplay.freefire.in.th/"
+      },
+      {
+        "Title": "คอนเทนต์ปังเอาตังไป: FFWS GF 26",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261106-ANC_GIP_Nov26V2_1400x700.ff_extend",
+        "Start": "1793941200",
+        "End": "1795885199",
+        "LinkAlt": "https://snssdk1233.onelink.me/bIdt?af_force_deeplink=true&af_dp=snssdk1233%3A%2F%2Fwebcast_game_detail%3Fbusiness%3Dleaderboard%26leader_board_id%3D7703741467870366484%26gip_channel%3Dshare"
+      },
+      {
+        "Title": "จะสิ้นปีแล้วยังไม่ตอบพี่อีกหรอ",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "GM อยากกระทบไหล่คนตึง \n\n\n\nมาร่วมทดสอบฟีเจอร์ใหม่กับทีมงาน \n\n\n\nคราวนี้เปิดรับสองรอบเลยนะ สมัครเลย \n\n\n\n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 29 พฤศจิกายน 2569 เวลา 23:59 น. \n\n\n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1795687200",
+        "End": "1795971599",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "กรอกไอเทมโค้ดที่นี่",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/TH_ItemCodeRedeem_Anc.jpg",
+        "Start": "1688662800",
+        "End": "4102419599",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "มาลองฟีเจอร์ใหม่กับพี่ไหมน้อง",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/SurveyThemeKairos_336x580.ff_extend",
+        "Details": "GM อยากกระทบไหล่คนตึง \n\n\n\nมาร่วมทดสอบฟีเจอร์ใหม่กับทีมงาน \n\n\n\nคราวนี้เปิดรับสองรอบเลยนะ สมัครเลย \n\n\n\n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 13 ธันวาคม 2569 เวลา 23:59 น. \n\n\n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1795428000",
+        "End": "1797181199",
+        "LinkAlt": "https://survey-site.com?fid=2f94aec7aa9b61b5070ed001215aac65&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "FFWS GF 2026 แจกฟรีทั้งงาน",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261123-ANC_FFWSGF2026Reward_1400x700.ff_extend",
+        "Start": "1795410000",
+        "End": "1795885199",
+        "LinkAlt": "https://www.facebook.com/share/p/1MB8yN9SWy/?mibextid=wwXIfr"
+      },
+      {
+        "Title": "เล่นฟีฟายไม่ใช้เน็ต!!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_FFnoNet_1400x700.ff_extend",
+        "Start": "1775620800",
+        "End": "1808449199",
+        "LinkAlt": "V2_tabType_0"
+      },
+      {
+        "Title": "จะสิ้นปีแล้วยังไม่ตอบพี่อีกหรอ",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "GM อยากกระทบไหล่คนตึง \n\n\n\nมาร่วมทดสอบฟีเจอร์ใหม่กับทีมงาน \n\n\n\nคราวนี้เปิดรับสองรอบเลยนะ สมัครเลย \n\n\n\n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 29 พฤศจิกายน 2569 เวลา 23:59 น. \n\n\n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1795687200",
+        "End": "1795971599",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "มาม่า x ฟีฟาย",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261114-ANC_FreeFirexMamaAnnouncement_V2_1400x700.ff_extend",
+        "Start": "1794632400",
+        "End": "1796122799",
+        "LinkAlt": " https://redeem.ff.garena.in.th/?access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "ฟีฟายแจกฉ่ำตลอดปี",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260408-ANC_MonthlyGIP2_1400x700.ff_extend",
+        "Start": "1775617200",
+        "End": "1808758799",
+        "LinkAlt": "https://vt.tiktok.com/ZS98vuNw1PhPs-EZozF/"
+      },
+      {
+        "Title": "กิจกรรมซัดมาม่าล่าไอเทมโค้ด",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261114-ANC_FreeFirexMamaUGCChallenge_1400x700.ff_extend",
+        "Start": "1794632400",
+        "End": "1796122799",
+        "LinkAlt": "https://forms.gle/G3JTicDW4DMPV4V67"
+      },
+      {
+        "Title": "4v4ไม่ดีตรงไหนบอกหน่อย!!",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/SurveyThemeMoco_336x580.ff_extend",
+        "Details": "ทำไมบางคนไม่ชอบ4v4 \n\n\n\nโหมดนี้ไม่ดีตรงไหน \n\n\n\nมาบอกพี่ GM หน่อยยย!! \n\n\n\n\nระยะเวลาตอบแบบสำรวจถึงวันที่ 29 พฤศจิกายน 2569 เวลา 23:59 น. \n\n\n\nขออภัยหากตอบแบบสอบถามแล้ว",
+        "Start": "1795773600",
+        "End": "1795971599",
+        "LinkAlt": "https://ind.survey-site.com?fid=1b12a0e628b9016115bbef0127888101&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Shopee แจกไอเทม",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Announcement/20261101-ANC_ShopeeGivereward2_1400x700.ff_extend",
+        "Start": "1793498400",
+        "End": "1796057999",
+        "LinkAlt": "https://u.shopee.co.th/FQxW5Jq"
+      },
+      {
+        "Title": "รับสมัครครีเอเตอร์ฟีฟาย",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/TH/Announcement/20260706-ANC_CreatorFreeFireWeb_1400x700.ff_extend",
+        "Start": "1783321200",
+        "End": "1909587599",
+        "LinkAlt": "https://creatorprogram.garena.in.th/ff/"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TH_Nov26_TW4_TriOgun_SMM",
+        "Start": "1795798800",
+        "End": "1795885199",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_TW4_TriOgun_SMM.png"
+      },
+      {
+        "Title": "TH_Nov26_Topup_Payday_TGVoucher",
+        "Start": "1795798800",
+        "End": "1795885199",
+        "Link": "60200",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_Topup_Payday_TGVoucher.png"
+      },
+      {
+        "Title": "TH_Nov26_FFWS_Offline_Preheat2",
+        "Start": "1795712400",
+        "End": "1795798799",
+        "Link": "https://survey-site.com?fid=2f94aec7aa9b61b5070ed001215aac65&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_FFWS_Offline_Preheat2.png"
+      },
+      {
+        "Title": "TH_Nov26_TW4_TriOgun_SMM",
+        "Start": "1795712400",
+        "End": "1795798799",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_TW4_TriOgun_SMM.png"
+      },
+      {
+        "Title": "TH_Nov26_FFWS_Offline",
+        "Start": "1795798800",
+        "End": "1795885199",
+        "Link": "https://survey-site.com?fid=2f94aec7aa9b61b5070ed001215aac65&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_FFWS_Offline.png"
+      },
+      {
+        "Title": "2026Nov_Baseline_Play_games_OverviewBG13",
+        "Start": "1795971600",
+        "End": "1796057999",
+        "Link": "V2_category_5_groupId_59926",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Nov_Baseline_Play_games_OverviewBG13.png"
+      },
+      {
+        "Title": "TH_Nov26_LW",
+        "Start": "1795971600",
+        "End": "1796057999",
+        "Link": "V2",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_LW.png"
+      },
+      {
+        "Title": "TH_Nov26_LW",
+        "Start": "1795798800",
+        "End": "1795885199",
+        "Link": "V2",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_LW.png"
+      },
+      {
+        "Title": "TH_Nov26_TW4_TriOgun_SMM",
+        "Start": "1795885200",
+        "End": "1795971599",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_TW4_TriOgun_SMM.png"
+      },
+      {
+        "Title": "2026Nov_SA_store_OverviewBG1_V2",
+        "Start": "1795885200",
+        "End": "1795971599",
+        "Link": "V2_category_5_groupId_59921",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Nov_SA_store_OverviewBG1_V2.png"
+      },
+      {
+        "Title": "GF_Grand_Finals",
+        "Start": "1795860000",
+        "End": "1795881600",
+        "Link": "https://youtube.com/live/04WWZJca1r0?feature=share",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/GF_Grand_Finals.png"
+      },
+      {
+        "Title": "2026DEC_BEN10_OverviewBG1",
+        "Start": "1795986000",
+        "End": "1796057999",
+        "Link": "V2_category_5_groupId_60120",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026DEC_BEN10_OverviewBG1.png"
+      },
+      {
+        "Title": "TH_Nov26_LW",
+        "Start": "1795885200",
+        "End": "1795971599",
+        "Link": "V2",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_LW.png"
+      },
+      {
+        "Title": "TH_Nov26_Survey1",
+        "Start": "1795971600",
+        "End": "1796057999",
+        "Link": "https://survey-site.com?fid=2f94aec7aa9b61b5070ed001215aac65&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_Survey1.png"
+      },
+      {
+        "Title": "TH_Nov26_Topup_Payday_TGVoucher",
+        "Start": "1795885200",
+        "End": "1795971599",
+        "Link": "60200",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_Topup_Payday_TGVoucher.png"
+      },
+      {
+        "Title": "TH_Nov26_TG2_Illusion",
+        "Start": "1795712400",
+        "End": "1795798799",
+        "Link": "V2_chestId_62",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_TG2_Illusion.png"
+      },
+      {
+        "Title": "2026Nov_SA_Twomission3",
+        "Start": "1795885200",
+        "End": "1795971599",
+        "Link": "V2_category_5_groupId_59925",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Nov_SA_Twomission3.png"
+      },
+      {
+        "Title": "2026Nov_DaybreakTrailer2",
+        "Start": "1795971600",
+        "End": "1796057999",
+        "Link": "https://youtu.be/zX2cx9Wu5Go",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Nov_DaybreakTrailer2.png"
+      },
+      {
+        "Title": "TH_Nov26_TW4_TriOgun_SMM",
+        "Start": "1795971600",
+        "End": "1796057999",
+        "Link": "V2_chestId_99",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/TH_Nov26_TW4_TriOgun_SMM.png"
+      },
+      {
+        "Title": "2026Nov_DaybreakTrailer2",
+        "Start": "1795928400",
+        "End": "1795971599",
+        "Link": "https://youtu.be/zX2cx9Wu5Go",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/TH/Splash/2026Nov_DaybreakTrailer2.png"
+      }
+    ]
+  }
+}
