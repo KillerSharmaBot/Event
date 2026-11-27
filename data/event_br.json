@@ -1,0 +1,159 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Armas na Faixa!",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Mshop_November_Ann5_1400x700_8XSAS.png",
+        "Start": "1795748400",
+        "End": "1795921199"
+      },
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Agradecemos seu apoio a Free Fire! Ajude-nos a fazer melhorias respondendo a este questionário. Analisaremos suas opiniões com cuidado. VAMOS COMEÇAR!",
+        "Start": "1795723200",
+        "End": "1796007599",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Últimos dias dos clássicos",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Classics_are_back_rank_store_1400x700_AZ5BN.png",
+        "Link": "V2_category_10_groupId_9524",
+        "Start": "1794798000",
+        "End": "1797389999",
+        "LinkAlt": "V2_category_10_groupId_9524"
+      },
+      {
+        "Title": "Jogue BR: Frenesi!",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Mini_BR_1400x700_N9QNS.png",
+        "Link": "V2_Team_4_Match_1_Map_1_Game_85",
+        "Start": "1794538800",
+        "End": "1796093999",
+        "LinkAlt": "V2_Team_4_Match_1_Map_1_Game_85"
+      },
+      {
+        "Title": "Sobre a Verificação",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Age_Verification_1400x700_T89ZR.png",
+        "Link": "V2_SettingMainPage_1",
+        "Start": "1794625200",
+        "End": "1796093999",
+        "LinkAlt": "V2_SettingMainPage_1"
+      },
+      {
+        "Title": "Anime do Free Fire!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB54/BR/DAYBREAK_PV_1400x700_BR_pt.jpg",
+        "Link": "https://www.youtube.com/watch?v=LfOYwhivOSk",
+        "Start": "1788231600",
+        "End": "1798772399",
+        "LinkAlt": "https://www.youtube.com/watch?v=LfOYwhivOSk"
+      },
+      {
+        "Title": "CODIGUIN NO TIKTOK",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/TikTok_Esports_Drop_1400x700_ENMB9.jpg",
+        "Link": "https://www.tiktok.com/@ffesportsbr",
+        "Start": "1795489200",
+        "End": "1795921199",
+        "LinkAlt": "https://www.tiktok.com/@ffesportsbr"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Agradecemos seu apoio a Free Fire! Ajude-nos a fazer melhorias respondendo a este questionário. Analisaremos suas opiniões com cuidado. VAMOS COMEÇAR!",
+        "Start": "1795723200",
+        "End": "1796007599",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Nova Temporada BR",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/BR_S54_1400x700_F019Z.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1793527200",
+        "End": "1796093999",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Ink Stroke Travelling Emote + Gloo Wall + Scythe",
+        "Start": "1796007600",
+        "End": "1796093999",
+        "Link": "V2_drawShopId_550323",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Ink_Stroke_Travelling_Emote_Gloo_Wall_Scythe_1750x1070_S722C.jpg"
+      },
+      {
+        "Title": "Paradox Legendary Bundle + Gloo Wall + Backpack",
+        "Start": "1795834800",
+        "End": "1795921199",
+        "Link": "V2_drawShopId_550204",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Paradox_Legendary_Bundle_Gloo_Wall_Backpack_1750x1070_WD7ET.jpg"
+      },
+      {
+        "Title": "Ink Stroke Bundle",
+        "Start": "1795878000",
+        "End": "1795921199",
+        "Link": "V2_drawShopId_550112",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Ink_Stroke_Bundle_1750x1070_08L41.jpg"
+      },
+      {
+        "Title": "Paradox AK47",
+        "Start": "1795921200",
+        "End": "1796007599",
+        "Link": "V2_drawShopId_550110",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Paradox_AK47_1750x1070_LD39U.jpg"
+      },
+      {
+        "Title": "FFWS GLOBALS 12",
+        "Start": "1795861800",
+        "End": "1795877999",
+        "Link": "https://youtube.com/live/7Ww1Z-j_VwQ",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/FFWS_GLOBALS_12_1750x1070_UHHQT.jpg"
+      },
+      {
+        "Title": "Mshop November 3-4",
+        "Start": "1795748400",
+        "End": "1795834799",
+        "Link": "100625",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Mshop_November_34_1750x1070_L9ZFZ.jpg"
+      },
+      {
+        "Title": "Ink Stroke Bundle",
+        "Start": "1795834800",
+        "End": "1795861799",
+        "Link": "V2_drawShopId_550112",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Ink_Stroke_Bundle_1750x1070_08L41.jpg"
+      },
+      {
+        "Title": "Paradox Emote",
+        "Start": "1795791600",
+        "End": "1795834799",
+        "Link": "V2_drawShopId_550322",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Paradox_Emote_1750x1070_4IF05.jpg"
+      },
+      {
+        "Title": "Paradox Emote",
+        "Start": "1796007600",
+        "End": "1796093999",
+        "Link": "V2_drawShopId_550322",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Paradox_Emote_1750x1070_4IF05.jpg"
+      },
+      {
+        "Title": "Paradox Skywing + Skyboard + Grenade",
+        "Start": "1795921200",
+        "End": "1796007599",
+        "Link": "V2_drawShopId_550321",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB55/BR/Paradox_Skywing_Skyboard_Grenade_1750x1070_GZZIL.jpg"
+      }
+    ]
+  }
+}
