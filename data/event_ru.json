@@ -1,0 +1,101 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Личный Остров Комьюнити",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/craftlandcommunity_ru.png",
+        "Start": "1742158800",
+        "End": "4109086799",
+        "LinkAlt": "https://vk.com/club229722976"
+      },
+      {
+        "Title": "УДАЛЕНИЕ КАРТ ПРОДВ. КОМНАТЫ",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1400x700_AdvancedRoomCardRemovalAnno1103RU_ru.jpg",
+        "Start": "1793667600",
+        "End": "1797382799",
+        "LinkAlt": "V2_category_1_groupID_95924"
+      },
+      {
+        "Title": "БЫСТРЫЕ КЛИПЫ, БОЛЬШИЕ ХИТЫ!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700TT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.tiktok.com/@freefirecis"
+      },
+      {
+        "Title": "НАБЛЮДАЙТЕ ЗА РАЗВИТИЕМ БИТВЫ",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700YT_ru.jpg",
+        "Start": "1742763600",
+        "End": "4109605199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireRussia"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "Dimensional Ring: DIMENSIONAL BRUISER BUNDLE*",
+        "Start": "1795741200",
+        "End": "1795827599",
+        "Link": "V2_chestId_89",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_DimensionalRingDIMENSIONALBRUISERBUNDLESplash1126RU_ru.jpg"
+      },
+      {
+        "Title": "[ALL] EYE OF THE STORM",
+        "Start": "1795741200",
+        "End": "1795827599",
+        "Link": "V2_category_5_groupID_95951",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_EYEOFTHESTORMSplash1124RU_ru.jpg"
+      },
+      {
+        "Title": "Ben 10 TOP-UP*",
+        "Start": "1796040001",
+        "End": "1796086799",
+        "Link": "V2_TabType_11_GroupId_95964",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_Ben10TOPUPSplash1130RU_ru.jpg"
+      },
+      {
+        "Title": "Faded Wheel: COSMIC RULER ARRIVAL ANIMATION**",
+        "Start": "1795827600",
+        "End": "1795913999",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FadedWheelCOSMICRULERARRIVALANIMATIONSplash1128RU_ru.jpg"
+      },
+      {
+        "Title": "[ALL] FF Anime Trailer",
+        "Start": "1795942800",
+        "End": "1796000399",
+        "Link": "https://youtu.be/cSbMXjb7Edk",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FFAnimeTrailerSplash1129RU_ru.jpg"
+      },
+      {
+        "Title": "Faded Wheel: COSMIC RULER ARRIVAL ANIMATION**",
+        "Start": "1795914000",
+        "End": "1796000399",
+        "Link": "V2_chestId_39",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FadedWheelCOSMICRULERARRIVALANIMATIONSplash1128RU_ru.jpg"
+      },
+      {
+        "Title": "[ALL] Alien Force",
+        "Start": "1796000400",
+        "End": "1796086799",
+        "Link": "V2_category_5_groupID_959611",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_AlienForceSplash1130RU_ru.jpg"
+      },
+      {
+        "Title": "[ALL] FULL ANIMATION",
+        "Start": "1795827600",
+        "End": "1795913999",
+        "Link": "https://youtu.be/yiLUGVmd_bA",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_FULLANIMATIONSplash1113RU_ru.jpg"
+      },
+      {
+        "Title": "Ben 10 is here",
+        "Start": "1796000400",
+        "End": "1796040000",
+        "Link": "V2_category_5",
+        "Banner": "https://cdn.wildflamestudio.com/common/Local/IND/config/1750x1070_Ben10isHereSplash1130RU_ru.jpg"
+      }
+    ]
+  }
+}
