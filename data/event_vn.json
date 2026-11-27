@@ -1,0 +1,64 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Khảo sát Tử Chiến",
+        "Link": "https://ind.survey-site.com?fid=1b12a0e628b9016115bbef0127888101&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1795773600",
+        "End": "1795971600",
+        "LinkAlt": "https://ind.survey-site.com?fid=1b12a0e628b9016115bbef0127888101&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Khảo sát phiên bản",
+        "Link": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1795687200",
+        "End": "1795971600",
+        "LinkAlt": "https://ind.survey-site.com?fid=c40d1fb4d84dcf0c3cde826b1604b053&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "NƠI NHẬP GIFTCODE",
+        "Link": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>",
+        "Start": "1704733200",
+        "End": "4091965199",
+        "LinkAlt": "https://reward.ff.garena.com/vn?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Cộng Đồng Free Fire Việt Nam",
+        "Link": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client",
+        "Start": "1723482000",
+        "End": "4091965199",
+        "LinkAlt": "https://sl.garena.vn/ff/comhomepage?garena_token=<GARENA_TOKEN>&language=<FF_LANGUAGE>&utm_source=client"
+      },
+      {
+        "Title": "Ra Mắt Free Fire VN",
+        "Banner": "https://cdn.wildflamestudio.com/common/OB54/VN/Community/FFVN1611_1.png",
+        "Start": "1794801600",
+        "End": "1798736399"
+      },
+      {
+        "Title": "Bình Chọn Free Fire Awards 2026",
+        "Link": "https://vinhdanh.ff.garena.vn/vote?region=<FF_REGION>&lang=<FF_LANGUAGE>&garena_token=<GARENA_TOKEN>",
+        "Start": "1795060800",
+        "End": "1796232600",
+        "LinkAlt": "https://vinhdanh.ff.garena.vn/vote?region=<FF_REGION>&lang=<FF_LANGUAGE>&garena_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Khảo sát phiên bản",
+        "Link": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Start": "1795687200",
+        "End": "1795971600",
+        "LinkAlt": "https://ind.survey-site.com?fid=a6a536d8626eae0694dc7ae97ccda117&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "TW3: AUG Incu RAMPAGE4",
+        "Start": "1795712400",
+        "End": "1796057940",
+        "Link": "89"
+      }
+    ]
+  }
+}
